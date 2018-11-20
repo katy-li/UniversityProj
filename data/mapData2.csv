@@ -1,0 +1,1268 @@
+UNITID,Name,City,State,private_public,highestDegree,LATITUDE,LONGITUDE,SAT_AVG,ADM_RATE,TUITIONFEE_IN,TUITIONFEE_OUT,DEBT_MDN,GRAD_DEBT_MDN
+243744,Stanford University,Stanford,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.429434,-122.167359,1476,0.0481,47940,47940,10873.5,11446.5
+166027,Harvard University,Cambridge,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.374471,-71.118313,1506,0.054,47074,47074,7000,6100
+130794,Yale University,New Haven,CT,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.311158,-72.926688,1502,0.0632,49480,49480,12000,12000
+186131,Princeton University,Princeton,NJ,Private not-for-profit,Doctor's degree - research/scholarship,40.348732,-74.659365,1493,0.0652,45320,45320,7500,7500
+190150,Columbia University in the City of New York,New York,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.808286,-73.961885,1496,0.0683,55056,55056,18794,21406
+144050,University of Chicago,Chicago,IL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.787994,-87.599539,1508,0.0794,53649,53649,14853,15900
+166683,Massachusetts Institute of Technology,Cambridge,MA,Private not-for-profit,Doctor's degree - research/scholarship,42.360095,-71.092115,1519,0.0794,48452,48452,15346,17125
+110404,California Institute of Technology,Pasadena,CA,Private not-for-profit,Doctor's degree - research/scholarship,34.137349,-118.125878,1555,0.0807,47577,47577,11500,12178.5
+217156,Brown University,Providence,RI,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.82617,-71.40385,1459,0.0931,51366,51366,15439,16125
+112260,Claremont McKenna College,Claremont,CA,Private not-for-profit,Master's degree,34.102154,-117.711188,1413,0.0944,50945,50945,13000,14500
+121345,Pomona College,Claremont,CA,Private not-for-profit,Bachelor's degree,34.098298,-117.711944,1442,0.0944,49352,49352,11700,13400
+215062,University of Pennsylvania,Philadelphia,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.950929,-75.19391,1481,0.0944,51464,51464,12500,12988
+441982,Franklin W. Olin College of Engineering,Needham,MA,Private not-for-profit,Bachelor's degree,42.292842,-71.264047,1490,0.1019,49986,49986,14857,16028
+182670,Dartmouth College,Hanover,NH,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,43.704115,-72.289949,1441,0.1059,51438,51438,12000,14819
+147767,Northwestern University,Evanston,IL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.050356,-87.679858,1470,0.1066,50855,50855,16500,17500
+221999,Vanderbilt University,Nashville,TN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,36.14659,-86.803369,1495,0.1075,45610,45610,13439.5,14500
+198419,Duke University,Durham,NC,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,36.001135,-78.937624,1460,0.1083,51265,51265,9000,9200
+160630,Southern University at New Orleans,New Orleans,LA,Public,Master's degree,30.026162,-90.044912,850,0.1154,6421,15322,18632,29983
+216287,Swarthmore College,Swarthmore,PA,Private not-for-profit,Bachelor's degree,39.905159,-75.354278,1421,0.128,49104,49104,17673,19500
+162928,Johns Hopkins University,Baltimore,MD,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.328977,-76.621595,1476,0.1284,50410,50410,12645,13500
+115409,Harvey Mudd College,Claremont,CA,Private not-for-profit,Bachelor's degree,34.106515,-117.709837,1496,0.1287,52666,52666,21254,23500
+164465,Amherst College,Amherst,MA,Private not-for-profit,Bachelor's degree,42.372459,-72.518493,1451,0.1369,52476,52476,12000,13000
+190415,Cornell University,Ithaca,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.4472,-76.483084,1436,0.1409,50953,50953,12305,12742
+178697,College of the Ozarks,Point Lookout,MO,Private not-for-profit,Bachelor's degree,36.616019,-93.238174,1071,0.1422,18930,18930,PrivacySuppressed,PrivacySuppressed
+168148,Tufts University,Medford,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.408465,-71.120316,1445,0.1429,52430,52430,16052,17500
+227757,Rice University,Houston,TX,Private not-for-profit,Doctor's degree - research/scholarship,29.717897,-95.402035,1490,0.1527,43918,43918,10000,11200
+230959,Middlebury College,Middlebury,VT,Private not-for-profit,Doctor's degree - research/scholarship,44.009117,-73.176068,1394,0.1614,50063,50063,11995,13625
+174525,Oak Hills Christian College,Bemidji,MN,Private not-for-profit,Bachelor's degree,47.425836,-94.901503,874,0.1636,16980,16980,11750,25250
+179867,Washington University in St Louis,Saint Louis,MO,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,38.647929,-90.310604,1472,0.1653,49770,49770,18500,19500
+123961,University of Southern California,Los Angeles,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,34.021281,-118.284169,1395,0.1662,52283,52283,21250,22120
+189097,Barnard College,New York,NY,Private not-for-profit,Bachelor's degree,40.810098,-73.963346,1375,0.1674,50394,50394,16964,18000
+131496,Georgetown University,Washington,DC,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,38.908809,-77.073463,1422,0.1685,50547,50547,14750,15494.5
+110635,University of California-Berkeley,Berkeley,CA,Public,Doctor's degree - research/scholarship and professional practice,37.871918,-122.260463,1422,0.1693,13509,40191,12643,13200
+168342,Williams College,Williamstown,MA,Private not-for-profit,Master's degree,42.712725,-73.203132,1439,0.1761,51790,51790,13750,14489
+110662,University of California-Los Angeles,Los Angeles,CA,Public,Doctor's degree - research/scholarship and professional practice,34.068892,-118.443901,1334,0.1799,12920,39602,14544,15000
+161086,Colby College,Waterville,ME,Private not-for-profit,Bachelor's degree,44.564211,-69.66337,1383,0.1871,50960,50960,17799,19172
+152080,University of Notre Dame,Notre Dame,IN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.703058,-86.238959,1474,0.1873,49685,49685,20750,21434
+198385,Davidson College,Davidson,NC,Private not-for-profit,Bachelor's degree,35.499767,-80.843979,1353,0.2011,48376,48376,16489,18218
+153384,Grinnell College,Grinnell,IA,Private not-for-profit,Bachelor's degree,41.747952,-92.722094,1410,0.2019,48758,48758,13500,15600
+197027,United States Merchant Marine Academy,Kings Point,NY,Public,Master's degree,40.81357,-73.763004,1268,0.203,1167,1167,6500,9441
+212911,Haverford College,Haverford,PA,Private not-for-profit,Bachelor's degree,40.007452,-75.305207,1431,0.214,51259,51259,11944,13000
+211440,Carnegie Mellon University,Pittsburgh,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.44357,-79.941993,1458,0.2171,52310,52310,24500,26462
+156189,Alice Lloyd College,Pippa Passes,KY,Private not-for-profit,Bachelor's degree,37.335087,-82.875068,1010,0.2219,11550,11550,9000,17160
+173258,Carleton College,Northfield,MN,Private not-for-profit,Bachelor's degree,44.462318,-93.154666,1413,0.2262,50874,50874,19401,20000
+224244,Dallas Christian College,Dallas,TX,Private not-for-profit,Bachelor's degree,32.913698,-96.887124,886,0.2267,17454,17454,12500,29750
+215594,The Reading Hospital School of Health Sciences,Reading,PA,Private not-for-profit,Non-degree granting,40.32606,-75.950474,932,0.2273,9825,9825,12138,15485
+187967,New Mexico Institute of Mining and Technology,Socorro,NM,Public,Doctor's degree - research/scholarship,34.067041,-106.905211,1195,0.2345,6891,20041,11709.5,19500
+228325,Southwestern Assemblies of God University,Waxahachie,TX,Private not-for-profit,Master's degree,32.40443,-96.853492,980,0.2347,19560,19560,13750,26046
+234207,Washington and Lee University,Lexington,VA,Private not-for-profit,Doctor's degree -  professional practice,37.788939,-79.443018,1396,0.2358,48267,48267,19500,19917
+232557,Liberty University,Lynchburg,VA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.350232,-79.18222,1094,0.2438,21292,21292,14016,24483
+140720,Paine College,Augusta,GA,Private not-for-profit,Bachelor's degree,33.469545,-81.993225,745,0.2458,14224,14224,16000,35000
+164580,Babson College,Wellesley,MA,Private not-for-profit,Master's degree,42.299958,-71.265585,1281,0.2459,48288,48288,24875,26000
+139658,Emory University,Atlanta,GA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,33.790183,-84.325512,1397,0.2529,47954,47954,18222,19250
+160755,Tulane University of Louisiana,New Orleans,LA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,29.940069,-90.122144,1346,0.255,51010,51010,22000,27000
+139755,Georgia Institute of Technology-Main Campus,Atlanta,GA,Public,Doctor's degree - research/scholarship,33.77242,-84.394832,1417,0.2577,12212,32404,21500,23750
+131159,American University,Washington,DC,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,38.936005,-77.088875,1262,0.2591,44853,44853,19926,23250
+191515,Hamilton College,Clinton,NY,Private not-for-profit,Bachelor's degree,43.050245,-75.408195,1402,0.2608,51240,51240,16565,17000
+213543,Lehigh University,Bethlehem,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.606822,-75.380236,1340,0.2611,48320,48320,21500,23575
+139719,Fort Valley State University,Fort Valley,GA,Public,Master's degree,32.537595,-83.89537,855,0.2645,5594,5594,24250,35980
+243142,University of Puerto Rico-Carolina,Carolina,PR,Public,Bachelor's degree,18.391471,-65.989694,1028,0.265,3107,6139,4500,4791.5
+203535,Kenyon College,Gambier,OH,Private not-for-profit,Bachelor's degree,40.374408,-82.397977,1359,0.2658,51200,51200,17000,18500
+197133,Vassar College,Poughkeepsie,NY,Private not-for-profit,Master's degree,41.686895,-73.895088,1409,0.2688,53090,53090,15500,16250
+199120,University of North Carolina at Chapel Hill,Chapel Hill,NC,Public,Doctor's degree - research/scholarship and professional practice,35.911769,-79.050969,1338,0.2694,8834,33916,15000,16661
+230047,Brigham Young University-Hawaii,Laie,HI,Private not-for-profit,Bachelor's degree,21.642074,-157.926586,1096,0.2708,5240,5240,5500,8830.5
+176910,Central Christian College of the Bible,Moberly,MO,Private not-for-profit,Bachelor's degree,39.395963,-92.427259,1026,0.276,13700,13700,7971.5,16100
+204501,Oberlin College,Oberlin,OH,Private not-for-profit,Master's degree,41.291992,-82.216795,1364,0.2803,52002,52002,24931.5,27000
+213385,Lafayette College,Easton,PA,Private not-for-profit,Bachelor's degree,40.69956,-75.209786,1297,0.2829,49635,49635,22500,24788
+170976,University of Michigan-Ann Arbor,Ann Arbor,MI,Public,Doctor's degree - research/scholarship and professional practice,42.275921,-83.742769,1386,0.2859,14402,45410,18147.5,19153
+168218,Wellesley College,Wellesley,MA,Private not-for-profit,Bachelor's degree,42.291554,-71.306605,1403,0.2859,48802,48802,9675,10000
+190099,Colgate University,Hamilton,NY,Private not-for-profit,Master's degree,42.819475,-75.536346,1388,0.2878,51955,51955,15500,16125
+167358,Northeastern University,Boston,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.339992,-71.088782,1434,0.2888,47653,47653,25000,27000
+195526,Skidmore College,Saratoga Springs,NY,Private not-for-profit,Master's degree,43.097035,-73.785335,1240,0.2908,50834,50834,19000,19500
+197221,Webb Institute,Glen Cove,NY,Private not-for-profit,Bachelor's degree,40.884444,-73.644909,1480,0.2931,47400,47400,PrivacySuppressed,PrivacySuppressed
+179256,Saint Louis Christian College,Florissant,MO,Private not-for-profit,Bachelor's degree,38.775771,-90.294569,780,0.2941,11240,11240,21500,29000
+164988,Boston University,Boston,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.351118,-71.107942,1328,0.2943,50240,50240,23500,25625
+110422,California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,Public,Master's degree,35.299513,-120.657311,1270,0.2949,9075,20235,16500,18631
+234076,University of Virginia-Main Campus,Charlottesville,VA,Public,Doctor's degree - research/scholarship and professional practice,38.035665,-78.503428,1362,0.2986,16412,45756,16500,19000
+123165,Scripps College,Claremont,CA,Private not-for-profit,Bachelor's degree,34.104147,-117.711294,1353,0.2988,50982,50982,12500,13750
+211291,Bucknell University,Lewisburg,PA,Private not-for-profit,Master's degree,40.954317,-76.882616,1312,0.2992,51960,51960,25250,27000
+131520,Howard University,Washington,DC,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,38.922392,-77.018966,1142,0.3,24908,24908,23000,26000
+201061,Art Academy of Cincinnati,Cincinnati,OH,Private not-for-profit,Master's degree,39.108805,-84.513913,970,0.3054,29752,29752,15361,27000
+190512,CUNY Bernard M Baruch College,New York,NY,Public,Master's degree,40.740238,-73.983417,1240,0.3067,6810,13920,8437,10723.5
+133650,Florida Agricultural and Mechanical University,Tallahassee,FL,Public,Doctor's degree - research/scholarship and professional practice,30.428504,-84.290226,1001,0.3111,5785,17725,22000,28002
+164924,Boston College,Chestnut Hill,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.336213,-71.169242,1378,0.3114,51296,51296,18962,19000
+209922,Reed College,Portland,OR,Private not-for-profit,Master's degree,45.480959,-122.630348,1380,0.3131,52150,52150,13245,16000
+193900,New York University,New York,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.729452,-73.997264,1371,0.3187,49062,49062,20500,22900
+110583,California State University-Long Beach,Long Beach,CA,Public,Doctor's degree - other,33.782818,-118.11204,1052,0.3189,6460,17620,13000,15000
+227429,Paul Quinn College,Dallas,TX,Private not-for-profit,Bachelor's degree,32.677195,-96.755864,844,0.319,8318,8318,8100,31479
+120537,Hope International University,Fullerton,CA,Private not-for-profit,Master's degree,33.87616,-117.88573,942,0.3211,30550,30550,15500,25624.5
+190637,CUNY Lehman College,Bronx,NY,Public,Master's degree,40.872962,-73.895379,995,0.3248,6812,13922,7499,9993
+233374,University of Richmond,University of Richmond,VA,Private not-for-profit,Doctor's degree -  professional practice,37.577393,-77.538806,1338,0.3248,49420,49420,19500,21057.5
+156295,Berea College,Berea,KY,Private not-for-profit,Bachelor's degree,37.57202,-84.292893,1123,0.328,25470,25470,4556.5,5300
+152099,Oakland City University,Oakland City,IN,Private not-for-profit,Doctor's degree - research/scholarship,38.340891,-87.35144,978,0.3312,23400,23400,14875,21413
+159382,Louisiana State University-Alexandria,Alexandria,LA,Public,Bachelor's degree,31.178616,-92.414409,969,0.3332,6668,13934,7500,18454
+181543,Summit Christian College,Gering,NE,Private not-for-profit,Bachelor's degree,41.829274,-103.675715,970,0.3333,5974,5974,PrivacySuppressed,PrivacySuppressed
+162210,Washington Adventist University,Takoma Park,MD,Private not-for-profit,Master's degree,38.986349,-77.000608,854,0.3337,23400,23400,25500,26000
+165015,Brandeis University,Waltham,MA,Private not-for-profit,Doctor's degree - research/scholarship,42.364947,-71.254716,1377,0.3344,51245,51245,26250,27000
+190600,CUNY John Jay College of Criminal Justice,New York,NY,Public,Master's degree,40.770351,-73.98841,980,0.3376,6810,13920,7500,10000
+217493,Rhode Island School of Design,Providence,RI,Private not-for-profit,Master's degree,41.825935,-71.407692,1214,0.3412,47110,47110,26172,27000
+225399,Houston Baptist University,Houston,TX,Private not-for-profit,Master's degree,29.693819,-95.515954,1057,0.3456,30800,30800,12500,24225
+210331,Corban University,Salem,OR,Private not-for-profit,Doctor's degree - other,44.882399,-122.961129,1063,0.3456,30640,30640,18250,24993.5
+122409,San Diego State University,San Diego,CA,Public,Doctor's degree - other,32.77525,-117.071228,1132,0.3464,7084,18244,13277,15000
+194116,New York School of Interior Design,New York,NY,Private not-for-profit,Master's degree,40.768615,-73.962404,957,0.3478,22710,22710,15500,PrivacySuppressed
+181297,Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,Private not-for-profit,Master's degree,41.265973,-96.048511,1050,0.3542,13802,13802,19166.5,23437
+201645,Case Western Reserve University,Cleveland,OH,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.507419,-81.609596,1408,0.3544,46006,46006,22000,24500
+139199,Brenau University,Gainesville,GA,Private not-for-profit,Doctor's degree -  professional practice,34.303117,-83.821513,973,0.3565,27152,27152,15500,27000
+153302,Emmaus Bible College,Dubuque,IA,Private not-for-profit,Bachelor's degree,42.508307,-90.706011,1088,0.3565,16580,16580,11280,14000
+110680,University of California-San Diego,La Jolla,CA,Public,Doctor's degree - research/scholarship and professional practice,32.876598,-117.237793,1324,0.3566,13645,40327,16400,17500
+448840,University of South Florida-St. Petersburg,St. Petersburg,FL,Public,Master's degree,27.763872,-82.636136,1155,0.3567,5821,16735,15865,18750
+217925,Columbia International University,Columbia,SC,Private not-for-profit,Doctor's degree - research/scholarship,34.07551,-81.07443,1067,0.3571,21490,21490,15000,19611
+141060,Spelman College,Atlanta,GA,Private not-for-profit,Bachelor's degree,33.745279,-84.411527,1092,0.3573,27314,27314,24500,27000
+110705,University of California-Santa Barbara,Santa Barbara,CA,Public,Doctor's degree - research/scholarship,34.416297,-119.846426,1281,0.3577,14073,40755,15000,16300
+198598,Greensboro College,Greensboro,NC,Private not-for-profit,Master's degree,36.071082,-79.800232,926,0.3625,28000,28000,14625,27000
+225575,Huston-Tillotson University,Austin,TX,Private not-for-profit,Bachelor's degree,30.264672,-97.721698,787,0.3648,14346,14346,15875,PrivacySuppressed
+231624,College of William and Mary,Williamsburg,VA,Public,Doctor's degree - research/scholarship and professional practice,37.269489,-76.708214,1360,0.3652,21234,42274,17247.5,19339.5
+121150,Pepperdine University,Malibu,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,34.037786,-118.707077,1251,0.3687,50022,50022,24250,25843
+207971,University of Tulsa,Tulsa,OK,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,36.152324,-95.945941,1308,0.3696,41509,41509,19250,26000
+173902,Macalester College,Saint Paul,MN,Private not-for-profit,Bachelor's degree,44.938565,-93.168053,1378,0.371,50639,50639,20000,21500
+155937,Sterling College,Sterling,KS,Private not-for-profit,Bachelor's degree,38.219937,-98.208644,967,0.3737,24250,24250,14000,23973
+190549,CUNY Brooklyn College,Brooklyn,NY,Public,Master's degree,40.631517,-73.949898,1105,0.3749,6838,13948,7750,10500
+228875,Texas Christian University,Fort Worth,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.709568,-97.361537,1223,0.3758,42670,42670,18126,20466
+141325,Wesleyan College,Macon,GA,Private not-for-profit,Master's degree,32.876037,-83.715417,1035,0.3765,21750,21750,17735,25800
+135726,University of Miami,Coral Gables,FL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,25.72126,-80.278662,1323,0.3771,47004,47004,17500,19000
+451671,University of South Florida Sarasota-Manatee,Sarasota,FL,Public,Master's degree,27.39158,-82.562725,1096,0.378,5587,16501,15865,18750
+190594,CUNY Hunter College,New York,NY,Public,Doctor's degree -  professional practice,40.768669,-73.964795,1160,0.3788,6782,13892,9000,11598.5
+163338,University of Maryland Eastern Shore,Princess Anne,MD,Public,Doctor's degree - research/scholarship and professional practice,38.207386,-75.686852,872,0.3839,7804,17188,15530.5,27868.5
+399911,Soka University of America,Aliso Viejo,CA,Private not-for-profit,Master's degree,33.554546,-117.735344,1233,0.384,31042,31042,18874,19500
+206491,Wilberforce University,Wilberforce,OH,Private not-for-profit,Master's degree,39.707291,-83.880595,827,0.3841,13250,13250,10319.5,18926.5
+157100,Kentucky Christian University,Grayson,KY,Private not-for-profit,Master's degree,38.338805,-82.945561,962,0.388,18560,18560,13603.5,26000
+186867,Stevens Institute of Technology,Hoboken,NJ,Private not-for-profit,Doctor's degree - research/scholarship,40.744776,-74.025334,1360,0.3911,48838,48838,26000,27000
+220808,Memphis College of Art,Memphis,TN,Private not-for-profit,Master's degree,35.145874,-89.993707,957,0.3918,31700,31700,20055,31000
+198747,Laurel University,High Point,NC,Private not-for-profit,Doctor's degree - other,35.994259,-79.998419,963,0.3939,11230,11230,14286,29750
+158802,Dillard University,New Orleans,LA,Private not-for-profit,Bachelor's degree,29.996587,-90.06464,931,0.394,17064,17064,24051,36000
+160065,Our Lady of Holy Cross College,New Orleans,LA,Private not-for-profit,Master's degree,29.912003,-89.99445,950,0.3957,11632,11632,14250,28375
+162283,Coppin State University,Baltimore,MD,Public,Doctor's degree -  professional practice,39.311258,-76.658687,829,0.3961,7438,13168,15250,23750
+223232,Baylor University,Waco,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,31.54896,-97.117641,1246,0.3972,42006,42006,19500,24000
+446048,Ave Maria University,Ave Maria,FL,Private not-for-profit,Doctor's degree - other,26.335983,-81.438945,1103,0.399,19128,19128,13157,20616.5
+211273,Bryn Mawr College,Bryn Mawr,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.02736,-75.313223,1337,0.3994,48790,48790,23005.5,25000
+131469,George Washington University,Washington,DC,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,38.89923,-77.048363,1301,0.4021,51950,51950,21500,25000
+446233,Ecclesia College,Springdale,AR,Private not-for-profit,Bachelor's degree,36.2141,-94.236643,845,0.4028,15140,15140,7500,16500
+126775,Colorado School of Mines,Golden,CO,Public,Doctor's degree - research/scholarship,39.751443,-105.223364,1354,0.4035,17842,36172,21915,25000
+228778,The University of Texas at Austin,Austin,TX,Public,Doctor's degree - research/scholarship and professional practice,30.282825,-97.738273,1289,0.4037,10092,35682,20366,21500
+219578,Aquinas College,Nashville,TN,Private not-for-profit,Master's degree,36.132187,-86.844214,1143,0.4041,21950,21950,16245,22451
+168740,Andrews University,Berrien Springs,MI,Private not-for-profit,Doctor's degree - research/scholarship,41.963859,-86.355815,1127,0.4042,27684,27684,22500,27000
+139630,Emmanuel College,Franklin Springs,GA,Private not-for-profit,Bachelor's degree,34.283641,-83.14822,943,0.4055,19330,19330,12000,25500
+196079,SUNY at Binghamton,Vestal,NY,Public,Doctor's degree - research/scholarship and professional practice,42.087868,-75.966889,1317,0.4062,9271,24351,16750,19500
+130934,Delaware State University,Dover,DE,Public,Doctor's degree - research/scholarship,39.187173,-75.54053,898,0.4065,7532,16138,19500,28375
+110653,University of California-Irvine,Irvine,CA,Public,Doctor's degree - research/scholarship and professional practice,33.648434,-117.841248,1206,0.4065,13360,40042,15000,16500
+229267,Trinity University,San Antonio,TX,Private not-for-profit,Master's degree,29.46286,-98.482577,1282,0.4066,39560,39560,21500,26000
+196097,Stony Brook University,Stony Brook,NY,Public,Doctor's degree - research/scholarship and professional practice,40.91476,-73.12046,1268,0.4067,8999,26239,15646,18960
+200004,Western Carolina University,Cullowhee,NC,Public,Doctor's degree - research/scholarship and professional practice,35.308979,-83.186258,1034,0.4069,6737,17130,15500,22500
+130183,Post University,Waterbury,CT,Private for-profit,Master's degree,41.535549,-73.081497,893,0.4071,16510,16510,8412,27000
+138354,The University of West Florida,Pensacola,FL,Public,Doctor's degree - research/scholarship,30.549076,-87.218511,1070,0.4083,6360,19241,12500,17750
+118693,Menlo College,Atherton,CA,Private not-for-profit,Bachelor's degree,37.453475,-122.190797,1010,0.4087,39950,39950,16125,21000
+454184,The King?s College,New York,NY,Private not-for-profit,Bachelor's degree,40.706677,-74.012342,1180,0.4087,34320,34320,12000,23096.5
+197911,Barton College,Wilson,NC,Private not-for-profit,Master's degree,35.734376,-77.913867,948,0.4088,29052,29052,17619,26000
+190691,CUNY York College,Jamaica,NY,Public,Master's degree,40.701576,-73.796313,885,0.4101,6748,13858,6114.5,8163
+207856,Southwestern Christian University,Bethany,OK,Private not-for-profit,Master's degree,35.513314,-97.63934,904,0.4111,13080,13080,13075.5,27500
+229160,Texas Wesleyan University,Fort Worth,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.732962,-97.279613,995,0.4116,26050,26050,13750,22000
+162007,Bowie State University,Bowie,MD,Public,Doctor's degree - research/scholarship,39.018185,-76.759721,856,0.4126,7880,18416,14493,24000
+145336,Governors State University,University Park,IL,Public,Doctor's degree -  professional practice,41.449103,-87.716441,910,0.413,10516,18676,13030,18575
+190664,CUNY Queens College,Flushing,NY,Public,Master's degree,40.735182,-73.816098,1090,0.4134,6938,14048,7750,10700
+237118,Alderson Broaddus College,Philippi,WV,Private not-for-profit,Master's degree,39.158067,-80.047728,963,0.4138,25350,25350,15000,26002
+170842,Marygrove College,Detroit,MI,Private not-for-profit,Master's degree,42.414415,-83.154109,849,0.4142,22064,22064,20687.5,34500
+219790,Bryan College-Dayton,Dayton,TN,Private not-for-profit,Master's degree,35.497209,-84.999552,1099,0.4179,24450,24450,11738,22013.5
+217873,Claflin University,Orangeburg,SC,Private not-for-profit,Master's degree,33.498444,-80.854319,900,0.4182,16158,16158,23750,33000
+102270,Stillman College,Tuscaloosa,AL,Private not-for-profit,Bachelor's degree,33.200006,-87.585278,765,0.4192,10418,10418,12500,33500
+106412,University of Arkansas at Pine Bluff,Pine Bluff,AR,Public,Doctor's degree - research/scholarship,34.244031,-92.018683,894,0.4193,6898,12988,12250,26196.5
+201690,Central State University,Wilberforce,OH,Public,Master's degree,39.715787,-83.880186,801,0.4201,6246,8096,10750,35000
+210492,Bryn Athyn College of the New Church,Bryn Athyn,PA,Private not-for-profit,Master's degree,40.134393,-75.060808,951,0.4214,19932,19932,15000,26571.5
+110644,University of California-Davis,Davis,CA,Public,Doctor's degree - research/scholarship and professional practice,38.539667,-121.749567,1218,0.4228,14046,40728,12334,14000
+228981,Texas Lutheran University,Seguin,TX,Private not-for-profit,Master's degree,29.573261,-97.982669,973,0.4261,28910,28910,16125,27000
+196176,State University of New York at New Paltz,New Paltz,NY,Public,Master's degree,41.740936,-74.082188,1115,0.4294,7754,17604,15500,18750
+224226,Dallas Baptist University,Dallas,TX,Private not-for-profit,Doctor's degree - research/scholarship,32.710017,-96.947006,1060,0.4311,26180,26180,15000,21500
+216597,Villanova University,Villanova,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.039388,-75.345457,1350,0.435,49280,49280,25000,26692
+196219,SUNY at Purchase College,Purchase,NY,Public,Master's degree,41.047223,-73.701955,1077,0.4351,8298,18148,18000,21875
+102234,Spring Hill College,Mobile,AL,Private not-for-profit,Master's degree,30.694751,-88.138199,1121,0.4353,35794,35794,20500,PrivacySuppressed
+138275,Warner University,Lake Wales,FL,Private not-for-profit,Master's degree,27.825751,-81.599972,888,0.4359,20712,20712,15848,23750
+202523,Denison University,Granville,OH,Private not-for-profit,Bachelor's degree,40.071505,-82.523272,1318,0.4361,48960,48960,23250,27000
+193645,The College of New Rochelle,New Rochelle,NY,Private not-for-profit,Master's degree,40.899427,-73.781104,937,0.4373,34960,34960,16500,23000
+207306,Northwestern Oklahoma State University,Alva,OK,Public,Master's degree,36.796658,-98.667673,970,0.4377,6690,13538,7637,13453
+199306,Pfeiffer University,Misenheimer,NC,Private not-for-profit,Master's degree,35.484696,-80.283168,922,0.4414,28995,28995,16169,23481
+226231,LeTourneau University,Longview,TX,Private not-for-profit,Master's degree,32.467658,-94.72726,1150,0.4419,28480,28480,19500,27000
+194824,Rensselaer Polytechnic Institute,Troy,NY,Private not-for-profit,Doctor's degree - research/scholarship,42.729978,-73.676646,1365,0.4435,50797,50797,27000,29000
+174066,University of Minnesota-Twin Cities,Minneapolis,MN,Public,Doctor's degree - research/scholarship and professional practice,44.972851,-93.235464,1288,0.4441,14142,23806,17000,20000
+174844,St Olaf College,Northfield,MN,Private not-for-profit,Bachelor's degree,44.461529,-93.182039,1279,0.4476,44180,44180,24500,27000
+228343,Southwestern University,Georgetown,TX,Private not-for-profit,Bachelor's degree,30.634341,-97.665738,1165,0.4503,39060,39060,23500,26975
+159009,Grambling State University,Grambling,LA,Public,Doctor's degree - research/scholarship,32.523797,-92.713245,874,0.4514,7371,16394,20000,37543
+173045,Augsburg College,Minneapolis,MN,Private not-for-profit,Doctor's degree -  professional practice,44.966307,-93.240436,1031,0.4514,36415,36415,21500,27000
+191241,Fordham University,Bronx,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.859354,-73.882705,1281,0.4522,49073,49073,21500,26000
+198756,Johnson C Smith University,Charlotte,NC,Private not-for-profit,Bachelor's degree,35.243033,-80.857251,826,0.453,18236,18236,19000,32500
+233611,Southern Virginia University,Buena Vista,VA,Private not-for-profit,Bachelor's degree,37.740368,-79.35037,993,0.4532,14900,14900,8500,21761.5
+236948,University of Washington-Seattle Campus,Seattle,WA,Public,Doctor's degree - research/scholarship and professional practice,47.65538,-122.30514,1266,0.4535,10753,34791,13000,15000
+101189,Faulkner University,Montgomery,AL,Private not-for-profit,Doctor's degree -  professional practice,32.384181,-86.21641,972,0.4538,20130,20130,14450,22850
+190567,CUNY City College,New York,NY,Public,Doctor's degree - research/scholarship,40.819846,-73.948542,1120,0.4539,6689,13799,8615,11580
+207157,Hillsdale Free Will Baptist College,Moore,OK,Private not-for-profit,Master's degree,35.300757,-97.491107,926,0.4545,13040,13040,6500,21500
+134079,Florida Southern College,Lakeland,FL,Private not-for-profit,Master's degree,28.032443,-81.948203,1177,0.4554,33150,33150,15921,24880
+120254,Occidental College,Los Angeles,CA,Private not-for-profit,Master's degree,34.126224,-118.210783,1315,0.4581,51070,51070,21000,23215
+137564,Southeastern University,Lakeland,FL,Private not-for-profit,Master's degree,28.029733,-81.918382,978,0.4585,24160,24160,11000,22500
+100724,Alabama State University,Montgomery,AL,Public,Doctor's degree - research/scholarship and professional practice,32.364317,-86.295677,825,0.459,9220,16156,15738,31500
+117627,La Sierra University,Riverside,CA,Private not-for-profit,Doctor's degree - research/scholarship,33.910704,-117.500054,906,0.4593,31590,31590,16000,30250
+134130,University of Florida,Gainesville,FL,Public,Doctor's degree - research/scholarship and professional practice,29.64629,-82.347911,1287,0.4594,6381,28659,15000,16195.5
+199458,Mid-Atlantic Christian University,Elizabeth City,NC,Private not-for-profit,Bachelor's degree,36.304673,-76.217139,924,0.4606,13600,13600,10625,27000
+172440,Finlandia University,Hancock,MI,Private not-for-profit,Bachelor's degree,47.127868,-88.588756,877,0.4612,22758,22758,8944,22500
+224554,Texas A & M University-Commerce,Commerce,TX,Public,Doctor's degree - research/scholarship,33.243745,-95.908451,973,0.4614,7750,19990,13696,20011
+164739,Bentley University,Waltham,MA,Private not-for-profit,Doctor's degree - research/scholarship,42.388798,-71.220148,1198,0.4632,45760,45760,25000,26000
+120865,Pacific Union College,Angwin,CA,Private not-for-profit,Master's degree,38.570585,-122.440308,986,0.4655,28629,28629,22000,29251
+179894,Webster University,Saint Louis,MO,Private not-for-profit,Doctor's degree - other,38.588875,-90.345151,1110,0.4658,26300,26300,17436,23225.5
+137351,University of South Florida-Main Campus,Tampa,FL,Public,Doctor's degree - research/scholarship and professional practice,28.061458,-82.413232,1172,0.4663,6410,17324,15865,18750
+156356,Brescia University,Owensboro,KY,Private not-for-profit,Master's degree,37.769041,-87.111639,1060,0.4677,21100,21100,17690.5,30000
+169327,Cleary University,Ann Arbor,MI,Private not-for-profit,Master's degree,42.586638,-83.879987,990,0.4683,17600,17600,15000,23750
+176318,Rust College,Holly Springs,MS,Private not-for-profit,Bachelor's degree,34.776862,-89.446999,735,0.4686,9500,9500,11119,29324.5
+144892,Eastern Illinois University,Charleston,IL,Public,Master's degree,39.479843,-88.175658,990,0.4688,11580,13740,17879,23250
+220473,Johnson University,Knoxville,TN,Private not-for-profit,Doctor's degree - research/scholarship,35.937152,-83.750336,1025,0.4703,13950,13950,15800,23250
+198215,Catawba College,Salisbury,NC,Private not-for-profit,Master's degree,35.691443,-80.482751,980,0.4707,29333,29333,18944.5,25000
+169442,College for Creative Studies,Detroit,MI,Private not-for-profit,Master's degree,42.361839,-83.062352,1050,0.4737,40840,40840,21500,27000
+199193,North Carolina State University at Raleigh,Raleigh,NC,Public,Doctor's degree - research/scholarship and professional practice,35.785111,-78.674517,1273,0.4751,8880,26399,18192,20714
+218238,Limestone College,Gaffney,SC,Private not-for-profit,Master's degree,35.057076,-81.649161,1004,0.4765,23900,23900,14750,26161.5
+199069,Mount Olive College,Mount Olive,NC,Private not-for-profit,Bachelor's degree,35.208166,-78.069388,1005,0.4766,19000,19000,19753,29150
+198862,Livingstone College,Salisbury,NC,Private not-for-profit,Bachelor's degree,35.670877,-80.483956,730,0.4778,17764,17764,12250,40000
+226587,McMurry University,Abilene,TX,Private not-for-profit,Master's degree,32.429776,-99.748682,938,0.4804,26275,26275,12500,28000
+117140,University of La Verne,La Verne,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,34.10086,-117.772634,1040,0.4806,39900,39900,21580,25000
+165662,Emerson College,Boston,MA,Private not-for-profit,Master's degree,42.352202,-71.065384,1232,0.4806,42908,42908,21375,23250
+163286,University of Maryland-College Park,College Park,MD,Public,Doctor's degree - research/scholarship and professional practice,38.988178,-76.944721,1337,0.4806,10181,32045,16500,19500
+110565,California State University-Fullerton,Fullerton,CA,Public,Doctor's degree - other,33.881506,-117.885446,1017,0.4823,6560,17720,12500,14804
+110608,California State University-Northridge,Northridge,CA,Public,Doctor's degree - research/scholarship,34.240126,-118.529319,918,0.4824,6587,17747,11000,13833
+214175,Muhlenberg College,Allentown,PA,Private not-for-profit,Bachelor's degree,40.596416,-75.508502,1241,0.4825,48310,48310,23438.5,26994.5
+137847,The University of Tampa,Tampa,FL,Private not-for-profit,Master's degree,27.948455,-82.46483,1097,0.483,27740,27740,16000,24400
+122931,Santa Clara University,Santa Clara,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.348362,-121.93784,1321,0.483,47112,47112,19166,21000
+101912,Oakwood University,Huntsville,AL,Private not-for-profit,Master's degree,34.756344,-86.652705,886,0.4837,16750,16750,26500,31000
+100937,Birmingham Southern College,Birmingham,AL,Private not-for-profit,Bachelor's degree,33.513774,-86.850552,1150,0.4839,34448,34448,19500,26045
+153366,Graceland University-Lamoni,Lamoni,IA,Private not-for-profit,Doctor's degree - other,40.615966,-93.924893,971,0.484,27010,27010,17201,22832
+115728,Holy Names University,Oakland,CA,Private not-for-profit,Master's degree,37.802276,-122.187804,888,0.4846,37074,37074,20197,26975
+129020,University of Connecticut,Storrs,CT,Public,Doctor's degree - research/scholarship and professional practice,41.809098,-72.249948,1248,0.488,14066,35858,18750,21500
+207722,University of Science and Arts of Oklahoma,Chickasha,OK,Public,Bachelor's degree,35.031392,-97.95641,994,0.4885,7200,17550,9328.5,19500
+187134,The College of New Jersey,Ewing,NJ,Public,Master's degree,40.268651,-74.778791,1211,0.4886,15794,26971,21194.5,23250
+219949,Cumberland University,Lebanon,TN,Private not-for-profit,Master's degree,36.204514,-86.298782,988,0.4891,21210,21210,17500,23250
+228246,Southern Methodist University,Dallas,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.845254,-96.784855,1330,0.4892,50358,50358,18250,20059
+157058,Kentucky State University,Frankfort,KY,Public,Master's degree,38.201427,-84.855402,907,0.49,7754,18056,17388.5,28500
+148584,University of St Francis,Joliet,IL,Private not-for-profit,Doctor's degree - research/scholarship,41.532225,-88.096057,1068,0.4923,30840,30840,19394,25000
+161873,University of Baltimore,Baltimore,MD,Public,Doctor's degree - research/scholarship and professional practice,39.305834,-76.616591,924,0.4942,8596,20242,15750,20000
+155812,University of Saint Mary,Leavenworth,KS,Private not-for-profit,Doctor's degree -  professional practice,39.279396,-94.906743,1005,0.4944,26650,26650,15000,22457
+176053,Mississippi College,Clinton,MS,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.335515,-90.329821,1122,0.4947,16740,16740,16000,24252.5
+201371,Bluffton University,Bluffton,OH,Private not-for-profit,Master's degree,40.895606,-83.899439,1010,0.4953,30762,30762,19500,27000
+138716,Albany State University,Albany,GA,Public,Master's degree,31.56928,-84.141825,899,0.4967,5490,15738,26000,32000
+144351,Concordia University-Chicago,River Forest,IL,Private not-for-profit,Doctor's degree - research/scholarship,41.898696,-87.809482,1011,0.4969,30630,30630,15678,23128
+138293,Webber International University,Babson Park,FL,Private not-for-profit,Master's degree,27.838778,-81.532315,897,0.4972,25358,25358,9500,24750
+152266,Purdue University-North Central Campus,Westville,IN,Public,Master's degree,41.582527,-86.893713,968,0.4992,7478,16896,12000,25000
+153144,Coe College,Cedar Rapids,IA,Private not-for-profit,Master's degree,41.988263,-91.658192,1145,0.4995,41000,41000,24621,28500
+228468,Southwestern Adventist University,Keene,TX,Private not-for-profit,Master's degree,32.397617,-97.32702,929,0.4997,20276,20276,16231,26299.5
+102377,Tuskegee University,Tuskegee,AL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.4309,-85.708492,1006,0.4999,20015,20015,25432.5,32500
+132903,University of Central Florida,Orlando,FL,Public,Doctor's degree - research/scholarship and professional practice,28.602159,-81.200889,1179,0.4999,6368,22467,14500,18130
+147129,Methodist College,Peoria,IL,Private not-for-profit,Bachelor's degree,40.7804,-89.682864,990,0.5,20710,20710,30750,35750
+133951,Florida International University,Miami,FL,Public,Doctor's degree - research/scholarship and professional practice,25.75732,-80.373928,1130,0.5007,6556,18954,13750,17250
+220631,Lincoln Memorial University,Harrogate,TN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,36.578508,-83.660198,1008,0.502,21050,21050,13000,17150
+220598,Lane College,Jackson,TN,Private not-for-profit,Bachelor's degree,35.627378,-88.806535,740,0.5027,10280,10280,16000,37909
+157757,Spalding University,Louisville,KY,Private not-for-profit,Doctor's degree - research/scholarship,38.242407,-85.757725,972,0.503,24388,24388,16334,25000
+228529,Tarleton State University,Stephenville,TX,Public,Doctor's degree - research/scholarship,32.214988,-98.214866,959,0.5039,7140,16728,12607.5,19500
+181853,York College,York,NE,Private not-for-profit,Bachelor's degree,40.869526,-97.579352,934,0.5043,17700,17700,15000,26000
+237358,Davis & Elkins College,Elkins,WV,Private not-for-profit,Bachelor's degree,38.931232,-79.846022,954,0.5046,28842,28842,16000,22259.5
+206817,Bacone College,Muskogee,OK,Private not-for-profit,Bachelor's degree,35.777082,-95.334046,826,0.5047,14850,14850,9500,30314.5
+217882,Clemson University,Clemson,SC,Public,Doctor's degree - research/scholarship,34.679381,-82.835114,1269,0.5054,14708,34590,19000,21500
+197708,Yeshiva University,New York,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.850605,-73.929873,1217,0.5075,40670,40670,15250,20500
+140960,Savannah State University,Savannah,GA,Public,Master's degree,32.024781,-81.063377,823,0.5078,5644,15900,13449,32000
+153621,Iowa Wesleyan College,Mount Pleasant,IA,Private not-for-profit,Bachelor's degree,40.973791,-91.552459,917,0.5089,23516,29146,12000,25000
+222178,Abilene Christian University,Abilene,TX,Private not-for-profit,Doctor's degree - other,32.468943,-99.709797,1077,0.5089,32070,32070,15000,23628
+224527,East Texas Baptist University,Marshall,TX,Private not-for-profit,Master's degree,32.557847,-94.374488,954,0.5093,24700,24700,12250,26000
+234085,Virginia Military Institute,Lexington,VA,Public,Bachelor's degree,37.7896,-79.437067,1156,0.5095,17492,41801,19500,23900
+176479,William Carey University,Hattiesburg,MS,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,31.305264,-89.291815,1091,0.5103,11700,11700,15000,20832
+196246,SUNY College at Plattsburgh,Plattsburgh,NY,Public,Master's degree,44.69293,-73.466536,1094,0.5103,7866,17716,17000,21500
+179955,William Jewell College,Liberty,MO,Private not-for-profit,Bachelor's degree,39.247844,-94.413126,1144,0.5108,32930,32930,20000,25000
+237057,Whitman College,Walla Walla,WA,Private not-for-profit,Bachelor's degree,46.069815,-118.331546,1324,0.5108,47862,47862,17477,19000
+160658,University of Louisiana at Lafayette,Lafayette,LA,Public,Doctor's degree - research/scholarship and professional practice,30.212191,-92.020165,1089,0.511,9450,23178,11882,20000
+230038,Brigham Young University-Provo,Provo,UT,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.250851,-111.649281,1293,0.5118,5300,5300,8092.5,10802.5
+178244,Missouri Baptist University,Saint Louis,MO,Private not-for-profit,Doctor's degree - research/scholarship,38.641526,-90.462586,968,0.512,24924,24924,15250,22669
+122436,University of San Diego,San Diego,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.77142,-117.188721,1237,0.5138,46140,46140,21250,24000
+138868,Point University,East Point,GA,Private not-for-profit,Bachelor's degree,32.87912,-85.184931,922,0.5144,19200,19200,12000,26000
+182458,Sierra Nevada College,Incline Village,NV,Private not-for-profit,Master's degree,39.244278,-119.939125,950,0.5147,31150,31150,15000,21550
+229063,Texas Southern University,Houston,TX,Public,Doctor's degree - research/scholarship and professional practice,29.722468,-95.361961,814,0.5149,9000,21240,14252,29323.5
+195304,Sarah Lawrence College,Bronxville,NY,Private not-for-profit,Master's degree,40.9355,-73.843727,1291,0.5179,52550,52550,13000,14000
+176406,Tougaloo College,Tougaloo,MS,Private not-for-profit,Bachelor's degree,32.403014,-90.16076,954,0.518,10600,10600,21875,35500
+155520,MidAmerica Nazarene University,Olathe,KS,Private not-for-profit,Master's degree,38.875615,-94.781635,994,0.5181,28150,28150,15000,18750
+366711,California State University-San Marcos,San Marcos,CA,Public,Master's degree,33.130569,-117.159013,963,0.5184,7383,18543,12500,17498
+147703,Northern Illinois University,Dekalb,IL,Public,Doctor's degree - research/scholarship and professional practice,41.933869,-88.766428,1030,0.5184,14204,23670,17562.5,23208
+237136,Appalachian Bible College,Mount Hope,WV,Private not-for-profit,Master's degree,37.853335,-81.198867,899,0.5185,14000,14000,10397.5,14000
+237312,University of Charleston,Charleston,WV,Private not-for-profit,Doctor's degree -  professional practice,38.333367,-81.616244,971,0.5186,29900,29900,12500,20311
+198561,Gardner-Webb University,Boiling Springs,NC,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,35.24732,-81.668141,987,0.5188,29810,29810,16546,24750
+147341,Monmouth College,Monmouth,IL,Private not-for-profit,Bachelor's degree,40.914824,-90.63731,1045,0.5206,35300,35300,20000,27000
+180832,Clarkson College,Omaha,NE,Private not-for-profit,Master's degree,41.259165,-95.974847,1090,0.5213,15780,15780,21000,24750
+123457,Simpson University,Redding,CA,Private not-for-profit,Master's degree,40.61331,-122.333048,985,0.5215,25950,25950,15765,17805
+204617,Ohio Dominican University,Columbus,OH,Private not-for-profit,Master's degree,39.992764,-82.940689,1004,0.5216,31080,31080,19500,27318
+196149,SUNY College at Cortland,Cortland,NY,Public,Master's degree,42.598022,-76.188655,1073,0.5217,8106,17956,17500,21500
+219833,Christian Brothers University,Memphis,TN,Private not-for-profit,Master's degree,35.127437,-89.983241,1125,0.5224,30860,30860,16500,27000
+196413,Syracuse University,Syracuse,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,43.040176,-76.136975,1204,0.5232,45022,45022,27000,27000
+136215,Nova Southeastern University,Fort Lauderdale,FL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,26.079337,-80.24248,1127,0.5254,28736,28736,18750,25000
+100751,The University of Alabama,Tuscaloosa,AL,Public,Doctor's degree - research/scholarship and professional practice,33.211875,-87.545978,1202,0.5259,10470,26950,17340,23290
+215266,University of Pittsburgh-Bradford,Bradford,PA,Public,Bachelor's degree,41.943415,-78.673701,982,0.526,13608,24630,21500,26899
+240444,University of Wisconsin-Madison,Madison,WI,Public,Doctor's degree - research/scholarship and professional practice,43.075409,-89.404098,1302,0.5262,10488,32738,19639,22241
+237950,West Virginia University Institute of Technology,Montgomery,WV,Public,Bachelor's degree,37.775924,-81.184072,1000,0.527,6648,16728,14771,23688.5
+231581,Bridgewater College,Bridgewater,VA,Private not-for-profit,Bachelor's degree,38.378484,-78.969007,1022,0.5275,32590,32590,20796.5,27000
+196185,SUNY College at Oneonta,Oneonta,NY,Public,Master's degree,42.468861,-75.063632,1082,0.5284,7932,17782,18482,21500
+146667,Lincoln Christian University,Lincoln,IL,Private not-for-profit,Doctor's degree - other,40.148924,-89.346721,1007,0.5288,13020,13020,17500,21481.5
+226152,Texas A & M International University,Laredo,TX,Public,Doctor's degree - research/scholarship,27.573504,-99.435225,911,0.5298,7016,16946,9021,14200
+101480,Jacksonville State University,Jacksonville,AL,Public,Doctor's degree - research/scholarship,33.822938,-85.765321,1062,0.5308,7500,14700,16450,23500
+101587,University of West Alabama,Livingston,AL,Public,Master's degree,32.588132,-88.186329,969,0.531,8876,16162,13000,26500
+139366,Columbus State University,Columbus,GA,Public,Doctor's degree - research/scholarship,32.50096,-84.94106,963,0.5316,6031,16605,15750,25768
+186201,Ramapo College of New Jersey,Mahwah,NJ,Public,Master's degree,41.080942,-74.174086,1082,0.5326,13870,22870,18750,22500
+163976,St John's College,Annapolis,MD,Private not-for-profit,Master's degree,38.981598,-76.491359,1319,0.5327,50353,50353,19000,27000
+112084,San Diego Christian College,El Cajon,CA,Private not-for-profit,Bachelor's degree,32.842404,-116.978112,938,0.533,29550,29550,15822.5,23525
+443410,DigiPen Institute of Technology,Redmond,WA,Private for-profit,Master's degree,47.68871,-122.150603,1242,0.5332,29000,29000,21875,27000
+171599,Olivet College,Olivet,MI,Private not-for-profit,Master's degree,42.442891,-84.923891,972,0.5335,25560,25560,18500,27000
+222983,Austin College,Sherman,TX,Private not-for-profit,Master's degree,33.646307,-96.598772,1195,0.5343,37315,37315,19500,26000
+122755,San Jose State University,San Jose,CA,Public,Master's degree,37.336569,-121.880621,1039,0.5344,7418,18578,12865.5,15000
+127060,University of Denver,Denver,CO,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.678005,-104.963259,1262,0.5347,46422,46422,19500,23804
+110556,California State University-Fresno,Fresno,CA,Public,Doctor's degree - research/scholarship,36.814477,-119.748258,907,0.5354,6313,17473,11342,14367
+219639,Baptist Memorial College of Health Sciences,Memphis,TN,Private not-for-profit,Bachelor's degree,35.138415,-90.027501,1065,0.5361,11204,11204,28121,34125
+154855,Central Christian College of Kansas,McPherson,KS,Private not-for-profit,Bachelor's degree,38.357978,-97.668597,921,0.5364,16850,16850,10959,25000
+199102,North Carolina A & T State University,Greensboro,NC,Public,Doctor's degree - research/scholarship,36.07282,-79.773375,939,0.5364,6372,19132,21980,28270
+143288,Blackburn College,Carlinville,IL,Private not-for-profit,Bachelor's degree,39.287896,-89.870241,968,0.5385,21162,21162,11135.5,24014
+117946,Loyola Marymount University,Los Angeles,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,33.97085,-118.415744,1244,0.5387,44480,44480,19490.5,22000
+160074,Our Lady of the Lake College,Baton Rouge,LA,Private not-for-profit,Master's degree,30.401379,-91.110587,1010,0.539,12046,12046,14823,23518
+139959,University of Georgia,Athens,GA,Public,Doctor's degree - research/scholarship and professional practice,33.956262,-83.374039,1262,0.539,11634,29844,17108,18750
+217633,Anderson University,Anderson,SC,Private not-for-profit,Doctor's degree - research/scholarship,34.5152,-82.640358,1065,0.5392,25880,25880,18784,27000
+111948,Chapman University,Orange,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,33.793678,-117.851481,1225,0.5403,48710,48710,19000,21000
+204796,Ohio State University-Main Campus,Columbus,OH,Public,Doctor's degree - research/scholarship and professional practice,39.999324,-83.014853,1296,0.5411,10037,28229,15500,21500
+137476,St. Thomas University,Miami Gardens,FL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,25.922071,-80.253273,930,0.5413,28800,28800,14750,21575
+174862,Crown College,Saint Bonifacius,MN,Private not-for-profit,Master's degree,44.885393,-93.743019,1006,0.5413,24700,24700,17340,24500
+141185,Toccoa Falls College,Toccoa Falls,GA,Private not-for-profit,Bachelor's degree,34.593414,-83.357617,962,0.5414,21414,21414,13750,24608
+203128,Hiram College,Hiram,OH,Private not-for-profit,Master's degree,41.3107,-81.143981,1017,0.5418,33040,33040,23251,27000
+175078,Southwest Minnesota State University,Marshall,MN,Public,Master's degree,44.45373,-95.759548,967,0.5419,8347,8347,13200,20500
+196103,SUNY College of Environmental Science and Forestry,Syracuse,NY,Public,Doctor's degree - research/scholarship,43.034765,-76.138724,1157,0.5421,8103,17953,15500,19200
+221351,Rhodes College,Memphis,TN,Private not-for-profit,Master's degree,35.154424,-89.989187,1291,0.5432,44942,44942,22000,25025
+139968,Gordon State College,Barnesville,GA,Public,Bachelor's degree,33.04571,-84.154508,853,0.5433,3974,11719,8250,17761
+196060,SUNY at Albany,Albany,NY,Public,Doctor's degree - research/scholarship,42.685489,-73.824662,1087,0.5439,9223,24303,15749.5,20500
+199184,University of North Carolina School of the Arts,Winston-Salem,NC,Public,Master's degree,36.076183,-80.235672,1139,0.5442,9139,24609,23250,27000
+148405,Rockford University,Rockford,IL,Private not-for-profit,Master's degree,42.270639,-89.019536,1011,0.5443,29180,29180,18750,25000
+196194,SUNY College at Oswego,Oswego,NY,Public,Master's degree,43.454287,-76.540798,1102,0.5452,7961,17811,16900,21502
+218742,University of South Carolina-Upstate,Spartanburg,SC,Public,Master's degree,34.996403,-81.970583,964,0.5463,11190,22188,15000,21604
+155414,Kansas Wesleyan University,Salina,KS,Private not-for-profit,Master's degree,38.813795,-97.607973,1003,0.5466,28000,28000,12500,21000
+177968,Lindenwood University,Saint Charles,MO,Private not-for-profit,Doctor's degree - research/scholarship,38.785425,-90.501286,1045,0.5469,16332,16332,19500,26529
+227331,Our Lady of the Lake University-San Antonio,San Antonio,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,29.425611,-98.54395,929,0.5473,27160,27160,17795,25000
+208488,Concordia University-Portland,Portland,OR,Private not-for-profit,Doctor's degree -  professional practice,45.570197,-122.636941,987,0.5476,29390,29390,12500,23054
+198969,Methodist University,Fayetteville,NC,Private not-for-profit,Master's degree,35.135058,-78.874426,955,0.5479,31980,31980,11000,27000
+195003,Rochester Institute of Technology,Rochester,NY,Private not-for-profit,Doctor's degree - research/scholarship,43.084188,-77.67386,1254,0.5493,38568,38568,24250,28000
+209056,Lewis & Clark College,Portland,OR,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,45.450882,-122.669137,1290,0.5495,46894,46894,19500,24144
+155089,Friends University,Wichita,KS,Private not-for-profit,Master's degree,37.678459,-97.367048,1002,0.5501,26865,26865,18979,25000
+217402,Providence College,Providence,RI,Private not-for-profit,Master's degree,41.842742,-71.437446,1145,0.5503,46970,46970,27000,27000
+141361,Young Harris College,Young Harris,GA,Private not-for-profit,Bachelor's degree,34.933523,-83.84587,1004,0.5504,29012,29012,12125,26400
+133711,Flagler College-St Augustine,Saint Augustine,FL,Private not-for-profit,Bachelor's degree,29.892733,-81.314887,1079,0.5505,17500,17500,15675,23250
+200226,Mayville State University,Mayville,ND,Public,Bachelor's degree,47.505415,-97.322554,950,0.5521,6254,9073,11636,18539
+196121,SUNY College at Brockport,Brockport,NY,Public,Master's degree,43.211926,-77.947188,1029,0.5533,7928,17778,15092,19976.5
+238980,Lakeland College,Plymouth,WI,Private not-for-profit,Master's degree,43.841573,-87.883414,909,0.554,26560,26560,15500,24320.5
+215293,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,Public,Doctor's degree - research/scholarship and professional practice,40.444388,-79.953254,1298,0.5541,18618,29758,21500,26899
+154493,Upper Iowa University,Fayette,IA,Private not-for-profit,Master's degree,42.838283,-91.799543,968,0.5555,28890,28890,16378,23000
+439701,King's University,Van Nuys,CA,Private not-for-profit,Doctor's degree - other,32.93973,-97.121526,1073,0.5556,13650,13650,15750,31000
+232256,Hampden-Sydney College,Hampden-Sydney,VA,Private not-for-profit,Bachelor's degree,37.240615,-78.464216,1122,0.556,42962,42962,22500,27000
+176080,Mississippi State University,Mississippi State,MS,Public,Doctor's degree - research/scholarship and professional practice,33.454852,-88.790139,1125,0.5567,7780,20900,14653,23000
+101879,University of North Alabama,Florence,AL,Public,Master's degree,34.806738,-87.681361,1028,0.5574,8114,14450,12750,22309
+155973,Tabor College,Hillsboro,KS,Private not-for-profit,Master's degree,38.348606,-97.200949,971,0.5594,26590,26590,15000,23250
+243780,Purdue University-Main Campus,West Lafayette,IN,Public,Doctor's degree - research/scholarship and professional practice,40.428206,-86.914435,1228,0.5597,10002,28804,17250,20428
+224545,Texas A & M University-Texarkana,Texarkana,TX,Public,Master's degree,33.490482,-94.103617,1016,0.5599,6840,17886,9500,15000
+433660,Florida Gulf Coast University,Fort Myers,FL,Public,Doctor's degree - research/scholarship and professional practice,26.463638,-81.7726,1090,0.5615,6118,25162,12000,19828.5
+146825,MacMurray College,Jacksonville,IL,Private not-for-profit,Bachelor's degree,39.730918,-90.223986,946,0.562,25110,25110,22000,25495
+199698,St. Andrews University,Laurinburg,NC,Private not-for-profit,Master's degree,34.74563,-79.478567,906,0.5622,25874,25874,9500,24750
+176628,Avila University,Kansas City,MO,Private not-for-profit,Master's degree,38.91339,-94.591758,985,0.563,27312,27312,17770,26000
+239390,Mount Mary College,Milwaukee,WI,Private not-for-profit,Doctor's degree -  professional practice,43.072507,-88.030732,970,0.5631,28380,28380,20837,26331
+214777,Pennsylvania State University-Main Campus,University Park,PA,Public,Doctor's degree - research/scholarship and professional practice,40.7965,-77.862848,1202,0.564,17900,32382,19500,26120
+127918,Regis University,Denver,CO,Private not-for-profit,Doctor's degree -  professional practice,39.788175,-105.030756,1098,0.5659,34450,34450,18500,22916
+231420,Averett University,Danville,VA,Private not-for-profit,Master's degree,36.577287,-79.413203,902,0.5666,31980,31980,17760.5,25000
+220862,University of Memphis,Memphis,TN,Public,Doctor's degree - research/scholarship and professional practice,35.118878,-89.938068,1011,0.5668,9125,20837,17500,25674.5
+198899,Mars Hill College,Mars Hill,NC,Private not-for-profit,Master's degree,35.82752,-82.551827,935,0.5674,30534,30534,14250,27000
+181093,Grace University,Omaha,NE,Private not-for-profit,Master's degree,41.246894,-95.927709,981,0.5676,21928,21928,12838.5,19500
+101435,Huntingdon College,Montgomery,AL,Private not-for-profit,Bachelor's degree,32.351034,-86.284366,1001,0.5676,25800,25800,16950,27000
+163268,University of Maryland-Baltimore County,Baltimore,MD,Public,Doctor's degree - research/scholarship,39.256686,-76.711607,1216,0.5683,11264,24492,16000,20906
+199607,Salem College,Winston Salem,NC,Private not-for-profit,Master's degree,36.086271,-80.241297,1104,0.5684,27406,27406,20515,27000
+154004,Morningside College,Sioux City,IA,Private not-for-profit,Master's degree,42.473891,-96.359464,1070,0.5693,29094,29094,16000,27000
+186380,Rutgers University-New Brunswick,New Brunswick,NJ,Public,Doctor's degree - research/scholarship and professional practice,40.498769,-74.446251,1230,0.5694,14372,30023,19500,22250
+198303,Chowan University,Murfreesboro,NC,Private not-for-profit,Master's degree,36.436258,-77.099141,789,0.5697,23930,23930,9500,36222
+170967,Rochester College,Rochester Hills,MI,Private not-for-profit,Master's degree,42.667521,-83.144959,989,0.5709,21662,21662,14904.5,23611
+163295,Maryland Institute College of Art,Baltimore,MD,Private not-for-profit,Master's degree,39.308792,-76.621033,1152,0.5709,45400,45400,21798,27000
+145725,Illinois Institute of Technology,Chicago,IL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.8313,-87.627321,1275,0.571,45214,45214,22500,27000
+198507,Elizabeth City State University,Elizabeth City,NC,Public,Master's degree,36.277978,-76.214041,884,0.5715,4889,17860,20000,26000
+140818,Piedmont College,Demorest,GA,Private not-for-profit,Doctor's degree - research/scholarship,34.566042,-83.542126,991,0.5715,23112,23112,15681,24173
+157076,Kentucky Wesleyan College,Owensboro,KY,Private not-for-profit,Bachelor's degree,37.744489,-87.119658,992,0.5722,24050,24050,12000,23250
+192040,Jewish Theological Seminary of America,New York,NY,Private not-for-profit,Doctor's degree - research/scholarship,40.811892,-73.960582,1349,0.5726,52660,52660,21750,PrivacySuppressed
+155511,McPherson College,McPherson,KS,Private not-for-profit,Master's degree,38.371422,-97.642996,1011,0.573,26498,26498,15000,26000
+187648,Eastern New Mexico University-Main Campus,Portales,NM,Public,Master's degree,34.175592,-103.34819,944,0.5731,5618,11393,8276,14611
+200156,Jamestown College,Jamestown,ND,Private not-for-profit,Master's degree,46.914302,-98.698416,1043,0.5731,20480,20480,16736,26924
+150756,Hanover College,Hanover,IN,Private not-for-profit,Bachelor's degree,38.715642,-85.460051,1093,0.5733,35514,35514,23691,27000
+436836,University of Connecticut-Stamford,Stamford,CT,Public,Bachelor's degree,41.056081,-73.542206,1013,0.5738,12034,33826,18750,21500
+186371,Rutgers University-Camden,Camden,NJ,Public,Doctor's degree - research/scholarship and professional practice,39.948064,-75.12224,1005,0.5749,14238,29381,19500,22250
+479956,Pennsylvania State University-World Campus,University Park,PA,Public,Master's degree,40.832783,-77.841594,1061,0.5753,13678,13678,19500,26120
+101541,Judson College,Marion,AL,Private not-for-profit,Bachelor's degree,32.629253,-87.315206,1013,0.5755,17376,17376,9500,21744
+157030,Kentucky Mountain Bible College,Vancleve,KY,Private not-for-profit,Bachelor's degree,37.603443,-83.438765,1010,0.5763,7610,7610,6250,PrivacySuppressed
+194578,Pratt Institute-Main,Brooklyn,NY,Private not-for-profit,Master's degree,40.691297,-73.96431,1183,0.5765,48154,48154,21500,26000
+133526,Edward Waters College,Jacksonville,FL,Private not-for-profit,Bachelor's degree,30.34479,-81.684879,808,0.577,13525,13525,12000,29875
+217013,Wilson College,Chambersburg,PA,Private not-for-profit,Master's degree,39.949659,-77.650712,936,0.5771,24430,24430,17432,25500
+140234,LaGrange College,Lagrange,GA,Private not-for-profit,Master's degree,33.038564,-85.043113,1021,0.5772,28490,28490,12875,26000
+207041,East Central University,Ada,OK,Public,Master's degree,34.771934,-96.663849,948,0.5777,6279,15399,9590.5,16687.5
+128744,University of Bridgeport,Bridgeport,CT,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.164741,-73.190166,930,0.5778,31630,31630,20500,27000
+187985,University of New Mexico-Main Campus,Albuquerque,NM,Public,Doctor's degree - research/scholarship and professional practice,35.083868,-106.620155,1038,0.5778,7340,21929,12500,19203
+155335,Newman University,Wichita,KS,Private not-for-profit,Master's degree,37.672643,-97.37768,1079,0.5778,27556,27556,15500,20257
+220710,Maryville College,Maryville,TN,Private not-for-profit,Bachelor's degree,35.751969,-83.963853,1087,0.5779,33524,33524,12500,27000
+145372,Greenville College,Greenville,IL,Private not-for-profit,Master's degree,38.894162,-89.40824,999,0.5782,25720,25720,15617.5,25000
+110714,University of California-Santa Cruz,Santa Cruz,CA,Public,Doctor's degree - research/scholarship,36.995584,-122.058801,1201,0.5785,13539,40221,17200,19700
+144005,Chicago State University,Chicago,IL,Public,Doctor's degree - research/scholarship and professional practice,41.718446,-87.609384,883,0.5788,10252,17212,22000,31862
+191630,Hobart William Smith Colleges,Geneva,NY,Private not-for-profit,Master's degree,42.858131,-76.985516,1260,0.5799,51559,51559,26775,27000
+134097,Florida State University,Tallahassee,FL,Public,Doctor's degree - research/scholarship and professional practice,30.440756,-84.291921,1214,0.5801,6507,21673,18053,20250
+196042,Farmingdale State College,Farmingdale,NY,Public,Bachelor's degree,40.754224,-73.42832,974,0.5802,7860,17710,11250,15888
+196291,SUNY Maritime College,Throggs Neck,NY,Public,Master's degree,40.807217,-73.795309,1128,0.5804,7834,17684,20000,24000
+174251,University of Minnesota-Morris,Morris,MN,Public,Bachelor's degree,45.589829,-95.901756,1145,0.5806,12846,14846,13932,19295
+177144,Culver-Stockton College,Canton,MO,Private not-for-profit,Bachelor's degree,40.128993,-91.529374,966,0.5812,25415,25415,16753,27000
+110510,California State University-San Bernardino,San Bernardino,CA,Public,Doctor's degree - research/scholarship,34.182622,-117.323801,877,0.5814,6610,17770,12832,15000
+100663,University of Alabama at Birmingham,Birmingham,AL,Public,Doctor's degree - research/scholarship and professional practice,33.505697,-86.799345,1125,0.5814,8040,18368,14979.5,21833
+206589,The College of Wooster,Wooster,OH,Private not-for-profit,Bachelor's degree,40.81046,-81.934674,1219,0.5816,46860,46860,21500,26000
+202514,Defiance College,Defiance,OH,Private not-for-profit,Master's degree,41.296842,-84.357075,960,0.5818,31680,31680,18835.5,27000
+436818,University of Connecticut-Tri-Campus,Waterbury,CT,Public,Bachelor's degree,41.555617,-73.039242,994,0.5821,12024,33816,18750,21500
+145646,Illinois Wesleyan University,Bloomington,IL,Private not-for-profit,Bachelor's degree,40.489901,-88.992014,1229,0.5821,44142,44142,26199.5,27000
+168528,Adrian College,Adrian,MI,Private not-for-profit,Master's degree,41.898591,-84.061481,1003,0.5841,34890,34890,17711,27000
+225511,University of Houston,Houston,TX,Public,Doctor's degree - research/scholarship and professional practice,29.720393,-95.343537,1152,0.5854,9519,21711,13250,19250
+214166,Mount Aloysius College,Cresson,PA,Private not-for-profit,Master's degree,40.459679,-78.600898,946,0.5858,21850,21850,17220,25000
+217907,Coker College,Hartsville,SC,Private not-for-profit,Master's degree,34.37696,-80.070416,959,0.5866,27624,27624,17035,27000
+154590,William Penn University,Oskaloosa,IA,Private not-for-profit,Master's degree,41.310111,-92.647095,889,0.5867,24510,24510,14750,25000
+132408,The Baptist College of Florida,Graceville,FL,Private not-for-profit,Master's degree,30.962708,-85.503931,910,0.5868,10800,10800,10750,20049
+152248,Purdue University-Calumet Campus,Hammond,IN,Public,Master's degree,41.584326,-87.474034,978,0.5868,7478,16896,13693,19754
+163578,Notre Dame of Maryland University,Baltimore,MD,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.350612,-76.619739,1058,0.5872,35019,35019,18666,25000
+139940,Georgia State University,Atlanta,GA,Public,Doctor's degree - research/scholarship and professional practice,33.7527,-84.38667,1070,0.5884,8974,23542,12500,22206.5
+141334,University of West Georgia,Carrollton,GA,Public,Doctor's degree - research/scholarship,33.573621,-85.097762,945,0.5909,6143,16717,12750,25000
+218441,North Greenville University,Tigerville,SC,Private not-for-profit,Doctor's degree - research/scholarship,35.069758,-82.37026,1119,0.5912,17594,17594,11452.5,21300.5
+175980,Millsaps College,Jackson,MS,Private not-for-profit,Master's degree,32.322746,-90.179957,1161,0.5915,37110,37110,18500,27000
+105899,Arizona Christian University,Phoenix,AZ,Private not-for-profit,Bachelor's degree,33.595117,-112.026211,963,0.5916,23896,23896,9500,18850
+110529,California State Polytechnic University-Pomona,Pomona,CA,Public,Doctor's degree - research/scholarship,34.054273,-117.819019,1045,0.5916,7067,18227,15275,18500
+146612,Lewis University,Romeoville,IL,Private not-for-profit,Doctor's degree - research/scholarship,41.605432,-88.079032,1090,0.5919,30050,30050,19500,23935
+198543,Fayetteville State University,Fayetteville,NC,Public,Doctor's degree - research/scholarship,35.073641,-78.891696,888,0.5927,5085,16693,17169,23396
+185828,New Jersey Institute of Technology,Newark,NJ,Public,Doctor's degree - research/scholarship,40.741997,-74.177113,1204,0.593,16430,31034,18250,23261
+143048,School of the Art Institute of Chicago,Chicago,IL,Private not-for-profit,Master's degree,41.88105,-87.625758,1127,0.5932,45750,45750,19809.5,26980
+200484,Trinity Bible College,Ellendale,ND,Private not-for-profit,Bachelor's degree,46.001037,-98.517906,917,0.5935,15912,15912,11000,24473
+147660,North Central College,Naperville,IL,Private not-for-profit,Master's degree,41.77576,-88.14279,1123,0.5936,36654,36654,20000,25000
+196088,University at Buffalo,Buffalo,NY,Public,Doctor's degree - research/scholarship and professional practice,43.000942,-78.789458,1181,0.5938,9574,26814,14999,19500
+149772,Western Illinois University,Macomb,IL,Public,Doctor's degree - research/scholarship,40.468086,-90.686899,970,0.5945,12655,16926,18000,24830
+155496,Manhattan Christian College,Manhattan,KS,Private not-for-profit,Bachelor's degree,39.184806,-96.579383,1022,0.5951,14986,14986,10500,19625
+151786,Marian University,Indianapolis,IN,Private not-for-profit,Doctor's degree -  professional practice,39.813233,-86.202643,1025,0.5958,31500,31500,19116.5,27000
+188030,New Mexico State University-Main Campus,Las Cruces,NM,Public,Doctor's degree - research/scholarship,32.281568,-106.752069,982,0.5961,6094,19652,10500,17000
+174358,Minnesota State University Moorhead,Moorhead,MN,Public,Doctor's degree - other,46.867153,-96.759532,1049,0.5961,8114,15250,17225,22579
+218414,Newberry College,Newberry,SC,Private not-for-profit,Bachelor's degree,34.285868,-81.619777,943,0.5965,25600,25600,14750,27000
+166629,University of Massachusetts Amherst,Amherst,MA,Public,Doctor's degree - research/scholarship and professional practice,42.385999,-72.526728,1234,0.5968,14971,32204,20600,23450.5
+215132,University of the Sciences,Philadelphia,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.946412,-75.207001,1165,0.5974,38850,38850,27000,27000
+175272,Winona State University,Winona,MN,Public,Doctor's degree - other,44.046159,-91.643723,1049,0.5975,9075,14772,16815.5,23206
+133669,Florida Atlantic University,Boca Raton,FL,Public,Doctor's degree - research/scholarship and professional practice,26.372421,-80.102978,1047,0.5978,4831,17276,12000,16800
+149514,Trinity International University-Illinois,Deerfield,IL,Private not-for-profit,Doctor's degree - research/scholarship,42.197945,-87.880851,1079,0.5978,30130,30130,17750.5,24475
+200253,Minot State University,Minot,ND,Public,Master's degree,48.246961,-101.29861,975,0.5981,6568,6568,12000,18349
+218539,Presbyterian College,Clinton,SC,Private not-for-profit,Doctor's degree -  professional practice,34.465834,-81.87448,1118,0.5983,37142,37142,18383.5,26000
+232308,Hollins University,Roanoke,VA,Private not-for-profit,Master's degree,37.354201,-79.943277,1146,0.5988,36835,36835,16524,27000
+164632,Bay Path College,Longmeadow,MA,Private not-for-profit,Master's degree,42.055364,-72.583974,967,0.5992,32739,32739,17150,24023
+229814,West Texas A & M University,Canyon,TX,Public,Doctor's degree - research/scholarship,34.982789,-101.914736,977,0.5997,7699,8945,12000,20500
+128771,Central Connecticut State University,New Britain,CT,Public,Doctor's degree - research/scholarship,41.692502,-72.765991,1000,0.6001,9741,22602,15834.5,22000
+159939,University of New Orleans,New Orleans,LA,Public,Doctor's degree - research/scholarship,30.027704,-90.067142,1034,0.6005,8484,22301,9750,16500
+145637,University of Illinois at Urbana-Champaign,Champaign,IL,Public,Doctor's degree - research/scholarship and professional practice,40.104718,-88.229114,1320,0.6007,15058,30680,17750,20127
+193654,The New School,New York,NY,Private not-for-profit,Doctor's degree - research/scholarship,40.735508,-73.997114,1158,0.6009,45440,45440,17541.5,24526.5
+207403,Oklahoma Baptist University,Shawnee,OK,Private not-for-profit,Master's degree,35.360492,-96.932459,1065,0.6011,25310,25310,13403.5,23875
+176372,University of Southern Mississippi,Hattiesburg,MS,Public,Doctor's degree - research/scholarship,31.32661,-89.331236,1070,0.6014,7659,16529,15750,25000
+151388,Indiana University-East,Richmond,IN,Public,Master's degree,39.868707,-84.881923,949,0.6028,7073,18683,12734,19300.5
+163453,Morgan State University,Baltimore,MD,Public,Doctor's degree - research/scholarship,39.344161,-76.585565,894,0.603,7636,17504,22500,30726.5
+157377,Midway College,Midway,KY,Private not-for-profit,Master's degree,38.146126,-84.678142,967,0.6032,23350,23350,15069,22243
+202480,University of Dayton,Dayton,OH,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.739547,-84.176113,1185,0.6035,40940,40940,23000,26100
+217961,Converse College,Spartanburg,SC,Private not-for-profit,Master's degree,34.955534,-81.917881,1048,0.6041,17000,17000,15000,26544.5
+198516,Elon University,Elon,NC,Private not-for-profit,Doctor's degree -  professional practice,36.104148,-79.50344,1206,0.6044,33104,33104,19500,21500
+131098,Wesley College,Dover,DE,Private not-for-profit,Master's degree,39.163182,-75.527716,830,0.6047,25646,25646,12250,30500
+169363,Concordia University-Ann Arbor,Ann Arbor,MI,Private not-for-profit,Master's degree,42.273157,-83.68268,1010,0.6048,27710,27710,17482,25000
+107877,Williams Baptist College,Walnut Ridge,AR,Private not-for-profit,Bachelor's degree,36.125676,-90.940277,970,0.6051,17320,17320,11952,19000
+126562,University of Colorado Denver,Denver,CO,Public,Doctor's degree - research/scholarship and professional practice,39.745149,-104.837722,1077,0.6052,9228,24924,13076,20500
+202046,Cleveland Institute of Art,Cleveland,OH,Private not-for-profit,Bachelor's degree,41.510435,-81.602416,1086,0.6053,39585,39585,27000,27250
+166513,University of Massachusetts-Lowell,Lowell,MA,Public,Doctor's degree - research/scholarship and professional practice,42.652864,-71.326809,1172,0.6057,14307,30875,17928,24604.5
+217688,Charleston Southern University,Charleston,SC,Private not-for-profit,Master's degree,32.983047,-80.072587,1021,0.606,24140,24140,15000,27000
+215099,Philadelphia University,Philadelphia,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.022882,-75.192645,1052,0.6068,37950,37950,17929.5,27000
+164173,Stevenson University,Stevenson,MD,Private not-for-profit,Master's degree,39.421988,-76.702092,1022,0.6076,33168,33168,20632,26905
+198950,Meredith College,Raleigh,NC,Private not-for-profit,Master's degree,35.799351,-78.689995,1054,0.6079,34907,34907,18000,26000
+207324,Oklahoma Christian University,Edmond,OK,Private not-for-profit,Master's degree,35.611412,-97.469526,1113,0.6082,20840,20840,16000,25300
+219976,Lipscomb University,Nashville,TN,Private not-for-profit,Doctor's degree -  professional practice,36.10469,-86.799304,1142,0.6085,29756,29756,14145,20750.5
+217059,York College Pennsylvania,York,PA,Private not-for-profit,Doctor's degree -  professional practice,39.94614,-76.727984,1042,0.6102,18780,18780,21250,26436.5
+176947,Central Methodist University-College of Liberal Arts & Sciences,Fayette,MO,Private not-for-profit,Bachelor's degree,39.150497,-92.685253,1023,0.6103,23010,23010,12500,16950
+179548,Stephens College,Columbia,MO,Private not-for-profit,Master's degree,38.95204,-92.319204,1049,0.6104,29754,29754,15811.5,25436
+181330,Midland University,Fremont,NE,Private not-for-profit,Master's degree,41.43674,-96.488008,1003,0.6106,30430,30430,14985,27000
+152318,Rose-Hulman Institute of Technology,Terre Haute,IN,Private not-for-profit,Master's degree,39.483602,-87.326749,1318,0.6107,46210,46210,27000,27000
+140988,Shorter University,Rome,GA,Private not-for-profit,Master's degree,34.257543,-85.196529,961,0.6115,21730,21730,19000.5,27000
+232043,Eastern Mennonite University,Harrisonburg,VA,Private not-for-profit,Master's degree,38.471134,-78.880326,1049,0.6115,34200,34200,14700,21700
+218724,Coastal Carolina University,Conway,SC,Public,Master's degree,33.794995,-79.011767,1030,0.6118,10876,25120,14000,25000
+212133,Eastern University,Saint Davids,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.050448,-75.370316,1029,0.6119,31140,31140,20000,26500
+209825,University of Portland,Portland,OR,Private not-for-profit,Doctor's degree -  professional practice,45.572724,-122.726691,1190,0.6132,44104,44104,20662,24896.5
+133881,Florida Institute of Technology,Melbourne,FL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,28.065815,-80.622893,1179,0.6133,40446,40446,10500,27000
+199032,Montreat College,Montreat,NC,Private not-for-profit,Master's degree,35.646577,-82.2976,960,0.6137,24940,24940,13825,25995
+233295,Randolph-Macon College,Ashland,VA,Private not-for-profit,Bachelor's degree,37.76043,-77.478416,1091,0.614,38730,38730,24318,27000
+203845,Marietta College,Marietta,OH,Private not-for-profit,Master's degree,39.41668,-81.450045,1090,0.6141,35330,35330,21500,27000
+221731,Tennessee Wesleyan College,Athens,TN,Private not-for-profit,Master's degree,35.446331,-84.592728,1019,0.6143,23000,23000,14250,21000
+109785,Azusa Pacific University,Azusa,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,34.130047,-117.888375,1035,0.6146,36120,36120,18500,23092
+163462,Mount St Mary's University,Emmitsburg,MD,Private not-for-profit,Master's degree,39.681705,-77.351887,1043,0.6153,39000,39000,17700,26770
+218061,Francis Marion University,Florence,SC,Public,Master's degree,34.189777,-79.652854,927,0.6156,10428,20308,18345.5,31000
+199209,North Carolina Wesleyan College,Rocky Mount,NC,Private not-for-profit,Bachelor's degree,36.019665,-77.773982,919,0.6157,29150,29150,14750,21845
+183822,Bloomfield College,Bloomfield,NJ,Private not-for-profit,Master's degree,40.795105,-74.194309,861,0.6158,28600,28600,16750,30966.5
+132471,Barry University,Miami,FL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,25.878908,-80.198925,930,0.6159,28800,28800,19500,28000
+132879,Florida Christian College,Kissimmee,FL,Private not-for-profit,Bachelor's degree,28.302547,-81.363053,972,0.6164,14270,14270,15800,23250
+218229,Lander University,Greenwood,SC,Public,Master's degree,34.199892,-82.164736,964,0.6175,11200,20800,13000,27000
+231086,Southern Vermont College,Bennington,VT,Private not-for-profit,Bachelor's degree,42.867713,-73.218518,876,0.6178,23975,23975,21500,27000
+160038,Northwestern State University of Louisiana,Natchitoches,LA,Public,Master's degree,31.750666,-93.097797,1006,0.618,7620,18408,12500,21500
+178402,University of Missouri-Kansas City,Kansas City,MO,Public,Doctor's degree - research/scholarship and professional practice,39.034179,-94.582141,1126,0.6187,7846,18886,15000,21000
+154013,Mount Mercy University,Cedar Rapids,IA,Private not-for-profit,Master's degree,42.001931,-91.650991,990,0.6188,29696,29696,16795,22000
+101693,University of Mobile,Mobile,AL,Private not-for-profit,Master's degree,30.793247,-88.128934,1029,0.6193,21400,21400,16750,26579.5
+106713,Central Baptist College,Conway,AR,Private not-for-profit,Bachelor's degree,35.083838,-92.445021,1018,0.6195,15000,15000,13996.5,28250
+160904,Xavier University of Louisiana,New Orleans,LA,Private not-for-profit,Doctor's degree -  professional practice,29.964162,-90.107307,1054,0.6195,23046,23046,14203,25005
+146676,Lincoln College,Lincoln,IL,Private not-for-profit,Bachelor's degree,40.155442,-89.36153,823,0.6202,17700,17700,9500,12000
+199139,University of North Carolina at Charlotte,Charlotte,NC,Public,Doctor's degree - research/scholarship,35.306022,-80.730919,1112,0.6203,6763,19934,16350,22500
+236896,Walla Walla University,College Place,WA,Private not-for-profit,Master's degree,46.048088,-118.389555,1074,0.6205,26982,26982,21500,27000
+180595,Rocky Mountain College,Billings,MT,Private not-for-profit,Master's degree,45.796522,-108.554075,1021,0.6207,26666,26666,17750,26000
+139144,Berry College,Mount Berry,GA,Private not-for-profit,Master's degree,34.290414,-85.189202,1183,0.6209,33556,33556,19000,24093.5
+231712,Christopher Newport University,Newport News,VA,Public,Master's degree,37.062495,-76.494364,1158,0.6216,13054,24680,21229,25000
+191649,Hofstra University,Hempstead,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.715959,-73.60078,1177,0.6222,42160,42160,17152,23503
+150136,Ball State University,Muncie,IN,Public,Doctor's degree - research/scholarship and professional practice,40.203431,-85.409043,1057,0.6225,9654,25428,18000,24513.5
+196158,SUNY at Fredonia,Fredonia,NY,Public,Master's degree,42.452236,-79.337375,1034,0.6235,8089,17939,19500,25000
+436827,University of Connecticut-Avery Point,Groton,CT,Public,Bachelor's degree,41.316419,-72.065336,1014,0.624,12024,33816,18750,21500
+228431,Stephen F Austin State University,Nacogdoches,TX,Public,Doctor's degree - research/scholarship,31.621056,-94.64908,993,0.6245,7716,17508,16819.5,25000
+150668,Goshen College,Goshen,IN,Private not-for-profit,Master's degree,41.563582,-85.827795,1074,0.6245,33200,33200,15000,20203
+240374,University of Wisconsin-Parkside,Kenosha,WI,Public,Master's degree,42.647718,-87.855231,970,0.6246,7367,15356,13000,22308
+173920,Minnesota State University-Mankato,Mankato,MN,Public,Doctor's degree - other,44.146712,-93.99945,1029,0.6249,7858,15602,14897.5,22198
+240107,Viterbo University,La Crosse,WI,Private not-for-profit,Master's degree,43.803133,-91.244297,1065,0.6254,26150,26150,20500,26000
+221971,Union University,Jackson,TN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,35.676896,-88.858524,1200,0.6257,30330,30330,20585,23591
+229115,Texas Tech University,Lubbock,TX,Public,Doctor's degree - research/scholarship and professional practice,33.583448,-101.874783,1117,0.626,8428,18220,15500,22102
+152673,Wabash College,Crawfordsville,IN,Private not-for-profit,Bachelor's degree,40.037588,-86.906,1145,0.6262,41050,41050,25000,25786
+162584,Frostburg State University,Frostburg,MD,Public,Doctor's degree -  professional practice,39.650918,-78.934293,970,0.6272,8702,21226,14000,21499
+188641,Alfred University,Alfred,NY,Private not-for-profit,Doctor's degree - research/scholarship,42.254476,-77.788106,1038,0.6279,27078,27078,22500,27000
+199272,William Peace University,Raleigh,NC,Private not-for-profit,Bachelor's degree,35.789139,-78.637697,907,0.6284,27080,27080,16149,25000
+239017,Lawrence University,Appleton,WI,Private not-for-profit,Bachelor's degree,44.261323,-88.397822,1280,0.6298,44844,44844,23950,27000
+203580,Lake Erie College,Painesville,OH,Private not-for-profit,Master's degree,41.717841,-81.251817,946,0.631,29960,29960,16819,27000
+159647,Louisiana Tech University,Ruston,LA,Public,Doctor's degree - research/scholarship and professional practice,32.528297,-92.649963,1105,0.6319,9117,25851,12000,19680.5
+106397,University of Arkansas,Fayetteville,AR,Public,Doctor's degree - research/scholarship and professional practice,36.070009,-94.176981,1170,0.632,8820,23168,14181,21500
+199999,Winston-Salem State University,Winston-Salem,NC,Public,Doctor's degree -  professional practice,36.089554,-80.225033,870,0.6326,5804,15915,15410,25000
+211088,Arcadia University,Glenside,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.092606,-75.163876,1120,0.6327,40920,40920,21500,27000
+219806,Carson-Newman University,Jefferson City,TN,Private not-for-profit,Master's degree,36.122934,-83.491709,1058,0.6329,26360,26360,14669.5,24250
+175856,Jackson State University,Jackson,MS,Public,Doctor's degree - research/scholarship,32.296105,-90.207405,911,0.6332,7261,17614,19500,28000
+238616,Concordia University-Wisconsin,Mequon,WI,Private not-for-profit,Doctor's degree -  professional practice,43.253387,-87.91552,1105,0.6335,27900,27900,17482,25000
+195809,St. John's University-New York,Queens,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.722523,-73.796104,1089,0.6336,39460,39460,19999,25500
+170037,Cornerstone University,Grand Rapids,MI,Private not-for-profit,Master's degree,42.979966,-85.595328,1009,0.6345,26860,26860,18500,25250
+181738,Union College,Lincoln,NE,Private not-for-profit,Master's degree,40.774778,-96.651095,1030,0.635,22538,22538,17588.5,27000
+130493,Southern Connecticut State University,New Haven,CT,Public,Doctor's degree -  professional practice,41.333225,-72.947897,933,0.6352,10054,22915,16000,23000
+237640,Ohio Valley University,Vienna,WV,Private not-for-profit,Master's degree,39.312447,-81.537808,966,0.6355,20460,20460,10250,23437.5
+154235,Saint Ambrose University,Davenport,IA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.54065,-90.579854,1050,0.6358,29150,29150,20858.5,25500
+167783,Simmons College,Boston,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.3393,-71.099967,1179,0.6362,38590,38590,23000,25000
+153001,Buena Vista University,Storm Lake,IA,Private not-for-profit,Master's degree,42.642255,-95.208529,1046,0.6369,32210,32210,17301,24748
+110592,California State University-Los Angeles,Los Angeles,CA,Public,Doctor's degree - research/scholarship,34.066927,-118.168965,870,0.637,6383,17543,11000,12500
+159717,McNeese State University,Lake Charles,LA,Public,Master's degree,30.178187,-93.217222,1027,0.637,7310,18385,10990,19500
+174899,The College of Saint Scholastica,Duluth,MN,Private not-for-profit,Doctor's degree -  professional practice,46.816082,-92.106134,1086,0.6371,35326,35326,16808,20197
+148496,Dominican University,River Forest,IL,Private not-for-profit,Doctor's degree - research/scholarship,41.902678,-87.823003,1050,0.6373,31570,31570,18500,25000
+166452,Lesley University,Cambridge,MA,Private not-for-profit,Doctor's degree - research/scholarship,42.38012,-71.117303,1064,0.6373,25875,25875,15750,23250
+208822,George Fox University,Newberg,OR,Private not-for-profit,Doctor's degree -  professional practice,45.303629,-122.967494,1089,0.6376,33730,33730,18750,23000
+232609,Lynchburg College,Lynchburg,VA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.399774,-79.181653,1023,0.6378,36620,36620,21555,27000
+154721,Bethany College,Lindsborg,KS,Private not-for-profit,Bachelor's degree,38.580598,-97.67367,960,0.638,26660,26660,10729,25000
+147244,Millikin University,Decatur,IL,Private not-for-profit,Master's degree,39.842612,-88.976298,1047,0.638,31824,31824,20375,26983
+127565,Metropolitan State University of Denver,Denver,CO,Public,Master's degree,39.744202,-105.00504,951,0.6387,6930,20096,12988,22877.5
+227368,The University of Texas-Pan American,Edinburg,TX,Public,Doctor's degree - research/scholarship,26.306759,-98.173567,950,0.6393,7438,17230,7250,10054
+181127,Hastings College,Hastings,NE,Private not-for-profit,Master's degree,40.59025,-98.374403,1058,0.6394,28250,28250,15000,26500
+110361,California Baptist University,Riverside,CA,Private not-for-profit,Master's degree,33.929321,-117.425619,988,0.6399,31372,31372,20820.5,27000
+196130,Buffalo State SUNY,Buffalo,NY,Public,Master's degree,42.933832,-78.882125,885,0.6407,7701,17551,13500,20500
+173124,Bemidji State University,Bemidji,MN,Public,Master's degree,47.482341,-94.874119,1030,0.6408,8394,8394,12456,20433
+204635,Ohio Northern University,Ada,OH,Private not-for-profit,Doctor's degree -  professional practice,40.7662,-83.827441,1160,0.6411,29820,29820,24466,27000
+195173,St. Francis College,Brooklyn Heights,NY,Private not-for-profit,Master's degree,40.693228,-73.992164,937,0.6414,25300,25300,16050,25000
+110413,California Lutheran University,Thousand Oaks,CA,Private not-for-profit,Doctor's degree -  professional practice,34.224566,-118.878924,1107,0.6419,39793,39793,18219.5,21875
+158477,Centenary College of Louisiana,Shreveport,LA,Private not-for-profit,Master's degree,32.483335,-93.730834,1121,0.6422,35430,35430,18450,26500
+196112,SUNY Institute of Technology at Utica-Rome,Utica,NY,Public,Master's degree,43.137701,-75.229841,1170,0.6431,7777,17627,12500,15094
+211583,Chestnut Hill College,Philadelphia,PA,Private not-for-profit,Doctor's degree -  professional practice,40.08678,-75.228742,951,0.6447,34140,34140,20062.5,26441
+216764,West Chester University of Pennsylvania,West Chester,PA,Public,Master's degree,39.953398,-75.59812,1061,0.6448,9720,20812,19265,23292
+144971,Eureka College,Eureka,IL,Private not-for-profit,Bachelor's degree,40.71482,-89.269624,1030,0.6453,21120,21120,15000,25000
+136172,University of North Florida,Jacksonville,FL,Public,Doctor's degree - research/scholarship and professional practice,30.27194,-81.509144,1110,0.6453,6394,20798,12186,15947
+195720,Saint John Fisher College,Rochester,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,43.116259,-77.513056,1078,0.6454,31880,31880,20500,23500
+139931,Georgia Southern University,Statesboro,GA,Public,Doctor's degree - research/scholarship,32.428808,-81.782232,1110,0.6455,6273,16847,17029,23250
+237181,Bethany College,Bethany,WV,Private not-for-profit,Master's degree,40.205819,-80.560056,920,0.6456,27696,27696,19324,32500
+224147,Texas A & M University-Corpus Christi,Corpus Christi,TX,Public,Doctor's degree - research/scholarship,27.713723,-97.32395,953,0.6465,8424,18257,12000,22810
+219198,Mount Marty College,Yankton,SD,Private not-for-profit,Master's degree,42.874475,-97.409904,990,0.6469,25380,25380,17875,26538.5
+225414,University of Houston-Clear Lake,Houston,TX,Public,Doctor's degree - research/scholarship,29.582523,-95.098129,1017,0.6471,6502,18550,12516,16500
+171137,University of Michigan-Dearborn,Dearborn,MI,Public,Doctor's degree - research/scholarship,42.317287,-83.231417,1125,0.6471,12032,24272,18203,24750
+194958,Roberts Wesleyan College,Rochester,NY,Private not-for-profit,Master's degree,43.125755,-77.798498,1057,0.6472,29540,29540,19335,22000
+179159,Saint Louis University-Main Campus,Saint Louis,MO,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,38.636801,-90.2351,1259,0.6474,40726,40726,21500,25750
+137953,Trinity Baptist College,Jacksonville,FL,Private not-for-profit,Master's degree,30.311171,-81.79626,874,0.6476,11040,11040,8375,19623
+165866,Framingham State University,Framingham,MA,Public,Master's degree,42.297289,-71.437175,995,0.6481,9340,15420,17671,24973
+232265,Hampton University,Hampton,VA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.019944,-76.339161,973,0.6482,24242,24242,19500,27000
+110097,Biola University,La Mirada,CA,Private not-for-profit,Doctor's degree - research/scholarship,33.906203,-118.014374,1093,0.6485,36696,36696,19500,24188
+153126,Clarke University,Dubuque,IA,Private not-for-profit,Doctor's degree -  professional practice,42.509475,-90.690487,1043,0.6493,30900,30900,19664.5,26167
+237367,Fairmont State University,Fairmont,WV,Public,Master's degree,39.483079,-80.162433,962,0.6496,6950,14666,12000,21235
+240365,University of Wisconsin-Oshkosh,Oshkosh,WI,Public,Doctor's degree -  professional practice,44.026206,-88.549369,1030,0.6502,7544,15117,16250,23000
+112075,Concordia University-Irvine,Irvine,CA,Private not-for-profit,Master's degree,33.653665,-117.812305,1048,0.6504,32780,32780,18500,22250
+177746,Kansas City Art Institute,Kansas City,MO,Private not-for-profit,Bachelor's degree,39.046353,-94.583594,1072,0.6504,36450,36450,23493,27000
+218654,University of South Carolina-Beaufort,Bluffton,SC,Public,Bachelor's degree,32.303308,-80.973595,980,0.6513,10166,20630,11000,24995
+141264,Valdosta State University,Valdosta,GA,Public,Doctor's degree - research/scholarship,30.847402,-83.289282,982,0.6513,6297,16891,15750,25000
+179946,Westminster College,Fulton,MO,Private not-for-profit,Bachelor's degree,38.849354,-91.955273,1087,0.6518,24540,24540,19000,26000
+171146,University of Michigan-Flint,Flint,MI,Public,Doctor's degree -  professional practice,43.01875,-83.690276,1050,0.6519,10344,20190,19230.5,27500
+110538,California State University-Chico,Chico,CA,Public,Master's degree,39.729712,-121.844859,997,0.6525,7040,18200,14250,16750
+174127,Minneapolis College of Art and Design,Minneapolis,MN,Private not-for-profit,Master's degree,44.956988,-93.274705,1069,0.6525,36548,36548,19750,25800
+239628,Ripon College,Ripon,WI,Private not-for-profit,Bachelor's degree,43.844135,-88.842333,1085,0.6526,39142,39142,23250,27000
+148654,University of Illinois at Springfield,Springfield,IL,Public,Doctor's degree - research/scholarship,39.729524,-89.616796,1067,0.653,11413,20938,13889,18491
+186399,Rutgers University-Newark,Newark,NJ,Public,Doctor's degree - research/scholarship and professional practice,40.739122,-74.175809,1005,0.6531,13829,29480,19500,22250
+192323,Le Moyne College,Syracuse,NY,Private not-for-profit,Master's degree,43.049192,-76.090435,1119,0.6531,33030,33030,19000,24374.5
+150400,DePauw University,Greencastle,IN,Private not-for-profit,Bachelor's degree,39.640904,-86.860363,1187,0.6533,46448,46448,23988.5,26375
+164720,Becker College,Worcester,MA,Private not-for-profit,Bachelor's degree,42.26918,-71.811895,1037,0.6534,37272,37272,19500,26919
+204024,Miami University-Oxford,Oxford,OH,Public,Doctor's degree - research/scholarship,39.507757,-84.732954,1276,0.6538,14736,32555,16500,23951.5
+101709,University of Montevallo,Montevallo,AL,Public,Master's degree,33.10625,-86.865099,1069,0.6542,12040,24310,17028,24264
+154101,Northwestern College,Orange City,IA,Private not-for-profit,Bachelor's degree,42.999007,-96.058772,1113,0.6553,29500,29500,19500,24250
+138558,Abraham Baldwin Agricultural College,Tifton,GA,Public,Bachelor's degree,31.481889,-83.528281,932,0.6561,3453,10060,6500,14681.5
+171100,Michigan State University,East Lansing,MI,Public,Doctor's degree - research/scholarship and professional practice,42.73212,-84.476111,1194,0.6574,14062,37890,21829,25200
+188182,University of the Southwest,Hobbs,NM,Private not-for-profit,Master's degree,32.775496,-103.186948,863,0.6578,15456,15456,9500,20000
+440828,Oregon State University-Cascades Campus,Bend,OR,Public,Master's degree,44.042795,-121.333703,1093,0.6584,9123,27918,17115,23393
+215798,Saint Vincent College,Latrobe,PA,Private not-for-profit,Master's degree,40.29265,-79.403762,1055,0.6587,33426,33426,23353.5,27000
+167899,Springfield College,Springfield,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.101576,-72.556751,1045,0.659,35475,35475,20590,25000
+195164,St. Bonaventure University,Saint Bonaventure,NY,Private not-for-profit,Master's degree,42.080191,-78.481107,1061,0.659,32331,32331,22500,27000
+120883,University of the Pacific,Stockton,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.981424,-121.312301,1180,0.6599,44588,44588,20120.5,24245
+140553,Morehouse College,Atlanta,GA,Private not-for-profit,Bachelor's degree,33.745982,-84.414917,994,0.6607,26742,26742,19500,26000
+174437,North Central University,Minneapolis,MN,Private not-for-profit,Bachelor's degree,44.968625,-93.261511,1029,0.6608,22240,22240,19625,25062.5
+107071,Henderson State University,Arkadelphia,AR,Public,Master's degree,34.128155,-93.059703,1030,0.6611,8340,15180,11000,20050
+156745,Georgetown College,Georgetown,KY,Private not-for-profit,Master's degree,38.207615,-84.553767,1061,0.6612,35650,35650,18500,27000
+456959,University of Minnesota-Rochester,Rochester,MN,Public,Bachelor's degree,44.022339,-92.463471,1122,0.6612,13232,13232,17000,20000
+131450,Gallaudet University,Washington,DC,Private not-for-profit,Doctor's degree - research/scholarship,38.907371,-76.993675,827,0.6614,16078,16078,10250,15000
+153320,Faith Baptist Bible College and Theological Seminary,Ankeny,IA,Private not-for-profit,Master's degree,41.737082,-93.624422,1051,0.6617,16766,16766,8750,12828.5
+165644,Eastern Nazarene College,Quincy,MA,Private not-for-profit,Master's degree,42.271228,-71.011079,986,0.6622,30815,30815,18500,24792
+148131,Quincy University,Quincy,IL,Private not-for-profit,Master's degree,39.938898,-91.385975,991,0.6623,27128,27128,13000,21500
+125897,Woodbury University,Burbank,CA,Private not-for-profit,Master's degree,34.208011,-118.341147,1012,0.6624,37906,37906,27000,31000
+186618,College of Saint Elizabeth,Morristown,NJ,Private not-for-profit,Doctor's degree - research/scholarship,40.78182,-74.438221,828,0.6626,32282,32282,14250,25000
+239318,Milwaukee School of Engineering,Milwaukee,WI,Private not-for-profit,Master's degree,43.045364,-87.907691,1245,0.6631,37980,37980,25500,27000
+110671,University of California-Riverside,Riverside,CA,Public,Doctor's degree - research/scholarship,33.97246,-117.32741,1078,0.6634,13581,40263,16530,19000
+150066,Anderson University,Anderson,IN,Private not-for-profit,Doctor's degree - research/scholarship,40.112768,-85.664315,1019,0.6642,28650,28650,20209,27000
+211468,Cedar Crest College,Allentown,PA,Private not-for-profit,Master's degree,40.586318,-75.519221,989,0.6647,36825,36825,21000,27000
+219718,Bethel University,McKenzie,TN,Private not-for-profit,Master's degree,36.137848,-88.516762,930,0.6652,15764,15764,17750,28955.5
+199157,North Carolina Central University,Durham,NC,Public,Doctor's degree - research/scholarship and professional practice,35.974237,-78.898602,873,0.6669,6132,18590,24171.5,31000
+221768,The University of Tennessee-Martin,Martin,TN,Public,Master's degree,36.340338,-88.864211,1050,0.667,9088,14848,15656,23760
+154518,Waldorf College,Forest City,IA,Private for-profit,Bachelor's degree,43.262923,-93.641714,960,0.6671,21260,21260,10036.5,17187
+209409,Northwest Christian University,Eugene,OR,Private not-for-profit,Master's degree,44.047483,-123.079754,971,0.6674,27930,27930,15500,22500
+195544,Saint Joseph's College-New York,Brooklyn,NY,Private not-for-profit,Master's degree,40.690418,-73.967664,1017,0.6678,25114,25114,15000,20012.5
+196167,SUNY College at Geneseo,Geneseo,NY,Public,Master's degree,42.796645,-77.821894,1206,0.6685,8176,18026,18250,21684
+107512,Ouachita Baptist University,Arkadelphia,AR,Private not-for-profit,Bachelor's degree,34.126093,-93.052471,1116,0.6688,24940,24940,14607.5,21500
+186584,Seton Hall University,South Orange,NJ,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.742336,-74.246027,1156,0.669,39258,39258,19500,25000
+218645,University of South Carolina-Aiken,Aiken,SC,Public,Master's degree,33.572704,-81.767612,986,0.6692,10196,20102,14255.5,25974
+171492,Northwood University-Michigan,Midland,MI,Private not-for-profit,Master's degree,43.628717,-84.27682,1026,0.6694,25130,25130,18750,20800
+228723,Texas A & M University-College Station,College Station,TX,Public,Doctor's degree - research/scholarship and professional practice,30.618726,-96.336475,1205,0.6717,11036,31214,15500,18519.5
+221847,Tennessee Technological University,Cookeville,TN,Public,Doctor's degree - research/scholarship,36.174659,-85.503957,1103,0.6721,8203,24067,11000,16532
+235316,Gonzaga University,Spokane,WA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,47.666531,-117.400625,1224,0.6729,39730,39730,23000,26036
+215743,Saint Francis University,Loretto,PA,Private not-for-profit,Doctor's degree -  professional practice,40.506734,-78.63904,1069,0.6736,33344,33344,26210,27000
+213400,Lancaster Bible College,Lancaster,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.075347,-76.287761,1015,0.6739,21500,21500,12500,18625
+206695,Youngstown State University,Youngstown,OH,Public,Doctor's degree - research/scholarship and professional practice,41.104928,-80.64659,1003,0.6745,8317,8557,17250,26495.5
+157863,Union College,Barbourville,KY,Private not-for-profit,Master's degree,36.870875,-83.888477,950,0.6749,25135,25135,12000,25000
+153834,Luther College,Decorah,IA,Private not-for-profit,Bachelor's degree,43.312304,-91.802809,1157,0.6763,40040,40040,26193,27000
+178615,Truman State University,Kirksville,MO,Public,Master's degree,40.188267,-92.581658,1224,0.6769,7456,13940,17250,22402
+159656,Loyola University-New Orleans,New Orleans,LA,Private not-for-profit,Doctor's degree -  professional practice,29.936141,-90.120417,1165,0.6775,38754,38754,20500,27000
+168591,Alma College,Alma,MI,Private not-for-profit,Bachelor's degree,43.38004,-84.672053,1087,0.6795,37310,37310,23000,27000
+228787,The University of Texas at Dallas,Richardson,TX,Public,Doctor's degree - research/scholarship and professional practice,32.984673,-96.749702,1262,0.6799,11192,28808,13000,18000
+218663,University of South Carolina-Columbia,Columbia,SC,Public,Doctor's degree - research/scholarship and professional practice,33.996788,-81.026935,1228,0.6814,11454,30882,19500,23000
+147013,McKendree University,Lebanon,IL,Private not-for-profit,Doctor's degree - research/scholarship,38.608154,-89.816822,1025,0.6816,28740,28740,16499,22912
+174075,University of Minnesota-Crookston,Crookston,MN,Public,Bachelor's degree,47.802536,-96.606188,1026,0.6817,11700,11700,14487.5,20467.5
+139764,Georgia Southwestern State University,Americus,GA,Public,Master's degree,32.054662,-84.217738,975,0.6818,5262,15518,11500,19444.5
+122597,San Francisco State University,San Francisco,CA,Public,Doctor's degree - research/scholarship and professional practice,37.721345,-122.477905,979,0.682,6484,17644,13000,16711.5
+190044,Clarkson University,Potsdam,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,44.662716,-74.999359,1190,0.6821,46132,46132,24250,27000
+154527,Wartburg College,Waverly,IA,Private not-for-profit,Bachelor's degree,42.7277,-92.483387,1084,0.6825,38380,38380,23250,27000
+213826,Marywood University,Scranton,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.434587,-75.634142,1030,0.6832,33000,33000,24470,27000
+197869,Appalachian State University,Boone,NC,Public,Doctor's degree - research/scholarship,36.215536,-81.680583,1140,0.6832,7136,21652,16000,20242
+211981,Delaware Valley College,Doylestown,PA,Private not-for-profit,Master's degree,40.298659,-75.158452,990,0.6838,36750,36750,16500,25700
+207582,Oral Roberts University,Tulsa,OK,Private not-for-profit,Doctor's degree - research/scholarship,36.049129,-95.952547,1010,0.6846,25676,25676,22178.5,30402
+105589,Prescott College,Prescott,AZ,Private not-for-profit,Doctor's degree - research/scholarship,34.5452,-112.477185,1089,0.6847,28943,28943,14962,19208.5
+114813,Fresno Pacific University,Fresno,CA,Private not-for-profit,Master's degree,36.726831,-119.735199,968,0.6848,29320,29320,18000,21500
+212984,Holy Family University,Philadelphia,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.060581,-74.986451,930,0.6849,29750,29750,20250,26500
+218964,Winthrop University,Rock Hill,SC,Public,Master's degree,34.941515,-81.031404,1039,0.685,14810,28390,20000,27000
+166638,University of Massachusetts-Boston,Boston,MA,Public,Doctor's degree - research/scholarship and professional practice,42.312881,-71.036865,1073,0.6852,13435,32023,16250,22268
+206622,Xavier University,Cincinnati,OH,Private not-for-profit,Doctor's degree -  professional practice,39.149547,-84.47465,1146,0.6858,36150,36150,21500,27000
+196237,SUNY College at Old Westbury,Old Westbury,NY,Public,Master's degree,40.799021,-73.571907,972,0.686,7683,17533,13000,17000
+220978,Middle Tennessee State University,Murfreesboro,TN,Public,Doctor's degree - research/scholarship,35.848005,-86.360618,1030,0.6861,8280,25416,14250,21500
+177117,Cottey College,Nevada,MO,Private not-for-profit,Bachelor's degree,37.836127,-94.371311,1059,0.6872,19300,19300,9207.5,12000
+231174,University of Vermont,Burlington,VT,Public,Doctor's degree - research/scholarship and professional practice,44.477325,-73.196646,1216,0.6894,17300,40364,17903,22500
+153269,Drake University,Des Moines,IA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.60129,-93.652163,1241,0.6895,35206,35206,22500,26441.5
+221254,O'More College of Design,Franklin,TN,Private not-for-profit,Bachelor's degree,35.920227,-86.868319,950,0.6903,28176,28176,17500,25500
+201654,Cedarville University,Cedarville,OH,Private not-for-profit,Doctor's degree -  professional practice,39.749237,-83.814692,1188,0.6906,28110,28110,16000,21460.5
+215691,Rosemont College,Rosemont,PA,Private not-for-profit,Master's degree,40.033417,-75.32925,899,0.6909,19480,19480,16892,27000
+141565,University of Hawaii at Hilo,Hilo,HI,Public,Doctor's degree - research/scholarship and professional practice,19.701189,-155.080847,978,0.691,7650,20610,12500,19834.5
+151333,Indiana University-Kokomo,Kokomo,IN,Public,Master's degree,40.460062,-86.132048,938,0.6913,7073,18683,11243.5,18914
+107983,Southern Arkansas University Main Campus,Magnolia,AR,Public,Master's degree,33.291618,-93.235922,989,0.6913,8196,11856,9500,16750
+219000,Augustana College,Sioux Falls,SD,Private not-for-profit,Master's degree,43.525148,-96.736975,1174,0.6913,30944,30944,23259,26862
+151290,Indiana Institute of Technology,Fort Wayne,IN,Private not-for-profit,Doctor's degree - research/scholarship,41.078365,-85.116479,944,0.6917,26370,26370,9500,26500
+188526,Albany College of Pharmacy and Health Sciences,Albany,NY,Private not-for-profit,Doctor's degree -  professional practice,42.650371,-73.779063,1141,0.6917,31981,31981,25000,27000
+192925,Medaille College,Buffalo,NY,Private not-for-profit,Doctor's degree - research/scholarship,42.92856,-78.855941,906,0.6923,27276,27276,15000,24997.5
+201548,Capital University,Columbus,OH,Private not-for-profit,Doctor's degree -  professional practice,39.954875,-82.937867,1135,0.6923,33492,33492,20091,26993
+154712,Benedictine College,Atchison,KS,Private not-for-profit,Master's degree,39.572646,-95.111473,1116,0.6924,27480,27480,20053,27000
+164447,American International College,Springfield,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.112708,-72.558507,881,0.6931,33140,33140,19500,27000
+170675,Lawrence Technological University,Southfield,MI,Private not-for-profit,Doctor's degree - research/scholarship,42.474072,-83.25003,1164,0.6933,31140,31140,19993,27000
+228802,The University of Texas at Tyler,Tyler,TX,Public,Doctor's degree - research/scholarship,32.315772,-95.254337,1050,0.6935,7602,20082,11724.5,18000
+240189,University of Wisconsin-Whitewater,Whitewater,WI,Public,Master's degree,42.835563,-88.742368,1050,0.6935,7650,16223,18500,24593.5
+140447,Mercer University,Macon,GA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.831787,-83.648295,1211,0.6935,35130,35130,21350,25500
+121309,Point Loma Nazarene University,San Diego,CA,Private not-for-profit,Master's degree,32.718391,-117.250265,1149,0.6942,33500,33500,18667,22883.5
+237385,Glenville State College,Glenville,WV,Public,Bachelor's degree,38.93547,-80.834295,901,0.6945,7344,16560,11000,23910
+125763,Whittier College,Whittier,CA,Private not-for-profit,Doctor's degree -  professional practice,33.977625,-118.028402,1040,0.6945,44774,44774,20500,25000
+214041,Millersville University of Pennsylvania,Millersville,PA,Public,Master's degree,40.000337,-76.357381,1030,0.6948,11494,20854,17058,24640
+216038,Slippery Rock University of Pennsylvania,Slippery Rock,PA,Public,Doctor's degree -  professional practice,41.062719,-80.045965,998,0.6949,9862,13716,19445.5,25000
+130943,University of Delaware,Newark,DE,Public,Doctor's degree - research/scholarship and professional practice,39.679577,-75.752822,1170,0.695,12830,32250,21250,24250
+213668,Lycoming College,Williamsport,PA,Private not-for-profit,Bachelor's degree,41.24666,-77,1035,0.6956,37162,37162,24375,27000
+199962,Wingate University,Wingate,NC,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,34.986064,-80.44305,1042,0.6956,29170,29170,14474.5,26500
+156213,Asbury University,Wilmore,KY,Private not-for-profit,Master's degree,37.862029,-84.662606,1124,0.696,28630,28630,19500,25000
+216852,Widener University-Main Campus,Chester,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.861689,-75.355363,1040,0.6973,42870,42870,20928.5,27000
+238476,Carthage College,Kenosha,WI,Private not-for-profit,Master's degree,42.622969,-87.820924,1101,0.6973,40265,40265,22250,27000
+137032,Saint Leo University,Saint Leo,FL,Private not-for-profit,Master's degree,28.336776,-82.257801,1032,0.6974,21440,21440,12727,24750
+156365,Campbellsville University,Campbellsville,KY,Private not-for-profit,Master's degree,37.343342,-85.348943,1008,0.6979,24596,24596,11000,20612.5
+143358,Bradley University,Peoria,IL,Private not-for-profit,Doctor's degree -  professional practice,40.696896,-89.616786,1141,0.6981,32120,32120,23750,27000
+228769,The University of Texas at Arlington,Arlington,TX,Public,Doctor's degree - research/scholarship and professional practice,32.729718,-97.11296,1070,0.6982,9616,22920,11686,17750
+183071,University of New Hampshire at Manchester,Manchester,NH,Public,Bachelor's degree,42.987209,-71.468755,1101,0.6983,14495,28295,23000,27000
+238333,Beloit College,Beloit,WI,Private not-for-profit,Bachelor's degree,42.504022,-89.029285,1222,0.6986,47060,47060,23525.5,27000
+232025,Emory & Henry College,Emory,VA,Private not-for-profit,Master's degree,36.772857,-81.829142,1016,0.699,33700,33700,18304,27000
+230852,Champlain College,Burlington,VT,Private not-for-profit,Master's degree,44.473287,-73.202746,1134,0.6995,38660,38660,19500,27000
+177214,Drury University,Springfield,MO,Private not-for-profit,Master's degree,37.219681,-93.286192,1142,0.6997,25905,25905,13821,23000
+149505,Trinity Christian College,Palos Heights,IL,Private not-for-profit,Master's degree,41.667687,-87.783973,1081,0.7002,27675,27675,20500,25000
+198835,Lenoir-Rhyne University,Hickory,NC,Private not-for-profit,Master's degree,35.739968,-81.327598,980,0.7011,33730,33730,15000,27000
+218973,Wofford College,Spartanburg,SC,Private not-for-profit,Bachelor's degree,34.959411,-81.933568,1185,0.7011,40245,40245,21500,26000
+179964,William Woods University,Fulton,MO,Private not-for-profit,Doctor's degree - research/scholarship,38.860287,-91.950416,1026,0.7017,23040,23040,13902,20545
+107044,Harding University,Searcy,AR,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,35.247337,-91.726041,1135,0.7018,18635,18635,19692,27000
+123651,Vanguard University of Southern California,Costa Mesa,CA,Private not-for-profit,Master's degree,33.662686,-117.900911,942,0.7024,31430,31430,19000,25000
+188429,Adelphi University,Garden City,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.721439,-73.653321,1114,0.7029,35740,35740,20375.5,25000
+173665,Hamline University,Saint Paul,MN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,44.966246,-93.164479,1104,0.703,39181,39181,19500,24400
+198464,East Carolina University,Greenville,NC,Public,Doctor's degree - research/scholarship and professional practice,35.607186,-77.368291,1040,0.7034,6997,22955,18250,24442
+106458,Arkansas State University-Main Campus,Jonesboro,AR,Public,Doctor's degree - research/scholarship and professional practice,35.842388,-90.679988,1090,0.704,8200,14260,12500,19500
+130448,St Vincent's College,Bridgeport,CT,Private not-for-profit,Bachelor's degree,41.201198,-73.201106,788,0.7049,14870,14870,15250,23500
+151777,Manchester University,North Manchester,IN,Private not-for-profit,Doctor's degree -  professional practice,41.010549,-85.762643,1019,0.7055,30802,30802,15750,27000
+168430,Worcester State University,Worcester,MA,Public,Master's degree,42.267534,-71.844019,1016,0.7056,9202,15282,13520,19500
+212656,Geneva College,Beaver Falls,PA,Private not-for-profit,Master's degree,40.772518,-80.321826,1082,0.7057,25680,25680,19277,24850
+168227,Wentworth Institute of Technology,Boston,MA,Private not-for-profit,Master's degree,42.336632,-71.094983,1117,0.7058,33724,33724,22500,27000
+178420,University of Missouri-St Louis,Saint Louis,MO,Public,Doctor's degree - research/scholarship and professional practice,38.710312,-90.311091,1101,0.7062,9394,24525,16530,20460
+181002,Creighton University,Omaha,NE,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.265361,-95.947811,1213,0.7066,37606,37606,23000,25300
+137962,Trinity College of Florida,Trinity,FL,Private not-for-profit,Bachelor's degree,28.194732,-82.678318,827,0.7067,15690,15690,15125,24826.5
+202912,Good Samaritan College of Nursing & Health Science,Cincinnati,OH,Private not-for-profit,Bachelor's degree,39.140348,-84.521196,990,0.7069,15530,15530,17500,20869.5
+207500,University of Oklahoma Norman Campus,Norman,OK,Public,Doctor's degree - research/scholarship and professional practice,35.209407,-97.444211,1189,0.7084,10881,25203,15000,20000
+215442,Point Park University,Pittsburgh,PA,Private not-for-profit,Master's degree,40.438768,-80.002061,1014,0.7086,29030,29030,20500,27000
+156541,University of the Cumberlands,Williamsburg,KY,Private not-for-profit,Doctor's degree - research/scholarship,36.737048,-84.161646,1025,0.7087,23000,23000,9013,15000
+166674,Massachusetts College of Art and Design,Boston,MA,Public,Master's degree,42.336862,-71.099275,1069,0.7087,12200,32800,20000,25000
+233921,Virginia Polytechnic Institute and State University,Blacksburg,VA,Public,Doctor's degree - research/scholarship and professional practice,37.229012,-80.423675,1210,0.7087,12852,29975,21110,23250
+150534,University of Evansville,Evansville,IN,Private not-for-profit,Doctor's degree -  professional practice,37.971549,-87.531644,1147,0.7089,33966,33966,21500,26950
+153162,Cornell College,Mount Vernon,IA,Private not-for-profit,Bachelor's degree,41.924554,-91.423741,1172,0.7094,39900,39900,25000,27000
+147776,Northeastern Illinois University,Chicago,IL,Public,Master's degree,41.980399,-87.718983,870,0.7101,10138,18514,10400,15000
+184782,Rowan University,Glassboro,NJ,Public,Doctor's degree - research/scholarship and professional practice,39.709108,-75.119119,1125,0.7101,13108,21378,15000,19672
+190248,Concordia College-New York,Bronxville,NY,Private not-for-profit,Master's degree,40.943382,-73.82202,933,0.7105,30530,30530,23500,25000
+211352,Cabrini College,Radnor,PA,Private not-for-profit,Master's degree,40.056355,-75.375263,970,0.7106,30588,30588,17750,26000
+228459,Texas State University-San Marcos,San Marcos,TX,Public,Doctor's degree - research/scholarship and professional practice,29.888885,-97.943029,1033,0.7113,9605,21029,14000,20775.5
+262129,New College of Florida,Sarasota,FL,Public,Bachelor's degree,27.384925,-82.55858,1263,0.7128,6916,29944,9798.5,15430
+192703,Manhattan College,Riverdale,NY,Private not-for-profit,Master's degree,40.889756,-73.901893,1120,0.7137,40004,40004,21500,26000
+122612,University of San Francisco,San Francisco,CA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.775564,-122.450977,1150,0.7137,44494,44494,21953,25000
+165671,Emmanuel College,Boston,MA,Private not-for-profit,Master's degree,42.340602,-71.103634,1122,0.714,37540,37540,23500,27000
+172334,Spring Arbor University,Spring Arbor,MI,Private not-for-profit,Master's degree,42.206568,-84.556074,1029,0.7147,26730,26730,21205,24054
+180106,Carroll College,Helena,MT,Private not-for-profit,Bachelor's degree,46.600771,-112.040285,1128,0.7148,33192,33192,21500,26582.5
+186283,Rider University,Lawrenceville,NJ,Private not-for-profit,Master's degree,40.278796,-74.737833,1012,0.7151,39820,39820,20500,25827
+169248,Central Michigan University,Mount Pleasant,MI,Public,Doctor's degree - research/scholarship and professional practice,43.591203,-84.77525,1049,0.7156,12150,23670,21250,27000
+238458,Carroll University,Waukesha,WI,Private not-for-profit,Doctor's degree -  professional practice,43.004527,-88.228114,1089,0.7156,30388,30388,21500,27000
+237932,West Liberty University,West Liberty,WV,Public,Master's degree,40.164417,-80.602256,965,0.717,7038,14394,16000,23250
+140951,Savannah College of Art and Design,Savannah,GA,Private not-for-profit,Master's degree,32.072963,-81.093849,1086,0.7171,35690,35690,19532.5,26374.5
+199218,University of North Carolina Wilmington,Wilmington,NC,Public,Doctor's degree - research/scholarship,34.225223,-77.875527,1137,0.7175,6951,20920,16387,20500
+227216,University of North Texas,Denton,TX,Public,Doctor's degree - research/scholarship and professional practice,33.211178,-97.148422,1090,0.7179,10153,19945,13750,20000
+169983,Kettering University,Flint,MI,Private not-for-profit,Master's degree,43.012468,-83.71282,1226,0.7183,39790,39790,24500,27000
+138947,Clark Atlanta University,Atlanta,GA,Private not-for-profit,Doctor's degree - research/scholarship,33.747628,-84.412584,914,0.7184,22396,22396,17500,31000
+144962,Elmhurst College,Elmhurst,IL,Private not-for-profit,Master's degree,41.897164,-87.945369,1068,0.7189,35500,35500,17577,21500
+129525,University of Hartford,West Hartford,CT,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.798591,-72.715213,1046,0.7193,37790,37790,19000,27000
+110617,California State University-Sacramento,Sacramento,CA,Public,Doctor's degree - other,38.559415,-121.423549,937,0.7194,6900,18060,12500,15250
+227881,Sam Houston State University,Huntsville,TX,Public,Doctor's degree - research/scholarship,30.714738,-95.546205,986,0.7195,7762,17554,15140,21250
+196006,SUNY College of Technology at Alfred,Alfred,NY,Public,Bachelor's degree,42.255262,-77.794632,960,0.7199,8075,14635,12000,15000
+232089,Ferrum College,Ferrum,VA,Private not-for-profit,Bachelor's degree,36.926912,-80.021639,865,0.7202,31915,31915,12500,28000
+153250,Dordt College,Sioux Center,IA,Private not-for-profit,Master's degree,43.082527,-96.166562,1113,0.7203,29130,29130,18989.5,23250
+236939,Washington State University,Pullman,WA,Public,Doctor's degree - research/scholarship and professional practice,46.730448,-117.158168,1054,0.7204,11041,25673,14772,20348.5
+133492,Eckerd College,Saint Petersburg,FL,Private not-for-profit,Bachelor's degree,27.715798,-82.687043,1125,0.7213,41538,41538,19623,26549
+232423,James Madison University,Harrisonburg,VA,Public,Doctor's degree - research/scholarship and professional practice,38.436311,-78.870484,1125,0.7213,10390,26164,17591,20500
+240471,University of Wisconsin-River Falls,River Falls,WI,Public,Master's degree,44.8534,-92.622641,1050,0.7215,7981,15554,15500,21679
+207458,Oklahoma City University,Oklahoma City,OK,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,35.495271,-97.541242,1150,0.7215,30726,30726,18603,21799.5
+159568,Louisiana College,Pineville,LA,Private not-for-profit,Master's degree,31.324528,-92.425973,970,0.7219,15978,15978,10500,23061
+214634,Pennsylvania State University-Penn State Shenango,Sharon,PA,Public,Bachelor's degree,41.235053,-80.508764,961,0.7222,13296,20042,19500,26120
+168546,Albion College,Albion,MI,Private not-for-profit,Bachelor's degree,42.245049,-84.745639,1067,0.7226,41040,41040,21500,28000
+221892,Trevecca Nazarene University,Nashville,TN,Private not-for-profit,Doctor's degree - research/scholarship,36.141324,-86.754238,1031,0.7227,24624,24624,12625,17764
+230603,Southern Utah University,Cedar City,UT,Public,Master's degree,37.674617,-113.070146,1065,0.7228,6530,19810,6773.5,11000
+201104,Ashland University,Ashland,OH,Private not-for-profit,Doctor's degree - research/scholarship,40.861755,-82.321061,1051,0.7247,20392,20392,18750,25000
+122728,William Jessup University,Rocklin,CA,Private not-for-profit,Bachelor's degree,38.819728,-121.292312,1023,0.7251,28700,28700,15000,20500
+194091,New York Institute of Technology,Old Westbury,NY,Private not-for-profit,Doctor's degree -  professional practice,40.812447,-73.6078,1077,0.7255,35160,35160,17140,24250
+157289,University of Louisville,Louisville,KY,Public,Doctor's degree - research/scholarship and professional practice,38.216862,-85.760412,1165,0.7257,11264,26286,12500,19755
+146719,Loyola University Chicago,Chicago,IL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.000765,-87.656872,1195,0.7257,42032,42032,19500,25000
+219091,Dakota Wesleyan University,Mitchell,SD,Private not-for-profit,Master's degree,43.697432,-98.031188,1005,0.7267,26050,26050,19500,26917.5
+199582,Saint Augustine's University,Raleigh,NC,Private not-for-profit,Bachelor's degree,35.785468,-78.621301,712,0.7271,17890,17890,15250,36500
+150163,Butler University,Indianapolis,IN,Private not-for-profit,Doctor's degree -  professional practice,39.8374,-86.172167,1215,0.7271,38360,38360,25000,27000
+217484,University of Rhode Island,Kingston,RI,Public,Doctor's degree - research/scholarship and professional practice,41.484691,-71.527356,1081,0.7276,12884,28874,18500,23000
+206835,Oklahoma Wesleyan University,Bartlesville,OK,Private not-for-profit,Master's degree,36.717453,-95.95671,969,0.728,25070,25070,16666,22916
+203775,Malone University,Canton,OH,Private not-for-profit,Master's degree,40.825662,-81.376863,1017,0.7281,29422,29422,18243,25000
+204936,Otterbein University,Westerville,OH,Private not-for-profit,Doctor's degree -  professional practice,40.125327,-82.936444,1106,0.7287,31874,31874,21635,27000
+169798,Eastern Michigan University,Ypsilanti,MI,Public,Doctor's degree - research/scholarship,42.24694,-83.622501,1030,0.7288,11209,27702,18500,25270
+202763,The University of Findlay,Findlay,OH,Private not-for-profit,Doctor's degree -  professional practice,41.053344,-83.652313,1047,0.7298,32402,32402,18500,25000
+152381,Saint Mary-of-the-Woods College,Saint Mary of the Woods,IN,Private not-for-profit,Master's degree,39.508546,-87.463791,928,0.7302,28932,28932,12655,21817
+209506,Oregon Institute of Technology,Klamath Falls,OR,Public,Master's degree,42.257152,-121.785177,1050,0.7304,9625,27326,15500,22875
+233426,Roanoke College,Salem,VA,Private not-for-profit,Bachelor's degree,37.29686,-80.056433,1091,0.7304,41429,41429,25000,27000
+240277,University of Wisconsin-Green Bay,Green Bay,WI,Public,Master's degree,44.532298,-87.919973,1050,0.7313,7878,15451,14000,21239
+180984,Concordia University-Seward,Seward,NE,Private not-for-profit,Master's degree,40.914853,-97.089054,1070,0.7328,28480,28480,15154.5,24781.5
+148487,Roosevelt University,Chicago,IL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.876055,-87.624952,1012,0.7329,28119,28119,18458.5,24499.5
+240453,University of Wisconsin-Milwaukee,Milwaukee,WI,Public,Doctor's degree - research/scholarship and professional practice,43.076848,-87.880488,1050,0.7329,9493,19851,16000,24348
+171881,Kuyper College,Grand Rapids,MI,Private not-for-profit,Bachelor's degree,43.02195,-85.592657,1078,0.7338,20342,20342,14875,21500
+212197,Elizabethtown College,Elizabethtown,PA,Private not-for-profit,Master's degree,40.149236,-76.593224,1088,0.7343,43490,43490,25228,27000
+153108,Central College,Pella,IA,Private not-for-profit,Bachelor's degree,41.401539,-92.922199,1091,0.7343,34612,34612,23250,27000
+102614,University of Alaska Fairbanks,Fairbanks,AK,Public,Doctor's degree - research/scholarship,64.85756,-147.823146,1060,0.7347,5976,18184,9500,15000
+199281,University of North Carolina at Pembroke,Pembroke,NC,Public,Master's degree,34.688313,-79.200347,927,0.7356,5816,16760,12943,22247.5
+205443,Shawnee State University,Portsmouth,OH,Public,Master's degree,38.730867,-82.993769,990,0.7357,7365,14145,11300,23000
+167729,Salem State University,Salem,MA,Public,Master's degree,42.503575,-70.890234,992,0.7358,9736,16148,17941,24250
+145600,University of Illinois at Chicago,Chicago,IL,Public,Doctor's degree - research/scholarship and professional practice,41.871837,-87.650503,1105,0.7359,13664,26520,14000,18114.5
+236595,Seattle University,Seattle,WA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,47.608859,-122.318851,1208,0.7363,41265,41265,18425,22637
+164076,Towson University,Towson,MD,Public,Doctor's degree - research/scholarship and professional practice,39.393622,-76.611164,1070,0.7374,9408,21076,14759,17750
+216807,Westminster College,New Wilmington,PA,Private not-for-profit,Master's degree,41.119272,-80.331017,1057,0.7387,35210,35210,26000,27000
+151801,Indiana Wesleyan University,Marion,IN,Private not-for-profit,Doctor's degree - research/scholarship,40.517937,-85.667503,1077,0.7388,25346,25346,16183,23958
+227845,Saint Edward's University,Austin,TX,Private not-for-profit,Master's degree,30.229844,-97.75763,1114,0.739,41178,41178,20500,25000
+199148,University of North Carolina at Greensboro,Greensboro,NC,Public,Doctor's degree - research/scholarship,36.068236,-79.809414,1054,0.7393,6971,21833,15000,22546
+212106,Duquesne University,Pittsburgh,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.43589,-79.993123,1165,0.7394,35062,35062,25000,27000
+232566,Longwood University,Farmville,VA,Public,Master's degree,37.301137,-78.39575,970,0.7395,12240,27138,19000,25000
+151111,Indiana University-Purdue University-Indianapolis,Indianapolis,IN,Public,Doctor's degree - research/scholarship and professional practice,39.772948,-86.172217,1025,0.7397,9205,29791,14150.5,22667.5
+178624,Northwest Missouri State University,Maryville,MO,Public,Master's degree,40.351692,-94.883339,1047,0.7406,7343,12513,13827,23557
+179043,Rockhurst University,Kansas City,MO,Private not-for-profit,Doctor's degree -  professional practice,39.032318,-94.573003,1162,0.7406,35670,35670,16736,21500
+445188,University of California-Merced,Merced,CA,Public,Doctor's degree - research/scholarship,37.366237,-120.424944,985,0.7417,13262,39944,14000,19018
+106342,Lyon College,Batesville,AR,Private not-for-profit,Bachelor's degree,35.777619,-91.625354,1099,0.7417,26290,26290,12000,24720
+204194,Mount Vernon Nazarene University,Mount Vernon,OH,Private not-for-profit,Master's degree,40.372901,-82.471074,1050,0.7422,26950,26950,17558.5,25909
+216357,Thiel College,Greenville,PA,Private not-for-profit,Bachelor's degree,41.41354,-80.384383,927,0.7423,29740,29740,25000,28000
+240329,University of Wisconsin-La Crosse,La Crosse,WI,Public,Doctor's degree -  professional practice,43.81568,-91.23186,1145,0.7424,9091,17612,18241,23000
+186432,Saint Peter's University,Jersey City,NJ,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.727105,-74.071541,930,0.7425,35192,35192,16000,23800
+215284,University of Pittsburgh-Johnstown,Johnstown,PA,Public,Bachelor's degree,40.265957,-78.834163,1027,0.7426,13624,24646,21500,26899
+156408,Centre College,Danville,KY,Private not-for-profit,Bachelor's degree,37.645709,-84.779392,1266,0.7426,39300,39300,25990,27000
+222831,Angelo State University,San Angelo,TX,Public,Doctor's degree -  professional practice,31.440914,-100.465051,979,0.7437,7047,16839,10918,20395.5
+181446,Nebraska Wesleyan University,Lincoln,NE,Private not-for-profit,Master's degree,40.839098,-96.64831,1105,0.7438,31394,31394,17225,24491
+185262,Kean University,Union,NJ,Public,Doctor's degree - research/scholarship,40.677981,-74.233503,921,0.744,11870,18637,17750,24000
+221953,Tusculum College,Greeneville,TN,Private not-for-profit,Master's degree,36.172558,-82.761716,962,0.744,23125,23125,17137,24750
+214069,Misericordia University,Dallas,PA,Private not-for-profit,Doctor's degree -  professional practice,41.345277,-75.971541,1060,0.7444,30740,30740,23250,27000
+197151,School of Visual Arts,New York,NY,Private for-profit,Master's degree,40.738809,-73.982359,1084,0.7445,36500,36500,23750,27000
+232681,University of Mary Washington,Fredericksburg,VA,Public,Master's degree,38.302492,-77.476055,1114,0.7445,11630,26220,15000,20500
+184773,Georgian Court University,Lakewood,NJ,Private not-for-profit,Master's degree,40.099617,-74.228186,946,0.7446,31618,31618,18500,23500
+226833,Midwestern State University,Wichita Falls,TX,Public,Master's degree,33.874809,-98.519386,973,0.7446,8620,10570,13082,22000
+210775,Alvernia University,Reading,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.310028,-75.936754,986,0.745,32270,32270,23174,27000
+207388,Oklahoma State University-Main Campus,Stillwater,OK,Public,Doctor's degree - research/scholarship and professional practice,36.123085,-97.069743,1101,0.7452,8321,22443,15000,20750
+215929,University of Scranton,Scranton,PA,Private not-for-profit,Doctor's degree -  professional practice,41.406556,-75.656915,1137,0.7455,42162,42162,25250,27000
+124292,Thomas Aquinas College,Santa Paula,CA,Private not-for-profit,Bachelor's degree,34.429009,-119.087141,1249,0.7461,24500,24500,17000,18000
+176965,University of Central Missouri,Warrensburg,MO,Public,Master's degree,38.759111,-93.737428,1050,0.7462,7322,13767,14826.5,21500
+165820,Fitchburg State University,Fitchburg,MA,Public,Master's degree,42.589345,-71.789354,990,0.7465,10135,16215,15744,23250
+212054,Drexel University,Philadelphia,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.955217,-75.190051,1204,0.7465,51030,51030,20500,26000
+217420,Rhode Island College,Providence,RI,Public,Doctor's degree - research/scholarship,41.842415,-71.46556,903,0.7469,8206,19867,13320.5,20906
+178396,University of Missouri-Columbia,Columbia,MO,Public,Doctor's degree - research/scholarship and professional practice,38.94531,-92.328843,1183,0.747,9518,25892,17841,22000
+169080,Calvin College,Grand Rapids,MI,Private not-for-profit,Master's degree,42.929916,-85.587548,1180,0.7471,31730,31730,22000,26890
+121691,University of Redlands,Redlands,CA,Private not-for-profit,Doctor's degree - research/scholarship,34.064218,-117.163218,1101,0.7475,46570,46570,25000,27000
+146339,Judson University,Elgin,IL,Private not-for-profit,Master's degree,42.061754,-88.291336,1020,0.7485,28730,28730,19081,23962
+204857,Ohio University-Main Campus,Athens,OH,Public,Doctor's degree - research/scholarship and professional practice,39.326798,-82.100985,1091,0.7485,11744,21208,13000,20072
+215275,University of Pittsburgh-Greensburg,Greensburg,PA,Public,Bachelor's degree,40.276447,-79.532676,1024,0.7493,13618,24640,21500,26899
+206941,University of Central Oklahoma,Edmond,OK,Public,Master's degree,35.6552,-97.471508,1010,0.7503,6699,16460,11625,20000
+148627,Saint Xavier University,Chicago,IL,Private not-for-profit,Master's degree,41.707199,-87.714749,1009,0.7525,32250,32250,18000,24250
+181464,University of Nebraska-Lincoln,Lincoln,NE,Public,Doctor's degree - research/scholarship and professional practice,40.817598,-96.700508,1144,0.7527,8537,23058,13875,21787.5
+170806,Madonna University,Livonia,MI,Private not-for-profit,Doctor's degree -  professional practice,42.384323,-83.404722,970,0.7533,19500,19500,20635.5,25000
+177339,Evangel University,Springfield,MO,Private not-for-profit,Master's degree,37.220956,-93.262614,1063,0.7536,22081,22081,17250,24249.5
+190761,Dominican College of Blauvelt,Orangeburg,NY,Private not-for-profit,Doctor's degree -  professional practice,41.047419,-73.950555,890,0.7544,27438,27438,14250,25500
+161299,Maine Maritime Academy,Castine,ME,Public,Master's degree,44.389654,-68.804347,1042,0.7551,13078,26158,27000,27000
+214810,Pennsylvania State University-Penn State Schuylkill,Schuylkill Haven,PA,Public,Bachelor's degree,40.640499,-76.166326,934,0.7559,14072,21506,19500,26120
+187444,William Paterson University of New Jersey,Wayne,NJ,Public,Doctor's degree -  professional practice,40.945255,-74.200248,985,0.7564,12574,20466,17708,23500
+153278,University of Dubuque,Dubuque,IA,Private not-for-profit,Doctor's degree - research/scholarship,42.49726,-90.693428,923,0.7569,28700,28700,16671.5,24347
+151360,Indiana University-Northwest,Gary,IN,Public,Master's degree,41.557324,-87.337249,939,0.758,7073,18683,11862,24010
+181020,Doane College-Crete,Crete,NE,Private not-for-profit,Bachelor's degree,40.622952,-96.950932,1088,0.7586,30434,30434,17000,23862.5
+183044,University of New Hampshire-Main Campus,Durham,NH,Public,Doctor's degree - research/scholarship,43.135934,-70.932465,1101,0.7586,17624,31424,23000,27000
+171456,Northern Michigan University,Marquette,MI,Public,Master's degree,46.559751,-87.406568,1024,0.7587,9766,15262,15000,22402
+217998,Erskine College,Due West,SC,Private not-for-profit,Doctor's degree - research/scholarship,34.332087,-82.39095,1028,0.7587,34560,34560,12000,27000
+172051,Saginaw Valley State University,University Center,MI,Public,Master's degree,43.51176,-83.964273,1050,0.7587,9345,21947,18271.5,26433
+238661,Edgewood College,Madison,WI,Private not-for-profit,Doctor's degree - research/scholarship,43.057059,-89.422884,1069,0.7587,27530,27530,19374.5,25000
+142285,University of Idaho,Moscow,ID,Public,Doctor's degree - research/scholarship and professional practice,46.727406,-117.014167,1070,0.7589,7232,22040,16750,24500
+183239,Saint Anselm College,Manchester,NH,Private not-for-profit,Bachelor's degree,42.986889,-71.503622,1142,0.759,39036,39036,27000,27000
+216931,Wilkes University,Wilkes-Barre,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.244199,-75.890262,1022,0.7592,33568,33568,20077,25668.5
+199111,University of North Carolina at Asheville,Asheville,NC,Public,Master's degree,35.617068,-82.565392,1155,0.7593,6977,23372,14000,20116
+167987,University of Massachusetts-Dartmouth,North Dartmouth,MA,Public,Doctor's degree - research/scholarship and professional practice,41.62869,-71.004552,1025,0.7602,13188,27473,18335,25000
+201441,Bowling Green State University-Main Campus,Bowling Green,OH,Public,Doctor's degree - research/scholarship,41.375513,-83.640896,1012,0.7605,11057,18593,16750,26000
+166391,Lasell College,Newton,MA,Private not-for-profit,Master's degree,42.342148,-71.24347,966,0.7606,33600,33600,24000,27000
+213507,Lebanon Valley College,Annville,PA,Private not-for-profit,Doctor's degree -  professional practice,40.330604,-76.514431,1101,0.7606,40550,40550,22188,27000
+240426,University of Wisconsin-Superior,Superior,WI,Public,Master's degree,46.717629,-92.091007,1010,0.7611,8088,15661,15533,23500
+238032,West Virginia University,Morgantown,WV,Public,Doctor's degree - research/scholarship and professional practice,39.634371,-79.954391,1069,0.7612,7992,22488,14771,23688.5
+159993,University of Louisiana-Monroe,Monroe,LA,Public,Doctor's degree - research/scholarship and professional practice,32.527748,-92.07374,1057,0.7613,8284,20384,10848,18750
+226091,Lamar University,Beaumont,TX,Public,Doctor's degree - research/scholarship and professional practice,30.042738,-94.072244,960,0.7618,8146,17938,11250,21180
+210739,DeSales University,Center Valley,PA,Private not-for-profit,Doctor's degree - other,40.539091,-75.375608,1072,0.7623,34850,34850,18750,25334
+123572,Sonoma State University,Rohnert Park,CA,Public,Master's degree,38.340274,-122.677066,990,0.7627,7388,18548,13000,17500
+100706,University of Alabama in Huntsville,Huntsville,AL,Public,Doctor's degree - research/scholarship and professional practice,34.724557,-86.640449,1257,0.7628,9842,20612,13522,22647
+133872,Adventist University of Health Sciences,Orlando,FL,Private not-for-profit,Master's degree,28.576142,-81.367687,917,0.7629,13480,13480,16917,22500
+159391,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,Public,Doctor's degree - research/scholarship and professional practice,30.414986,-91.178921,1162,0.7639,10814,27491,13070.5,20999.5
+229027,The University of Texas at San Antonio,San Antonio,TX,Public,Doctor's degree - research/scholarship,29.582418,-98.621386,1033,0.7641,7700,18297,14442,21989.5
+230764,University of Utah,Salt Lake City,UT,Public,Doctor's degree - research/scholarship and professional practice,40.762484,-111.846044,1116,0.7642,8518,27039,11500,15000
+201885,University of Cincinnati-Main Campus,Cincinnati,OH,Public,Doctor's degree - research/scholarship and professional practice,39.131159,-84.51428,1164,0.7642,11000,26334,14000,22500
+130226,Quinnipiac University,Hamden,CT,Private not-for-profit,Doctor's degree -  professional practice,41.418915,-72.894117,1096,0.7644,43940,43940,21500,26000
+171128,Michigan Technological University,Houghton,MI,Public,Doctor's degree - research/scholarship,47.11866,-88.548092,1242,0.7644,14634,30968,19500,26927
+167394,College of Our Lady of the Elms,Chicopee,MA,Private not-for-profit,Master's degree,42.14179,-72.601541,954,0.7646,33412,33412,23056,25000
+174233,University of Minnesota-Duluth,Duluth,MN,Public,Doctor's degree - research/scholarship and professional practice,46.817126,-92.084385,1110,0.7655,13139,17485,17000,24250
+100830,Auburn University at Montgomery,Montgomery,AL,Public,Doctor's degree - research/scholarship,32.36736,-86.177544,1009,0.7659,9640,20710,10750,23363
+126614,University of Colorado Boulder,Boulder,CO,Public,Doctor's degree - research/scholarship and professional practice,40.008781,-105.270823,1229,0.7662,11531,35079,14000,19500
+149222,Southern Illinois University Carbondale,Carbondale,IL,Public,Doctor's degree - research/scholarship and professional practice,37.714193,-89.217273,1029,0.7665,13481,27130,15000,21500
+152567,Trine University,Angola,IN,Private not-for-profit,Master's degree,41.632502,-85.008009,1079,0.7671,30960,30960,16000,25000
+215105,The University of the Arts,Philadelphia,PA,Private not-for-profit,Master's degree,39.946017,-75.165888,1033,0.7679,41464,41464,25250,27000
+236230,Pacific Lutheran University,Tacoma,WA,Private not-for-profit,Master's degree,47.14516,-122.440421,1116,0.7682,39450,39450,21500,25847
+184603,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.897209,-74.028986,965,0.7683,37988,37988,18750,25000
+152363,Saint Josephs College,Rensselaer,IN,Private not-for-profit,Master's degree,40.921348,-87.160278,999,0.7683,30080,30080,12750,27000
+213367,La Salle University,Philadelphia,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.037979,-75.153061,986,0.7684,41100,41100,19500,27000
+193292,Molloy College,Rockville Centre,NY,Private not-for-profit,Doctor's degree - research/scholarship,40.685941,-73.626183,1079,0.7692,29100,29100,23000,27000
+186876,The Richard Stockton College of New Jersey,Galloway,NJ,Public,Doctor's degree -  professional practice,39.492036,-74.531087,1052,0.7694,13077,19861,18188,20875
+204185,University of Mount Union,Alliance,OH,Private not-for-profit,Master's degree,40.905256,-81.111029,1056,0.7699,29120,29120,22500,27440
+192192,Keuka College,Keuka Park,NY,Private not-for-profit,Master's degree,42.615253,-77.090562,953,0.77,29451,29451,18750,25000
+200217,University of Mary,Bismarck,ND,Private not-for-profit,Doctor's degree -  professional practice,46.723767,-100.75274,1067,0.7701,17445,17445,14714.5,21000
+151342,Indiana University-South Bend,South Bend,IN,Public,Master's degree,41.665324,-86.221991,952,0.7703,7073,18683,11912,23500
+115755,Humboldt State University,Arcata,CA,Public,Master's degree,40.877481,-124.078293,983,0.7709,7209,18369,13600,19002
+167288,Massachusetts College of Liberal Arts,North Adams,MA,Public,Master's degree,42.691361,-73.102817,1015,0.771,9875,18820,17500,23365
+107080,Hendrix College,Conway,AR,Private not-for-profit,Master's degree,35.101565,-92.443256,1287,0.771,42440,42440,21500,27000
+107141,John Brown University,Siloam Springs,AR,Private not-for-profit,Master's degree,36.189812,-94.560283,1173,0.7711,25324,25324,16795,20500
+239080,Marian University,Fond Du Lac,WI,Private not-for-profit,Doctor's degree - research/scholarship,43.777411,-88.420638,950,0.7719,28280,28280,20000,26958
+221759,The University of Tennessee,Knoxville,TN,Public,Doctor's degree - research/scholarship and professional practice,35.952082,-83.925852,1213,0.7722,12724,31144,14000,20500
+237969,West Virginia Wesleyan College,Buckhannon,WV,Private not-for-profit,Master's degree,38.990661,-80.218969,1032,0.7728,29752,29752,18500,27000
+185572,Monmouth University,West Long Branch,NJ,Private not-for-profit,Doctor's degree -  professional practice,40.280066,-74.006447,1032,0.7729,35364,35364,21100,26600
+207847,Southeastern Oklahoma State University,Durant,OK,Public,Master's degree,34.006808,-96.376864,970,0.7733,6450,15720,9738,15880
+196051,Morrisville State College,Morrisville,NY,Public,Bachelor's degree,42.893962,-75.640583,881,0.7735,8023,18073,12000,19192
+227863,University of St Thomas,Houston,TX,Private not-for-profit,Doctor's degree - research/scholarship,29.736438,-95.393102,1085,0.7739,31520,31520,15554,22500
+204264,Muskingum University,New Concord,OH,Private not-for-profit,Master's degree,39.996426,-81.73703,1009,0.7741,26928,26928,18127,26899
+209542,Oregon State University,Corvallis,OR,Public,Doctor's degree - research/scholarship and professional practice,44.56395,-123.274723,1127,0.7748,10366,28846,17115,23393
+211158,Bloomsburg University of Pennsylvania,Bloomsburg,PA,Public,Doctor's degree -  professional practice,41.00782,-76.447844,970,0.7756,10154,21246,19250,26000
+214795,Pennsylvania State University-Penn State Mont Alto,Mont Alto,PA,Public,Bachelor's degree,39.842047,-77.542355,986,0.7764,13678,20558,19500,26120
+228149,St. Mary's University,San Antonio,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,29.453244,-98.562778,1036,0.7766,28200,28200,21937.5,27000
+206437,Walsh University,North Canton,OH,Private not-for-profit,Doctor's degree -  professional practice,40.873908,-81.369931,1024,0.7767,28720,28720,22000,27000
+169910,Ferris State University,Big Rapids,MI,Public,Doctor's degree - research/scholarship and professional practice,43.687724,-85.481925,1030,0.7769,11290,18048,16913,23487.5
+147828,Olivet Nazarene University,Bourbonnais,IL,Private not-for-profit,Doctor's degree - research/scholarship,41.155237,-87.875165,1099,0.777,33940,33940,19000,25000
+233897,The University of Virginia's College at Wise,Wise,VA,Public,Bachelor's degree,36.971468,-82.558728,963,0.7771,9539,26239,12000,20000
+113698,Dominican University of California,San Rafael,CA,Private not-for-profit,Master's degree,37.980014,-122.514654,1039,0.7775,43400,43400,27000,27000
+212601,Gannon University,Erie,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.128403,-80.087166,1041,0.7775,30042,30042,23500,27000
+154688,Baker University,Baldwin City,KS,Private not-for-profit,Doctor's degree - research/scholarship,38.777278,-95.188231,1053,0.7775,28030,28030,19500,24503
+189705,Canisius College,Buffalo,NY,Private not-for-profit,Master's degree,42.925206,-78.852577,1103,0.7786,35424,35424,20500,25000
+209551,University of Oregon,Eugene,OR,Public,Doctor's degree - research/scholarship and professional practice,44.045146,-123.075792,1111,0.7787,10761,33441,16143.5,20500
+168263,Westfield State University,Westfield,MA,Public,Master's degree,42.131589,-72.795673,992,0.7792,9275,15355,15000,22750
+215770,Saint Joseph's University,Philadelphia,PA,Private not-for-profit,Doctor's degree - research/scholarship,39.994442,-75.238343,1147,0.7793,43020,43020,19500,23485
+126818,Colorado State University-Fort Collins,Fort Collins,CO,Public,Doctor's degree - research/scholarship and professional practice,40.574805,-105.080732,1159,0.7796,11052,28346,15000,20502
+240268,University of Wisconsin-Eau Claire,Eau Claire,WI,Public,Doctor's degree -  professional practice,44.798284,-91.501906,1110,0.78,8812,16385,16814.5,22798
+164270,McDaniel College,Westminster,MD,Private not-for-profit,Master's degree,39.584231,-77.001992,1103,0.7807,40580,40580,21620,27000
+161518,Saint Joseph's College of Maine,Standish,ME,Private not-for-profit,Master's degree,43.826314,-70.483373,920,0.7808,33600,33600,14563.5,27000
+150604,Franklin College,Franklin,IN,Private not-for-profit,Bachelor's degree,39.478298,-86.047182,991,0.7809,30025,30025,20890,27000
+192864,Marymount Manhattan College,New York,NY,Private not-for-profit,Bachelor's degree,40.768787,-73.959767,1072,0.7816,30290,30290,17583,25000
+196033,SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY,Public,Bachelor's degree,42.672534,-74.498258,1011,0.7818,7929,17779,10864.5,17250
+210146,Southern Oregon University,Ashland,OR,Public,Master's degree,42.185077,-122.695081,1020,0.782,8523,23170,15000,21312.5
+106546,Baptist Health Schools-Little Rock,Little Rock,AR,Private not-for-profit,Non-degree granting,34.713115,-92.40692,970,0.7826,9194,9194,9500,11000
+221740,The University of Tennessee at Chattanooga,Chattanooga,TN,Public,Doctor's degree - research/scholarship and professional practice,35.048247,-85.299812,1088,0.7826,8544,24662,12500,20619
+176017,University of Mississippi,University,MS,Public,Doctor's degree - research/scholarship and professional practice,34.365529,-89.537434,1155,0.783,7744,22012,15000,19500
+169716,University of Detroit Mercy,Detroit,MI,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.414222,-83.139158,1125,0.784,39882,39882,20875,23250
+175342,Alcorn State University,Alcorn State,MS,Public,Master's degree,31.877216,-91.142854,892,0.7844,6546,6546,19000,29500
+220181,Fisk University,Nashville,TN,Private not-for-profit,Master's degree,36.16912,-86.805671,926,0.7846,21480,21480,21750,27000
+133809,Florida College,Temple Terrace,FL,Private not-for-profit,Bachelor's degree,28.034936,-82.383289,1068,0.7852,16550,16550,12000,15000
+184612,Felician College,Lodi,NJ,Private not-for-profit,Doctor's degree -  professional practice,40.867272,-74.096452,898,0.7855,32990,32990,19500,25000
+149781,Wheaton College,Wheaton,IL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.870176,-88.099643,1306,0.7865,34050,34050,20913,22437
+151351,Indiana University-Bloomington,Bloomington,IN,Public,Doctor's degree - research/scholarship and professional practice,39.16609,-86.526559,1200,0.7872,10388,34246,18000,21500
+150677,Grace College and Theological Seminary,Winona Lake,IN,Private not-for-profit,Doctor's degree - other,41.22595,-85.814228,1076,0.7873,23120,23120,18925,22250
+205957,Franciscan University of Steubenville,Steubenville,OH,Private not-for-profit,Master's degree,40.376919,-80.620524,1157,0.7875,25680,25680,19500,22620.5
+226471,University of Mary Hardin-Baylor,Belton,TX,Private not-for-profit,Doctor's degree - research/scholarship,31.066798,-97.463479,1051,0.788,26550,26550,17687,26500
+209612,Pacific University,Forest Grove,OR,Private not-for-profit,Doctor's degree -  professional practice,45.521394,-123.108777,1122,0.788,41054,41054,21000,27000
+204176,Mount Carmel College of Nursing,Columbus,OH,Private not-for-profit,Master's degree,39.956625,-83.021501,990,0.7897,12673,12673,20251,22932
+198695,High Point University,High Point,NC,Private not-for-profit,Doctor's degree - research/scholarship,35.972035,-79.994675,1094,0.7908,33405,33405,18324,25000
+184694,Fairleigh Dickinson University-College at Florham,Madison,NJ,Private not-for-profit,Doctor's degree -  professional practice,40.774498,-74.432121,1030,0.7909,40234,40234,18750,25000
+195243,St. Thomas Aquinas College,Sparkill,NY,Private not-for-profit,Master's degree,41.041576,-73.936799,941,0.7916,29600,29600,17750,23000
+174817,Saint Mary's University of Minnesota,Winona,MN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,44.044736,-91.695449,1065,0.7924,32575,32575,17376,23250
+203085,Heidelberg University,Tiffin,OH,Private not-for-profit,Master's degree,41.114833,-83.168387,1023,0.7931,29200,29200,19632,27388
+191676,Houghton College,Houghton,NY,Private not-for-profit,Master's degree,42.426137,-78.155426,1109,0.7933,30336,30336,19852,23648.5
+178411,Missouri University of Science and Technology,Rolla,MO,Public,Doctor's degree - research/scholarship,37.953426,-91.775583,1265,0.7933,9057,25173,16998,24250
+213996,Messiah College,Mechanicsburg,PA,Private not-for-profit,Master's degree,40.156579,-76.988269,1150,0.7951,33180,33180,21072,25000
+168254,Western New England University,Springfield,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.115017,-72.520466,1096,0.7961,34874,34874,19500,26800
+152530,Taylor University,Upland,IN,Private not-for-profit,Master's degree,40.456246,-85.497034,1138,0.7961,31472,31472,17948,23500
+214652,Pennsylvania State University-Penn State Worthington Scranton,Dunmore,PA,Public,Bachelor's degree,41.440258,-75.620583,950,0.797,14072,21506,19500,26120
+234827,Central Washington University,Ellensburg,WA,Public,Master's degree,47.002687,-120.538368,1043,0.7971,7719,21522,14669,20000
+219046,Black Hills State University,Spearfish,SD,Public,Master's degree,44.494889,-103.870966,1009,0.7976,8004,10920,12063.5,25500
+213349,Kutztown University of Pennsylvania,Kutztown,PA,Public,Master's degree,40.513561,-75.783933,975,0.7977,9618,20710,19500,26000
+214157,Moravian College and Moravian Theological Seminary,Bethlehem,PA,Private not-for-profit,Master's degree,40.630947,-75.383638,1021,0.7982,40287,40287,21500,27000
+215655,Robert Morris University,Moon Township,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.520415,-80.210468,1050,0.7984,28250,28250,21000,27000
+163912,St Mary's College of Maryland,St. Mary's City,MD,Public,Master's degree,38.188075,-76.431059,1140,0.7997,14192,29340,16750,20500
+214759,Pennsylvania State University-Penn State Fayette- Eberly Campus,Uniontown,PA,Public,Bachelor's degree,39.947217,-79.657769,961,0.801,13616,20496,19500,26120
+161554,University of Southern Maine,Portland,ME,Public,Doctor's degree - research/scholarship and professional practice,43.662863,-70.274247,984,0.8025,7796,18508,14000,21505
+377555,University of Washington-Bothell Campus,Bothell,WA,Public,Master's degree,47.759773,-122.191293,1043,0.803,10690,34728,13000,15000
+240462,University of Wisconsin-Platteville,Platteville,WI,Public,Master's degree,42.733451,-90.48622,1090,0.8033,7484,15334,17484,24246.5
+138789,Armstrong Atlantic State University,Savannah,GA,Public,Doctor's degree -  professional practice,31.979073,-81.161803,987,0.8038,5360,15616,12500,21791
+123554,Saint Marys College of California,Moraga,CA,Private not-for-profit,Doctor's degree - research/scholarship,37.840731,-122.109031,1093,0.8039,44360,44360,21500,24687.5
+140696,Oglethorpe University,Atlanta,GA,Private not-for-profit,Master's degree,33.875441,-84.333687,1125,0.804,35280,35280,15500,27000
+224323,University of Dallas,Irving,TX,Private not-for-profit,Doctor's degree - research/scholarship,32.846202,-96.921573,1184,0.8047,37230,37230,19500,26437.5
+166692,Massachusetts Maritime Academy,Buzzards Bay,MA,Public,Master's degree,41.739072,-70.624084,1052,0.8048,8004,24600,23250,26929.5
+173142,Bethany Lutheran College,Mankato,MN,Private not-for-profit,Bachelor's degree,44.166649,-93.990805,1080,0.8049,25890,25890,17000,23250
+102094,University of South Alabama,Mobile,AL,Public,Doctor's degree - research/scholarship and professional practice,30.696033,-88.178711,1011,0.805,7548,14796,15000,24761
+129941,University of New Haven,West Haven,CT,Private not-for-profit,Doctor's degree - research/scholarship,41.291314,-72.961472,1043,0.8053,37060,37060,21500,27000
+100858,Auburn University,Auburn,AL,Public,Doctor's degree - research/scholarship and professional practice,32.599378,-85.488258,1217,0.8054,10696,28840,17000,21500
+190716,D'Youville College,Buffalo,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.902636,-78.890868,970,0.8057,25210,25210,19500,25453
+209065,Linfield College-McMinnville Campus,McMinnville,OR,Private not-for-profit,Bachelor's degree,45.201173,-123.199642,1033,0.8075,40175,40175,21491,25000
+165024,Bridgewater State University,Bridgewater,MA,Public,Master's degree,41.98749,-70.974553,992,0.8096,9603,15743,18280,24000
+232186,George Mason University,Fairfax,VA,Public,Doctor's degree - research/scholarship and professional practice,38.829976,-77.307428,1165,0.8099,11300,32582,15993.5,19500
+198136,Campbell University,Buies Creek,NC,Private not-for-profit,Doctor's degree -  professional practice,35.409149,-78.738238,1027,0.81,30050,30050,13750,23075
+231651,Regent University,Virginia Beach,VA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,36.801173,-76.194627,1032,0.8103,16438,16438,9500,25000
+219709,Belmont University,Nashville,TN,Private not-for-profit,Doctor's degree -  professional practice,36.133866,-86.794715,1185,0.8104,31390,31390,17750,21248.5
+237330,Concord University,Athens,WV,Public,Master's degree,37.423723,-81.006696,972,0.8115,7238,15722,11825,18375
+234030,Virginia Commonwealth University,Richmond,VA,Public,Doctor's degree - research/scholarship and professional practice,37.547631,-77.453597,1094,0.8115,13130,32287,18500,23250
+182795,Franklin Pierce University,Rindge,NH,Private not-for-profit,Doctor's degree -  professional practice,42.78014,-72.058011,957,0.8139,34050,34050,14423,27000
+219259,Northern State University,Aberdeen,SD,Public,Master's degree,45.450829,-98.484728,969,0.8139,7887,10800,15000,25250
+239716,Saint Norbert College,De Pere,WI,Private not-for-profit,Master's degree,44.44483,-88.067812,1124,0.8139,35381,35381,23250,27000
+240480,University of Wisconsin-Stevens Point,Stevens Point,WI,Public,Doctor's degree -  professional practice,44.529582,-89.570934,1050,0.8142,8159,16426,17500,24444
+172644,Wayne State University,Detroit,MI,Public,Doctor's degree - research/scholarship and professional practice,42.358994,-83.068998,1086,0.8146,12269,26220,16500,22899
+229018,The University of Texas of the Permian Basin,Odessa,TX,Public,Master's degree,31.889509,-102.329634,953,0.8148,5774,6958,8300,14500
+192448,Long Island University-C W Post Campus,Brookville,NY,Private not-for-profit,Doctor's degree - other,40.820714,-73.593678,1072,0.8148,36256,36256,19000,25000
+161235,University of Maine at Fort Kent,Fort Kent,ME,Public,Bachelor's degree,47.250389,-68.589319,890,0.815,7575,11205,12500,20500
+238430,Cardinal Stritch University,Milwaukee,WI,Private not-for-profit,Doctor's degree - research/scholarship,43.139752,-87.909045,954,0.8152,28212,28212,23438,26822
+152390,Saint Mary's College,Notre Dame,IN,Private not-for-profit,Bachelor's degree,41.707274,-86.256947,1117,0.8165,38880,38880,25000,27000
+170082,Grand Valley State University,Allendale,MI,Public,Doctor's degree -  professional practice,42.963001,-85.889826,1089,0.8168,11520,16392,19000,24843
+132657,Lynn University,Boca Raton,FL,Private not-for-profit,Doctor's degree - research/scholarship,26.385985,-80.122806,984,0.8173,36650,36650,10000,17875
+142115,Boise State University,Boise,ID,Public,Doctor's degree - research/scholarship,43.604284,-116.203301,1047,0.8173,7080,21530,14635,22750
+213011,Immaculata University,Immaculata,PA,Private not-for-profit,Doctor's degree - research/scholarship,40.027981,-75.570711,970,0.8189,35210,35210,22541,27000
+214768,Pennsylvania State University-Penn State Hazleton,Hazleton,PA,Public,Bachelor's degree,40.983958,-76.031061,1024,0.8194,14072,21506,19500,26120
+217864,Citadel Military College of South Carolina,Charleston,SC,Public,Master's degree,32.797183,-79.958775,1052,0.8229,11734,32812,17958.5,22490
+172699,Western Michigan University,Kalamazoo,MI,Public,Doctor's degree - research/scholarship and professional practice,42.282194,-85.613759,1030,0.8231,11493,26851,20188,26364
+228705,Texas A & M University-Kingsville,Kingsville,TX,Public,Doctor's degree - research/scholarship,27.525168,-97.882387,952,0.8234,8049,21355,12500,20665
+173160,Bethel University,Saint Paul,MN,Private not-for-profit,Doctor's degree - research/scholarship,45.057655,-93.161663,1125,0.8237,35160,35160,19475,23445
+214801,Pennsylvania State University-Penn State Abington,Abington,PA,Public,Bachelor's degree,40.11683,-75.109083,1009,0.8245,14172,21742,19500,26120
+156286,Bellarmine University,Louisville,KY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,38.219279,-85.704997,1118,0.8245,39750,39750,18750,25000
+104151,Arizona State University,Tempe,AZ,Public,Doctor's degree - research/scholarship and professional practice,33.417721,-111.934383,1147,0.825,10370,26470,14000,20000
+183062,Keene State College,Keene,NH,Public,Master's degree,42.926452,-72.279276,977,0.8253,13613,21997,21000,26000
+154095,University of Northern Iowa,Cedar Falls,IA,Public,Doctor's degree - other,42.514923,-92.459703,1050,0.8256,8309,18851,15849,20354
+196015,SUNY College of Technology at Canton,Canton,NY,Public,Bachelor's degree,44.604096,-75.182906,918,0.8257,7881,12271,13000,20680
+214625,Pennsylvania State University-Penn State New Kensington,Upper Burrell,PA,Public,Master's degree,40.551159,-79.697232,1026,0.8257,13616,20496,19500,26120
+214731,Pennsylvania State University-Penn State Brandywine,Media,PA,Public,Bachelor's degree,39.926381,-75.446983,974,0.8263,14134,21568,19500,26120
+219082,Dakota State University,Madison,SD,Public,Doctor's degree - research/scholarship,44.013014,-97.113358,1029,0.8263,8927,11843,12892,24446.5
+159966,Nicholls State University,Thibodaux,LA,Public,Master's degree,29.794486,-90.801571,1030,0.8266,7641,18572,11025,20269.5
+174914,University of St. Thomas,Saint Paul,MN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,44.943439,-93.188986,1204,0.8266,39594,39594,21500,25000
+127556,Colorado Mesa University,Grand Junction,CO,Public,Doctor's degree -  professional practice,39.080643,-108.553275,989,0.8275,7835,18996,10875,22200
+199412,Queens University of Charlotte,Charlotte,NC,Private not-for-profit,Master's degree,35.189051,-80.833509,1061,0.8275,32560,32560,19500,25765
+125727,Westmont College,Santa Barbara,CA,Private not-for-profit,Bachelor's degree,34.450151,-119.662517,1171,0.8276,42900,42900,18750,23250
+182281,University of Nevada-Las Vegas,Las Vegas,NV,Public,Doctor's degree - research/scholarship and professional practice,36.106047,-115.138462,1012,0.8278,7183,21093,12500,18500
+214643,Pennsylvania State University-Penn State Wilkes-Barre,Lehman,PA,Public,Bachelor's degree,41.306003,-76.016599,991,0.8279,13540,20420,19500,26120
+179557,Southeast Missouri State University,Cape Girardeau,MO,Public,Master's degree,37.311107,-89.531187,1049,0.8281,6990,12375,13485,22185
+182290,University of Nevada-Reno,Reno,NV,Public,Doctor's degree - research/scholarship and professional practice,39.543642,-119.815377,1088,0.8281,7142,21052,12000,18280
+180461,Montana State University,Bozeman,MT,Public,Doctor's degree - research/scholarship,45.666726,-111.048812,1126,0.8287,6887,23186,13000,23505
+225432,University of Houston-Downtown,Houston,TX,Public,Master's degree,29.7661,-95.359338,906,0.8288,5978,15770,14000,18750
+193973,Niagara University,Niagara University,NY,Private not-for-profit,Doctor's degree - research/scholarship,43.137279,-79.036689,1042,0.8288,30950,30950,21500,25750
+152600,Valparaiso University,Valparaiso,IN,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,41.462239,-87.040172,1153,0.8291,37450,37450,23500,27000
+203368,John Carroll University,University Heights,OH,Private not-for-profit,Master's degree,41.491321,-81.531338,1116,0.8299,38490,38490,22477.5,27000
+161457,University of New England,Biddeford,ME,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,43.458591,-70.38535,1055,0.8306,35630,35630,21500,27000
+237011,Western Washington University,Bellingham,WA,Public,Master's degree,48.737812,-122.485734,1122,0.8312,7903,21847,15000,19333
+117751,The Master's College and Seminary,Santa Clarita,CA,Private not-for-profit,Doctor's degree -  professional practice,34.381755,-118.518193,1098,0.8318,31970,31970,16169,20500
+214829,Pennsylvania State University-Penn State York,York,PA,Public,Master's degree,39.952327,-76.702835,1057,0.8328,14134,21568,19500,26120
+173452,Martin Luther College,New Ulm,MN,Private not-for-profit,Master's degree,44.30526,-94.472326,1109,0.8328,13980,13980,14800,21500
+237215,Bluefield State College,Bluefield,WV,Public,Bachelor's degree,37.265732,-81.239037,935,0.8331,6408,12876,11500,20000
+212115,East Stroudsburg University of Pennsylvania,East Stroudsburg,PA,Public,Master's degree,40.99599,-75.173905,953,0.8335,9968,21110,15000,23500
+224004,Concordia University-Texas,Austin,TX,Private not-for-profit,Master's degree,30.420952,-97.836247,984,0.8347,29260,29260,14000,27000
+233301,Randolph College,Lynchburg,VA,Private not-for-profit,Master's degree,37.437429,-79.17079,1037,0.8361,36770,36770,18000,27000
+194310,Pace University-New York,New York,NY,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,40.711014,-74.004719,1064,0.8368,42772,42772,19400,25161
+200280,University of North Dakota,Grand Forks,ND,Public,Doctor's degree - research/scholarship and professional practice,47.921654,-97.071738,1090,0.8369,8136,19290,16850,24489
+377564,University of Washington-Tacoma Campus,Tacoma,WA,Public,Doctor's degree - research/scholarship,47.244594,-122.438541,975,0.8381,10831,34869,13000,15000
+168290,Wheelock College,Boston,MA,Private not-for-profit,Master's degree,42.341753,-71.106412,903,0.8391,34825,34825,21500,27000
+151379,Indiana University-Southeast,New Albany,IN,Public,Master's degree,38.345191,-85.819985,943,0.8401,7073,18683,10651,18678
+230807,Westminster College,Salt Lake City,UT,Private not-for-profit,Master's degree,40.730779,-111.855757,1119,0.8409,32404,32404,17194,25000
+153658,University of Iowa,Iowa City,IA,Public,Doctor's degree - research/scholarship and professional practice,41.661935,-91.536425,1165,0.8411,8575,28813,16000,21500
+217819,College of Charleston,Charleston,SC,Public,Master's degree,32.784225,-79.939794,1111,0.8413,11805,29963,15000,21500
+239105,Marquette University,Milwaukee,WI,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,43.03903,-87.927961,1199,0.8434,38470,38470,24250,27000
+179566,Missouri State University-Springfield,Springfield,MO,Public,Doctor's degree -  professional practice,37.199258,-93.281281,1090,0.8438,7060,14110,14750,22424
+243106,University of Puerto Rico-Aguadilla,Ramey,PR,Public,Bachelor's degree,18.498652,-67.13793,1042,0.8441,2022,4070,4900,5500
+118888,Mills College,Oakland,CA,Private not-for-profit,Doctor's degree - research/scholarship,37.781425,-122.182294,1109,0.8441,45635,45635,19000,24154
+170301,Hope College,Holland,MI,Private not-for-profit,Bachelor's degree,42.787298,-86.102089,1179,0.8441,31560,31560,24800,27000
+168005,Suffolk University,Boston,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.358944,-71.061788,1020,0.8442,35578,35578,21000,27000
+176044,Mississippi Valley State University,Itta Bena,MS,Public,Master's degree,33.514142,-90.341274,825,0.8445,6116,6116,18500,27892
+166656,Massachusetts College of Pharmacy and Health Sciences,Boston,MA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,42.336825,-71.101244,1074,0.8448,31560,31560,25000,27000
+219347,South Dakota School of Mines and Technology,Rapid City,SD,Public,Doctor's degree - research/scholarship,44.075439,-103.205753,1201,0.845,11160,15320,18251,27000
+214713,Pennsylvania State University-Penn State Harrisburg,Middletown,PA,Public,Doctor's degree - research/scholarship,40.203766,-76.7423,1077,0.8452,14828,22834,19500,26120
+139861,Georgia College & State University,Milledgeville,GA,Public,Doctor's degree -  professional practice,33.082787,-83.231962,1116,0.8452,9202,27550,15621.5,22000
+232982,Old Dominion University,Norfolk,VA,Public,Doctor's degree - research/scholarship and professional practice,36.886418,-76.30666,1010,0.8464,9750,26730,16508,23750
+231554,Bluefield College,Bluefield,VA,Private not-for-profit,Bachelor's degree,37.244557,-81.246233,903,0.8481,24380,24380,13250,19963
+141574,University of Hawaii at Manoa,Honolulu,HI,Public,Doctor's degree - research/scholarship and professional practice,21.298598,-157.818979,1075,0.8498,11732,33764,14000,19000
+185129,New Jersey City University,Jersey City,NJ,Public,Doctor's degree - research/scholarship,40.709937,-74.08727,875,0.8505,11430,20458,12500,17031.5
+181215,University of Nebraska at Kearney,Kearney,NE,Public,Master's degree,40.701287,-99.09807,1028,0.8508,6844,12268,13000,20980
+174783,Saint Cloud State University,Saint Cloud,MN,Public,Doctor's degree - research/scholarship,45.553227,-94.152657,991,0.8509,7910,15828,13374.5,21997
+157401,Murray State University,Murray,KY,Public,Doctor's degree -  professional practice,36.612419,-88.323629,1101,0.8535,8400,22680,15000,21500
+203517,Kent State University at Kent,Kent,OH,Public,Doctor's degree - research/scholarship and professional practice,41.146653,-81.342533,1067,0.8536,10012,18376,17125,25246.5
+183910,Caldwell College,Caldwell,NJ,Private not-for-profit,Doctor's degree - research/scholarship,40.832753,-74.272571,962,0.8541,32650,32650,18987.5,26395
+154350,Simpson College,Indianola,IA,Private not-for-profit,Master's degree,41.365503,-93.563471,1103,0.8545,35876,35876,22117,27000
+227526,Prairie View A & M University,Prairie View,TX,Public,Doctor's degree - research/scholarship,30.092425,-95.989475,838,0.8548,10059,23378,15761,29000
+232937,Norfolk State University,Norfolk,VA,Public,Doctor's degree - research/scholarship and professional practice,36.848429,-76.261375,762,0.8549,8738,20340,24000,31000
+157386,Morehead State University,Morehead,KY,Public,Doctor's degree - other,38.186768,-83.434021,1066,0.8556,8496,12744,15213.5,24000
+214786,Pennsylvania State University-Penn State Greater Allegheny,McKeesport,PA,Public,Master's degree,40.345582,-79.827447,989,0.8569,13666,20546,19500,26120
+214740,Pennsylvania State University-Penn State Dubois,Dubois,PA,Public,Master's degree,41.126941,-78.751784,1000,0.8579,13616,20496,19500,26120
+151324,Indiana State University,Terre Haute,IN,Public,Doctor's degree - research/scholarship and professional practice,39.469073,-87.407846,907,0.8588,8746,19076,12000,23708
+229179,Texas Woman's University,Denton,TX,Public,Doctor's degree - research/scholarship and professional practice,33.227002,-97.129088,944,0.8588,7238,17030,14917,20370
+214698,Pennsylvania State University-Penn State Beaver,Monaca,PA,Public,Master's degree,40.678254,-80.296235,1030,0.8589,13678,20558,19500,26120
+119173,Mount St. Mary's College,Los Angeles,CA,Private not-for-profit,Doctor's degree -  professional practice,34.085315,-118.482879,923,0.8592,37722,37722,21000,26000
+151263,University of Indianapolis,Indianapolis,IN,Private not-for-profit,Doctor's degree -  professional practice,39.709571,-86.133969,1033,0.8617,27420,27420,18773,27000
+218733,South Carolina State University,Orangeburg,SC,Public,Doctor's degree - research/scholarship,33.497968,-80.848722,766,0.8623,10420,20500,22500,32073
+156125,Wichita State University,Wichita,KS,Public,Doctor's degree - research/scholarship and professional practice,37.718882,-97.292361,1102,0.8623,7895,16634,14000,21000
+156620,Eastern Kentucky University,Richmond,KY,Public,Doctor's degree -  professional practice,37.740845,-84.300796,1049,0.8633,8868,18180,14000,23125
+211431,Carlow University,Pittsburgh,PA,Private not-for-profit,Doctor's degree -  professional practice,40.439293,-79.963448,982,0.8635,27764,27764,20750,27000
+171571,Oakland University,Rochester Hills,MI,Public,Doctor's degree - research/scholarship and professional practice,42.674573,-83.216418,1082,0.8635,12064,24540,17750,25000
+155140,Haskell Indian Nations University,Lawrence,KS,Public,Bachelor's degree,38.938834,-95.232879,872,0.8646,480,480,PrivacySuppressed,PrivacySuppressed
+181394,University of Nebraska at Omaha,Omaha,NE,Public,Doctor's degree - research/scholarship,41.258769,-96.008516,1050,0.8648,7204,19124,12354,19500
+191533,Hartwick College,Oneonta,NY,Private not-for-profit,Bachelor's degree,42.457599,-75.071994,1004,0.8654,42860,42860,23250,27000
+206507,Wilmington College,Wilmington,OH,Private not-for-profit,Master's degree,39.444744,-83.818342,964,0.8659,25000,25000,18112.5,26649
+214670,Pennsylvania State University-Penn State Lehigh Valley,Center Valley,PA,Public,Bachelor's degree,40.559208,-75.402507,1051,0.8665,14134,21568,19500,26120
+107558,University of the Ozarks,Clarksville,AR,Private not-for-profit,Bachelor's degree,35.476278,-93.467221,999,0.8682,23750,23750,6500,20500
+174491,Northwestern College,Saint Paul,MN,Private not-for-profit,Master's degree,45.033703,-93.167822,1104,0.8692,29460,29460,18875.5,21594
+180878,Bryan College of Health Sciences,Lincoln,NE,Private not-for-profit,Master's degree,40.796768,-96.651532,1105,0.87,14636,14636,23479,25873
+214704,Pennsylvania State University-Penn State Berks,Reading,PA,Public,Bachelor's degree,40.357987,-75.972141,992,0.8701,14828,22834,19500,26120
+217934,Columbia College,Columbia,SC,Private not-for-profit,Master's degree,34.045581,-81.029967,972,0.8707,28900,28900,14670.5,22068.5
+213598,Lincoln University of Pennsylvania,Lincoln University,PA,Public,Master's degree,39.807723,-75.926458,835,0.8714,11102,16733,20500,31000
+220613,Lee University,Cleveland,TN,Private not-for-profit,Master's degree,35.166166,-84.870018,1107,0.8722,15770,15770,16815,27000
+236577,Seattle Pacific University,Seattle,WA,Private not-for-profit,Doctor's degree - research/scholarship,47.650214,-122.361667,1108,0.8728,38940,38940,21500,26162
+160612,Southeastern Louisiana University,Hammond,LA,Public,Doctor's degree - research/scholarship and professional practice,30.514652,-90.468676,1010,0.873,7773,20251,9408,21000
+155681,Pittsburg State University,Pittsburg,KS,Public,Master's degree,37.392071,-94.702473,1010,0.8734,6910,17662,13500,20000
+217749,Bob Jones University,Greenville,SC,Private for-profit,Doctor's degree - research/scholarship,34.874016,-82.365838,1068,0.8737,15550,15550,12000,17868
+100654,Alabama A & M University,Normal,AL,Public,Doctor's degree - research/scholarship,34.783368,-86.568502,849,0.8738,9366,17496,13246,32750
+155025,Emporia State University,Emporia,KS,Public,Doctor's degree - research/scholarship,38.414784,-96.179021,1029,0.8743,6179,19392,12500,18568
+140872,Reinhardt University,Waleska,GA,Private not-for-profit,Master's degree,34.319756,-84.554264,965,0.8745,21644,21644,12000,22732
+202134,Cleveland State University,Cleveland,OH,Public,Doctor's degree - research/scholarship and professional practice,41.502281,-81.674355,1029,0.8745,9768,13819,14000,22000
+153603,Iowa State University,Ames,IA,Public,Doctor's degree - research/scholarship and professional practice,42.026212,-93.648504,1144,0.8749,8219,21583,18749,23256
+213783,Mansfield University of Pennsylvania,Mansfield,PA,Public,Master's degree,41.807467,-77.073901,965,0.8752,11908,21292,19500,27000
+130314,University of Saint Joseph,West Hartford,CT,Private not-for-profit,Doctor's degree -  professional practice,41.781041,-72.72965,985,0.876,36870,36870,23250,27000
+225548,Howard Payne University,Brownwood,TX,Private not-for-profit,Master's degree,31.716467,-98.985204,950,0.8772,26630,26630,10750,25500
+143118,Aurora University,Aurora,IL,Private not-for-profit,Doctor's degree - research/scholarship,41.753631,-88.349023,1005,0.8772,22830,22830,15750,22000
+174747,College of Saint Benedict,Saint Joseph,MN,Private not-for-profit,Bachelor's degree,45.561792,-94.319888,1134,0.8774,42271,42271,25411,27000
+210429,Western Oregon University,Monmouth,OR,Public,Master's degree,44.852235,-123.238309,953,0.8776,9285,23445,15693.5,24955
+174792,Saint Johns University,Collegeville,MN,Private not-for-profit,Master's degree,45.580075,-94.393621,1134,0.8778,41732,41732,25000,27000
+213613,Lock Haven University,Lock Haven,PA,Public,Master's degree,41.141517,-77.460108,946,0.8784,10229,19321,19500,27000
+214591,Pennsylvania State University-Penn State Erie-Behrend College,Erie,PA,Public,Master's degree,42.119433,-79.983773,1092,0.8785,14828,22834,19500,26120
+183974,Centenary College,Hackettstown,NJ,Private not-for-profit,Master's degree,40.84764,-74.833644,927,0.8788,32098,32098,19500,25000
+225247,Hardin-Simmons University,Abilene,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,32.476434,-99.73564,1019,0.8799,25830,25830,16943.5,26000
+233541,Shenandoah University,Winchester,VA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.166058,-78.158376,1009,0.8802,31322,31322,19800,25000
+204200,College of Mount St. Joseph,Cincinnati,OH,Private not-for-profit,Doctor's degree - other,39.095893,-84.639453,1011,0.8805,28300,28300,19000,28000
+219471,University of South Dakota,Vermillion,SD,Public,Doctor's degree - research/scholarship and professional practice,42.786019,-96.925283,1050,0.8813,8457,11688,16512,25000
+216010,Shippensburg University of Pennsylvania,Shippensburg,PA,Public,Master's degree,40.057933,-77.522335,970,0.8831,11452,19542,17250,25250
+162061,Capitol College,Laurel,MD,Private not-for-profit,Doctor's degree - research/scholarship,39.046673,-76.850231,1018,0.8833,24272,24272,16625,26000
+240417,University of Wisconsin-Stout,Menomonie,WI,Public,Master's degree,44.873187,-91.926653,1030,0.884,9395,17141,16838,25000
+159416,Louisiana State University-Shreveport,Shreveport,LA,Public,Master's degree,32.428465,-93.70561,1048,0.8857,7146,20300,11500,20577
+237066,Whitworth University,Spokane,WA,Private not-for-profit,Master's degree,47.753358,-117.416714,1143,0.8857,40562,40562,22000,26000
+165529,Curry College,Milton,MA,Private not-for-profit,Master's degree,42.238061,-71.116539,943,0.8859,37835,37835,19266.5,26000
+219602,Austin Peay State University,Clarksville,TN,Public,Master's degree,36.533319,-87.354081,1010,0.8886,7689,22929,12670.5,22500
+145813,Illinois State University,Normal,IL,Public,Doctor's degree - research/scholarship and professional practice,40.509403,-88.990058,1090,0.8888,14061,25168,16750,21250
+180416,Montana Tech of the University of Montana,Butte,MT,Public,Master's degree,46.012868,-112.559511,1109,0.8893,6561,19984,11955,19500
+157809,Thomas More College,Crestview Hills,KY,Private not-for-profit,Master's degree,39.022963,-84.568923,1027,0.8909,29450,29450,15077,27000
+238324,Bellin College,Green Bay,WI,Private not-for-profit,Master's degree,44.468277,-87.921722,1110,0.8913,20500,20500,15000,15000
+150941,Huntington University,Huntington,IN,Private not-for-profit,Master's degree,40.898152,-85.497317,1019,0.8921,25400,25400,22500,27000
+149231,Southern Illinois University Edwardsville,Edwardsville,IL,Public,Doctor's degree - research/scholarship and professional practice,38.793949,-89.997779,1068,0.893,11008,23536,14250,21434
+203757,Lourdes University,Sylvania,OH,Private not-for-profit,Master's degree,41.710009,-83.706108,989,0.8934,20620,20620,23236.5,29687
+175616,Delta State University,Cleveland,MS,Public,Doctor's degree - research/scholarship,33.744745,-90.735365,1028,0.8941,6418,6418,12390.5,18000
+209807,Portland State University,Portland,OR,Public,Doctor's degree - research/scholarship,45.511601,-122.686289,1037,0.8942,8337,24852,16250,21969
+237525,Marshall University,Huntington,WV,Public,Doctor's degree - research/scholarship and professional practice,38.422482,-82.428964,1010,0.8943,7154,16382,14143,23250
+214689,Pennsylvania State University-Penn State Altoona,Altoona,PA,Public,Bachelor's degree,40.54092,-78.408247,1008,0.8949,14828,22834,19500,26120
+177418,Fontbonne University,Saint Louis,MO,Private not-for-profit,Master's degree,38.642697,-90.315712,1050,0.8952,24610,24610,21500,25000
+206349,Ursuline College,Pepper Pike,OH,Private not-for-profit,Doctor's degree -  professional practice,41.497035,-81.465118,1008,0.8961,29940,29940,22750,28650
+179326,Southwest Baptist University,Bolivar,MO,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,37.602425,-93.407056,1027,0.8967,22508,22508,14000,21735
+161253,University of Maine,Orono,ME,Public,Doctor's degree - research/scholarship,44.899257,-68.669332,1073,0.8975,10628,29498,17500,26000
+106704,University of Central Arkansas,Conway,AR,Public,Doctor's degree - research/scholarship and professional practice,35.077945,-92.457672,1082,0.8978,8224,14447,12000,20900.5
+106245,University of Arkansas at Little Rock,Little Rock,AR,Public,Doctor's degree - research/scholarship and professional practice,34.723254,-92.339778,1029,0.8983,8061,19499,12375,19750
+189848,Cazenovia College,Cazenovia,NY,Private not-for-profit,Bachelor's degree,42.932489,-75.854882,976,0.8988,32674,32674,19500,26500
+193353,Mount Saint Mary College,Newburgh,NY,Private not-for-profit,Master's degree,41.513872,-74.012655,991,0.8989,29048,29048,20000,26000
+234173,Virginia Wesleyan College,Norfolk,VA,Private not-for-profit,Bachelor's degree,36.868417,-76.18606,959,0.8996,35610,35610,15830,27000
+142090,Boise Bible College,Boise,ID,Private not-for-profit,Bachelor's degree,43.658651,-116.291321,1009,0.9,11750,11750,15375,21290
+149639,VanderCook College of Music,Chicago,IL,Private not-for-profit,Master's degree,41.836833,-87.629138,1050,0.902,27180,27180,26000,29750
+204468,Notre Dame College,Cleveland,OH,Private not-for-profit,Master's degree,41.506894,-81.516617,942,0.9025,28300,28300,16184,27000
+230728,Utah State University,Logan,UT,Public,Doctor's degree - research/scholarship and professional practice,41.740748,-111.81391,1087,0.9025,7426,20492,8000,13491
+127741,University of Northern Colorado,Greeley,CO,Public,Doctor's degree - research/scholarship,40.410855,-104.692777,1031,0.9027,8888,20474,12500,21027
+240338,Wisconsin Lutheran College,Milwaukee,WI,Private not-for-profit,Master's degree,43.036943,-88.022718,1107,0.9027,27984,27984,18700.5,24234
+232706,Marymount University,Arlington,VA,Private not-for-profit,Doctor's degree - research/scholarship,38.905562,-77.128785,970,0.9055,29780,29780,19500,25000
+141237,Truett-McConnell College,Cleveland,GA,Private not-for-profit,Bachelor's degree,34.596306,-83.748911,953,0.9061,18510,18510,12000,25674
+170639,Lake Superior State University,Sault Ste Marie,MI,Public,Master's degree,46.492849,-84.365573,1048,0.9075,11019,11019,15250,23750
+219356,South Dakota State University,Brookings,SD,Public,Doctor's degree - research/scholarship and professional practice,44.317485,-96.782139,1069,0.9076,8172,11403,15500,25000
+228042,Schreiner University,Kerrville,TX,Private not-for-profit,Master's degree,30.031458,-99.130586,998,0.9078,25750,25750,14250,23641.5
+157085,University of Kentucky,Lexington,KY,Public,Doctor's degree - research/scholarship and professional practice,38.038911,-84.504747,1159,0.9079,11484,26334,15000,23000
+212832,Gwynedd Mercy College,Gwynedd Valley,PA,Private not-for-profit,Master's degree,40.202804,-75.236601,934,0.9082,32480,32480,20000,25000
+207865,Southwestern Oklahoma State University,Weatherford,OK,Public,Doctor's degree -  professional practice,35.535281,-98.707768,990,0.9083,6690,13440,9215,14334.5
+175005,St Catherine University,Saint Paul,MN,Private not-for-profit,Doctor's degree -  professional practice,44.924926,-93.183761,1032,0.9083,36820,36820,21500,26938
+150774,Holy Cross College,Notre Dame,IN,Private not-for-profit,Bachelor's degree,41.698996,-86.253822,1053,0.9101,28760,28760,11000,25653
+157447,Northern Kentucky University,Highland Heights,KY,Public,Doctor's degree - research/scholarship and professional practice,39.029714,-84.463483,1066,0.9109,9384,18384,14500,24914
+102368,Troy University,Troy,AL,Public,Doctor's degree -  professional practice,31.800672,-85.957094,992,0.9125,8260,15484,14250,25000
+168786,Aquinas College,Grand Rapids,MI,Private not-for-profit,Master's degree,42.96019,-85.628785,1090,0.9132,30062,30062,19666.5,26000
+141486,Chaminade University of Honolulu,Honolulu,HI,Private not-for-profit,Master's degree,21.28995,-157.807851,976,0.9133,23310,23310,13000,21500
+102049,Samford University,Birmingham,AL,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,33.464128,-86.791799,1170,0.9138,29402,29402,15832,20702
+191931,Iona College,New Rochelle,NY,Private not-for-profit,Master's degree,40.925725,-73.788046,1005,0.9146,36584,36584,19250,26000
+219383,University of Sioux Falls,Sioux Falls,SD,Private not-for-profit,Master's degree,43.531574,-96.738229,1050,0.9149,27160,27160,15000,22284.5
+145497,Hebrew Theological College,Skokie,IL,Private not-for-profit,Master's degree,42.010103,-87.760874,1076,0.915,16860,16860,6500,PrivacySuppressed
+206330,Urbana University,Urbana,OH,Private not-for-profit,Master's degree,40.102594,-83.760301,908,0.9154,22452,22452,20500,26007.5
+213020,Indiana University of Pennsylvania-Main Campus,Indiana,PA,Public,Doctor's degree - research/scholarship and professional practice,40.617531,-79.159332,946,0.9154,11368,22377,20500,27000
+220075,East Tennessee State University,Johnson City,TN,Public,Doctor's degree - research/scholarship and professional practice,36.301643,-82.366954,1069,0.9164,8341,25573,13250,20000
+200059,Dickinson State University,Dickinson,ND,Public,Bachelor's degree,46.882917,-102.799679,1116,0.9171,6348,8918,9745,17500
+225627,University of the Incarnate Word,San Antonio,TX,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,29.46708,-98.46583,893,0.9187,28898,28898,21500,27250
+128391,Western State Colorado University,Gunnison,CO,Public,Master's degree,38.549436,-106.918439,1026,0.9188,9193,20497,11000,21360
+151306,University of Southern Indiana,Evansville,IN,Public,Doctor's degree - other,37.962374,-87.677214,1005,0.9189,7605,17847,12387.5,21503
+237792,Shepherd University,Shepherdstown,WV,Public,Master's degree,39.433071,-77.804101,994,0.9191,7170,17482,14190,21966
+243665,University of the Virgin Islands,Charlotte Amalie,VI,Public,Master's degree,18.344193,-64.972866,807,0.9195,5235,14496,7366,13761.5
+165936,Gordon College,Wenham,MA,Private not-for-profit,Master's degree,42.588173,-70.819133,1074,0.9197,36060,36060,23250,27000
+127185,Fort Lewis College,Durango,CO,Public,Bachelor's degree,37.275939,-107.867422,1014,0.9212,8104,17816,10500,18866
+140252,Life University,Marietta,GA,Private not-for-profit,Doctor's degree -  professional practice,33.932781,-84.514729,927,0.9214,11220,11220,8333,10000
+155900,Southwestern College,Winfield,KS,Private not-for-profit,Doctor's degree - other,37.248608,-96.975405,959,0.9215,27250,27250,15775,25975
+228501,Sul Ross State University,Alpine,TX,Public,Master's degree,30.363139,-103.651469,855,0.9222,6419,16211,8250,11244.5
+213358,La Roche College,Pittsburgh,PA,Private not-for-profit,Master's degree,40.568615,-80.014851,922,0.9227,27000,27000,19000,25963.5
+153825,Loras College,Dubuque,IA,Private not-for-profit,Master's degree,42.503908,-90.679023,1051,0.9236,31525,31525,21937,27000
+201858,Cincinnati Christian University,Cincinnati,OH,Private not-for-profit,Master's degree,39.114169,-84.55408,945,0.9241,16414,16414,13962,26000
+197230,Wells College,Aurora,NY,Private not-for-profit,Bachelor's degree,42.742943,-76.696028,1005,0.9243,38530,38530,22750,27000
+180489,The University of Montana,Missoula,MT,Public,Doctor's degree - research/scholarship and professional practice,46.859312,-113.982912,1072,0.9243,6238,23764,14250,22977
+193399,College of Mount Saint Vincent,Bronx,NY,Private not-for-profit,Master's degree,40.913657,-73.908887,886,0.9265,35130,35130,25000,27000
+200332,North Dakota State University-Main Campus,Fargo,ND,Public,Doctor's degree - research/scholarship and professional practice,46.893127,-96.800838,1091,0.928,8327,19891,15000,22567
+178059,Maryville University of Saint Louis,Saint Louis,MO,Private not-for-profit,Doctor's degree - research/scholarship,38.644774,-90.505998,1114,0.928,27958,27958,18616,24539
+204893,Trinity Health System School of Nursing,Steubenville,OH,Private not-for-profit,Non-degree granting,40.355039,-80.625312,870,0.9286,8348,8620,9787,15450
+164614,Boston Baptist College,Boston,MA,Private not-for-profit,Bachelor's degree,42.254037,-71.1103,900,0.9286,12600,12600,15998,PrivacySuppressed
+126580,University of Colorado Colorado Springs,Colorado Springs,CO,Public,Doctor's degree - research/scholarship and professional practice,38.892735,-104.800296,1069,0.9286,8042,18770,12197,21000
+155317,University of Kansas,Lawrence,KS,Public,Doctor's degree - research/scholarship and professional practice,38.958549,-95.247567,1185,0.9301,11455,28239,14275.5,20500
+233718,Sweet Briar College,Sweet Briar,VA,Private not-for-profit,Master's degree,37.556725,-79.081014,1035,0.9305,36425,36425,21000,27000
+238078,Wheeling Jesuit University,Wheeling,WV,Private not-for-profit,Doctor's degree -  professional practice,40.070873,-80.690804,971,0.9324,28110,28110,17750,27000
+151102,Indiana University-Purdue University-Fort Wayne,Fort Wayne,IN,Public,Master's degree,41.117278,-85.108962,976,0.9326,8213,19727,12500,23000
+136330,Palm Beach Atlantic University,West Palm Beach,FL,Private not-for-profit,Doctor's degree -  professional practice,26.7044,-80.05247,1076,0.9337,28520,28520,14500,22250
+236133,Northwest University,Kirkland,WA,Private not-for-profit,Doctor's degree - research/scholarship,47.657945,-122.192763,1061,0.9339,29200,29200,12500,20500
+192271,LIM College,New York,NY,Private for-profit,Master's degree,40.759865,-73.975054,938,0.9346,25725,25725,18000,26000
+216694,Waynesburg University,Waynesburg,PA,Private not-for-profit,Doctor's degree -  professional practice,39.899871,-80.186205,984,0.9371,22800,22800,22500,27000
+214272,Neumann University,Aston,PA,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.874876,-75.440022,888,0.9374,28580,28580,23466,27000
+431600,Mercy Hospital School of Nursing,Pittsburgh,PA,Private not-for-profit,Non-degree granting,40.435584,-79.986445,1005,0.9375,14912,14912,10500,12000
+207263,Northeastern State University,Tahlequah,OK,Public,Doctor's degree -  professional practice,35.919939,-94.967229,1010,0.9375,6207,13707,11650,17750
+157951,Western Kentucky University,Bowling Green,KY,Public,Doctor's degree - other,36.985035,-86.456828,1044,0.9402,9912,24792,14250,23197
+211644,Clarion University of Pennsylvania,Clarion,PA,Public,Master's degree,41.207805,-79.377501,942,0.9414,10287,14764,19000,26246
+147679,North Park University,Chicago,IL,Private not-for-profit,Doctor's degree - other,41.975268,-87.709948,993,0.9418,27210,27210,19000,25620
+206084,University of Toledo,Toledo,OH,Public,Doctor's degree - research/scholarship and professional practice,41.660572,-83.614714,1070,0.9432,9547,18885,13000,23037.5
+178341,Missouri Southern State University,Joplin,MO,Public,Master's degree,37.095155,-94.461689,990,0.9434,5523,10568,9750,19550
+220312,Hiwassee College,Madisonville,TN,Private not-for-profit,Bachelor's degree,35.558912,-84.364117,891,0.9442,15543,15543,8250,17500
+234155,Virginia State University,Petersburg,VA,Public,Doctor's degree - research/scholarship,37.236453,-77.419886,817,0.9448,8472,19002,21500,29750
+240727,University of Wyoming,Laramie,WY,Public,Doctor's degree - research/scholarship and professional practice,41.311773,-105.57931,1102,0.9508,5055,16215,11250,18079
+230913,Johnson State College,Johnson,VT,Public,Master's degree,44.641736,-72.671154,917,0.9509,11290,23746,14900,23511
+139250,College of Coastal Georgia,Brunswick,GA,Public,Bachelor's degree,31.182745,-81.485973,896,0.9521,3821,10428,6250,17500
+206604,Wright State University-Main Campus,Dayton,OH,Public,Doctor's degree - research/scholarship and professional practice,39.780634,-84.064881,1016,0.9525,8730,17098,13000,24282
+212160,Edinboro University of Pennsylvania,Edinboro,PA,Public,Master's degree,41.870717,-80.121318,945,0.9528,9984,10640,17500,27000
+142461,Northwest Nazarene University,Nampa,ID,Private not-for-profit,Doctor's degree -  professional practice,43.562411,-116.565783,1113,0.9528,28650,28650,18000,24513
+236452,Saint Martin's University,Lacey,WA,Private not-for-profit,Master's degree,47.041068,-122.816354,1029,0.9531,34356,34356,19500,23404
+226383,Lubbock Christian University,Lubbock,TX,Private not-for-profit,Master's degree,33.575973,-101.934426,1034,0.9531,21166,21166,15750,22747.5
+230834,Castleton State College,Castleton,VT,Public,Master's degree,43.608397,-73.180842,965,0.9532,11314,26722,19000,25000
+235097,Eastern Washington University,Cheney,WA,Public,Doctor's degree -  professional practice,47.490667,-117.583808,962,0.9548,6951,23343,14924,20500.5
+142522,Brigham Young University-Idaho,Rexburg,ID,Private not-for-profit,Bachelor's degree,43.818408,-111.782431,1036,0.9583,3920,3920,6606,11000
+200800,University of Akron Main Campus,Akron,OH,Public,Doctor's degree - research/scholarship and professional practice,41.078551,-81.511679,1049,0.9592,10270,18801,15500,25000
+139393,Covenant College,Lookout Mountain,GA,Private not-for-profit,Master's degree,34.965161,-85.375066,1191,0.9624,32230,32230,19500,22199.5
+237899,West Virginia State University,Institute,WV,Public,Master's degree,38.380541,-81.765034,927,0.9627,6996,15572,11250,22000
+220215,Freed-Hardeman University,Henderson,TN,Private not-for-profit,Master's degree,35.440073,-88.639418,1098,0.9633,21500,21500,17583,26000
+243151,University of Puerto Rico at Cayey,Cayey,PR,Public,Bachelor's degree,18.11882,-66.162066,1097,0.9637,2083,4104,4500,4500
+128106,Colorado State University-Pueblo,Pueblo,CO,Public,Master's degree,38.30859,-104.579033,969,0.9638,9519,24101,11750,19500
+211361,California University of Pennsylvania,California,PA,Public,Master's degree,40.064964,-79.88679,918,0.9646,10339,14673,17346,24223
+153375,Grand View University,Des Moines,IA,Private not-for-profit,Master's degree,41.620813,-93.604352,970,0.9661,25474,25474,18000,23500
+120184,Notre Dame de Namur University,Belmont,CA,Private not-for-profit,Master's degree,37.517501,-122.284618,913,0.9668,33268,33268,19500,25000
+152336,University of Saint Francis-Fort Wayne,Fort Wayne,IN,Private not-for-profit,Master's degree,41.087205,-85.177246,1001,0.9672,28310,28310,18250,26000
+175430,Blue Mountain College,Blue Mountain,MS,Private not-for-profit,Master's degree,34.67209,-89.02924,972,0.9686,11212,11212,11750,16250
+392840,Watkins College of Art Design & Film,Nashville,TN,Private not-for-profit,Bachelor's degree,36.194659,-86.805888,999,0.97,23700,23700,20500,28479.5
+208646,Eastern Oregon University,La Grande,OR,Public,Master's degree,45.319795,-118.092495,940,0.9703,8004,18645,15000,22107
+142328,Lewis-Clark State College,Lewiston,ID,Public,Bachelor's degree,46.412199,-117.024875,937,0.9715,6120,17620,10000,19061
+117104,Life Pacific College,San Dimas,CA,Private not-for-profit,Master's degree,34.098705,-117.829388,889,0.9732,14138,14138,13000,19795
+197984,Belmont Abbey College,Belmont,NC,Private not-for-profit,Bachelor's degree,35.260651,-81.041315,987,0.9737,18500,18500,18750,27000
+235167,The Evergreen State College,Olympia,WA,Public,Master's degree,47.07382,-122.977492,1056,0.9748,7414,23887,12659,17116
+449764,Visible Music College,Memphis,TN,Private not-for-profit,Bachelor's degree,35.144586,-90.049381,994,0.9762,19500,19500,12000,24625
+213303,Keystone College,La Plume,PA,Private not-for-profit,Bachelor's degree,41.558969,-75.777456,878,0.9763,25798,25798,18473,27000
+176789,Calvary Bible College and Theological Seminary,Kansas City,MO,Private not-for-profit,Master's degree,38.839578,-94.547927,1019,0.9773,11700,11700,10334,21392
+150145,Bethel College-Indiana,Mishawaka,IN,Private not-for-profit,Master's degree,41.678399,-86.194686,1039,0.9777,27390,27390,19500,26000
+215114,Cairn University,Langhorne,PA,Private not-for-profit,Master's degree,40.165809,-74.909509,1027,0.9793,25246,25246,19500,27000
+462354,John Paul the Great Catholic University,San Diego,CA,Private not-for-profit,Master's degree,33.12085,-117.082401,1088,0.9804,24900,24900,19167,25958.5
+200572,Valley City State University,Valley City,ND,Public,Master's degree,46.918517,-98.00389,985,0.9812,7196,16016,11225,20856
+230931,Lyndon State College,Lyndonville,VT,Public,Master's degree,44.534525,-72.024955,945,0.9834,11290,22978,15000,26375
+219295,Presentation College,Aberdeen,SD,Private not-for-profit,Bachelor's degree,45.483339,-98.49129,944,0.9852,19090,19090,14750,26000
+211477,Central Penn College,Summerdale,PA,Private for-profit,Bachelor's degree,40.3049,-76.934461,778,0.9855,17646,17646,12612,22688
+126182,Adams State University,Alamosa,CO,Public,Master's degree,37.473636,-105.879642,933,0.9857,9153,20169,11425,22500
+160621,Southern University and A & M College,Baton Rouge,LA,Public,Doctor's degree - research/scholarship and professional practice,30.524558,-91.190105,1080,0.9879,9332,19332,16419,29735
+176035,Mississippi University for Women,Columbus,MS,Public,Doctor's degree -  professional practice,33.493305,-88.418601,1021,0.988,6065,16634,12500,14000
+206613,Wright State University-Lake Campus,Celina,OH,Public,Master's degree,40.546074,-84.509194,1005,0.9881,5842,14462,13000,24282
+178208,Midwestern Baptist Theological Seminary,Kansas City,MO,Private not-for-profit,Doctor's degree - research/scholarship and professional practice,39.185691,-94.573185,1038,0.9911,6925,6925,7917,14251
+232672,Mary Baldwin College,Staunton,VA,Private not-for-profit,Master's degree,38.153884,-79.069273,983,0.9948,30635,30635,18267,25306.5
+194161,Nyack College,Nyack,NY,Private not-for-profit,Doctor's degree -  professional practice,41.081957,-73.927863,920,0.9978,24850,24850,15645,25000
+229780,Wayland Baptist University,Plainview,TX,Private not-for-profit,Master's degree,34.187677,-101.730042,908,0.9984,15060,15060,12500,19553
+228796,The University of Texas at El Paso,El Paso,TX,Public,Doctor's degree - research/scholarship and professional practice,31.771697,-106.50356,927,0.9999,7548,20523,11000,17075
+220604,Le Moyne-Owen College,Memphis,TN,Private not-for-profit,Bachelor's degree,35.118641,-90.034101,760,1,10880,10880,14250,31118.5
+180522,Montana State University-Northern,Havre,MT,Public,Master's degree,48.54149,-109.687806,910,1,5371,17681,9500,15882.5
+157535,University of Pikeville,Pikeville,KY,Private not-for-profit,Doctor's degree -  professional practice,37.479232,-82.521063,927,1,19600,19600,11000,24725
+102261,Southeastern Bible College,Birmingham,AL,Private not-for-profit,Bachelor's degree,33.378935,-86.749045,970,1,12600,12600,16250,29000
+198109,Cabarrus College of Health Sciences,Concord,NC,Private not-for-profit,Bachelor's degree,35.440038,-80.600824,979,1,12268,12268,14500,17500
+215974,University of Pittsburgh Medical Center-Shadyside School of Nursing,Pittsburgh,PA,Private not-for-profit,Non-degree granting,40.459846,-79.927333,1025,1,14912,14912,11756,12400
+178679,Ozark Christian College,Joplin,MO,Private not-for-profit,Bachelor's degree,37.103172,-94.510622,1047,1,12140,12140,12500,19047
+177083,Conception Seminary College,Conception,MO,Private not-for-profit,Bachelor's degree,40.24044,-94.682831,1050,1,20706,20706,18137,PrivacySuppressed

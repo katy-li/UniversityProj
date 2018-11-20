@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <!--this is new-->
+
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.4/mapbox.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+
+    <style type="text/css">
+    #map {
+        width: 1200px;
+        height: 1000px;
+    }
+    /* This is new */
+
+    button {
+        width: 200px;
+    }
+    </style>
+</head>
+
+
+<!-- nave header-->
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow"> 
+  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="index.html"><i class="fas fa-graduation-cap"></i> UNIVERSITY RESEARCH
+  </a>
+</nav>
+
+<!-- side nav bar-->
+<div class = "container-fluid">
+  <div class = "row">
+    <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+      <div class="side-bar-sticky">
+        <ul class="nav flex-column mb-2">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html">
+              <i class="fas fa-home"></i> &nbsp HOME
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <h5 class="sidebar-heading d-flex justify-content-between
+          align-items-center px-3 mt-4 mb-1 text-muted">
+            <span>MAPS</span>
+          </h5>
+          <li class="nav-item">
+            <a class="nav-link active" href="#">
+              <i class="fas fa-globe"></i> &nbsp MAP
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>  
+          <h5 class="sidebar-heading d-flex justify-content-between
+          align-items-center px-3 mt-4 mb-1 text-muted">
+            <span>CHARTS</span>
+          </h5>       
+          <li class="nav-item">
+            <a class="nav-link active" href="#">
+              <i class="fas fa-chart-line"></i> &nbsp DASHBOARD
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <h5 class="sidebar-heading d-flex justify-content-between
+          align-items-center px-3 mt-4 mb-1 text-muted">
+            <span>RESEARCH EXPENDITURES</span>
+          </h5>
+          <li class="nav-item">
+            <a class="nav-link active" href="time.html">
+              <i class="fas fa-clock"></i> &nbsp TIMESERIES
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="timetable.html">
+              <i class="fas fa-table"></i> &nbsp EXPENDITURE TABLE
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+<body>
+    <!-- This is new -->
+    <div class="btn-group">
+        <button type="button" id="all" class="btn btn-success">All</button>
+        <button type="button" id="pnfp" class="btn btn-primary">Private not-for-profit</button>
+        <button type="button" id="pfp" class="btn btn-warning">Private for-profit</button>
+        <button type="button" id="public" class="btn btn-danger">Public</button>
+    </div>
+
+    <div id="map"></div>
+
+    <script type="text/javascript">
+    var mapboxTiles = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+        attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
+    });
+    //possible colors 'red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'purple', 'darkpuple', 'cadetblue'
+    var publicIcon = L.AwesomeMarkers.icon({
+        prefix: 'fa', //font awesome rather than bootstrap
+        markerColor: 'red', // see colors above
+        icon: 'book-open' //http://fortawesome.github.io/Font-Awesome/icons/
+    });
+    var pnfpIcon = L.AwesomeMarkers.icon({
+        prefix: 'fa', //font awesome rather than bootstrap
+        markerColor: 'orange', // see colors above
+        icon: 'book-open' //http://fortawesome.github.io/Font-Awesome/icons/
+    });
+    var pfpIcon = L.AwesomeMarkers.icon({
+        prefix: 'fa', //font awesome rather than bootstrap
+        markerColor: 'purple', // see colors above
+        icon: 'book-open' //http://fortawesome.github.io/Font-Awesome/icons/
+    });
+    var map = L.map('map')
+        .addLayer(mapboxTiles)
+        .setView([38, -95], 4);
+    var promise = $.getJSON("data/mapData.geojson");
+    promise.then(function(data) {
+      console.log(data);
+        var allschools = L.geoJson(data);
+                var publicSchool = L.geoJson(data, {
+            filter: function(feature, layer) {
+                return feature.properties.Control == "Public";
+            },
+            pointToLayer: function(feature, latlng) {
+                return L.marker(latlng, {
+                    icon: publicIcon
+                }).on('mouseover', function() {
+                    this.bindPopup(feature.properties.Name).openPopup();
+                });
+            }
+        });
+        var pnfp = L.geoJson(data, {
+            filter: function(feature, layer) {
+                return feature.properties.Control == "Private not-for-profi";
+            },
+            pointToLayer: function(feature, latlng) {
+                return L.marker(latlng, {
+                  icon: pnfpIcon
+                }).on('mouseover', function() {
+                    this.bindPopup(feature.properties.Name).openPopup();
+                });
+            }
+        });
+        var pfp = L.geoJson(data, {
+            filter: function(feature, layer) {
+                return feature.properties.Control == "Private for-profit";
+            },
+            pointToLayer: function(feature, latlng) {
+                return L.marker(latlng, {
+                  icon: pfpIcon
+                }).on('mouseover', function() {
+                    this.bindPopup(feature.properties.Name).openPopup();
+                });
+            }
+        });
+        map.fitBounds(allschools.getBounds(), {
+            padding: [10, 10]
+        });
+        publicSchool.addTo(map)
+        pnfp.addTo(map)
+        pfp.addTo(map)
+        allschools.addTo(map)
+        // The JavaScript below is new
+        $("#public").click(function() {
+            map.addLayer(publicSchool)
+            map.removeLayer(pnfp)
+            map.removeLayer(pfp)
+        });
+        $("#pnfp").click(function() {
+            map.addLayer(pnfp)
+            map.removeLayer(publicSchool)
+            map.removeLayer(pfp)
+        });
+        $("#pfp").click(function() {
+            map.addLayer(pfp)
+            map.removeLayer(publicSchool)
+            map.removeLayer(pnfp)
+        });
+        $("#all").click(function() {
+          map.addLayer(publicSchool)
+          map.addLayer(pnfp)
+          map.addLayer(pfp)
+        });
+    });
+    </script>
+</body>
+
+</html>
