@@ -18,23 +18,23 @@ var xAxis = d3.axisBottom()
 var yAxis = d3.axisLeft()
 		.scale(y);
   
-var color = d3.scaleOrdinal(d3.schemeCategory20);
+var color = d3.scaleOrdinal(d3.schemeCategory10);
 var symbols = d3.scaleOrdinal(d3.symbols);
 
 // creates a generator for symbols
 var symbol = d3.symbol().size(100);  
   
-var svg = d3.select("body").append("svg")
+var svg = d3.select("main").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  var tooltip = d3.select("body").append("div")
+  var tooltip = d3.select("main").append("div")
 					.attr("class", "tooltip")
 					.style("opacity", 0);
 
-d3.csv('mapData2.csv', function(error, data){
+d3.csv('data/scatterData.csv', function(error, data){
 	data.forEach(function(d){
     d.SAT_AVG = +d.SAT_AVG;
     d.ADM_RATE  = +d.ADM_RATE;
