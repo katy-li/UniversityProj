@@ -1,93 +1,58 @@
-/**
- * Helper function to select stock data
- * Returns an array of values
- * @param {array} rows
- * @param {integer} index
- * index 0 - Date
- * index 1 - Open
- * index 2 - High
- * index 3 - Low
- * index 4 - Close
- * index 5 - Volume
- */
+var data = Plotly.d3.csv('/data/Tuition.csv', function(err, rows){
+   function unpack(rows, key) {
+       return rows.map(function(row) { return row[key]; });
+   }
+    var states = unpack(rows, 'State'),
+    Avg_Tuitionfee_In = unpack(rows, 'Avg_Tuitionfee_In'),
+    Avg_Tuitionfee_Out = unpack(rows, 'Avg_Tuitionfee_Out'),
+    Avg_Debt_Mdn = unpack(rows, 'Avg_Debt_Mdn')
+console.log(Avg_Tuitionfee_In)
+var labels = ['Avg_Tuitionfee_In', 'Avg_Tuitionfee_Out']
 
-// var labels = ['Avg_Tuitionfee_In', 'Avg_Tuitionfee_Out']
-
-// var data = Plotly.d3.csv('bubble.csv',  (err, rows) => {
-
-//     var trace1{
-//         type: 'bar',
-//         name: 'in_tuition',
-//         x: data.map(r => r.State),
-//         y: data.map(r => r.Avg_Tuitionfee_In)
-//       };
-//     var trace2{
-//         type:'bar',
-//         name:'out_tuition',
-//         x: data.map(r => r.State),
-//         y: data.map(r=> r.Avg_Tuitionfee_Out)
-//     };
-// });
-// var data1 = [trace1, trace2];
-// var layout = {barmode: 'stack'};
-// Plotly.newPlot('myDiv', data, layout);
-// });
-
-
-// // Create the Traces
-// var data = Plotly.d3.csv('bubble.csv')
-// console.log(data)
-
-// var trace1 = {
-//     x: data.State,
-//     y: data.Avg_Tuitionfee_In,
-//     mode: "markers",
-//     type: "bar",
-//     name: "in_tuition"
-//   };
-  
-// var trace2 = {
-//     x: data.State,
-//     y: data.Avg_Tuitionfee_Out,
-//     mode: "markers",
-//     type: "bar",
-//     name: "out_tuition"
-//   };
-
-//   // Create the data array for the plot
-//   var data1 = [trace1, trace2];
-  
-//   // Define the plot layout
-//   var layout = 
-//     {barmode: 'stack'};
-  
-//   // Plot the chart to a div tag with id "plot"
-//   Plotly.newPlot("myDiv", data1, layout);
-  
-var trace1 = {
-    x: ['CA', 'NY', 'IL','FL','HI'],
-    y: [28360, 27239, 26307,17919,11983],
-    name: 'Avg In State Tuition',
-    type: 'bar'
-  };
-  
-  var trace2 = {
-    x: ['CA', 'NY', 'IL','FL','HI'],
-    y: [34175, 30574, 28696,23264,20731],
-    name: 'Avg Out of State',
-    type: 'bar'
-  };
-
-  var trace3 = {
-  x: ['CA', 'NY', 'IL','FL','HI'],
-  y: [16928, 17235, 17820, 14314,11250],
-  mode: 'markers+lines',
-  type: 'scatter',
-  name:'Avg Debt'
-};
+// var data = Plotly.d3.csv('/data/Tuition.csv',function(err, rows){
+//   function unpack(rows, key) {
+//       return rows.map(function(row) { return row[key]; });
+//   }
+    var trace1 ={
+        type: 'bar',
+        name: 'in_tuition',
+        x: states,
+        y: Avg_Tuitionfee_In,
+        mode: 'markers',
+        marker: {
+          color: 'rgb(47,151,119)'
+        }
+    };
+    var trace2 = {
+      type:'bar',
+      name:'out_tuition',
+      x: states,
+      y: Avg_Tuitionfee_Out,
+      mode: 'markers',
+        marker: {
+        color: 'rgb(96,120,186)'
+        }
+    };
+    var trace3 ={
+      type:'line',
+      name: 'Avg_Debt',
+      x: states,
+      y: Avg_Debt_Mdn,
+      marker: {
+        color: 'rgb(189,74,102)',
+        size: 8
+      },
+      line: {
+        color: 'rgb(189,74,102)',
+        width: 4
+      }
+    }
+    data1 = [trace1, trace2,trace3];
+    var options = {
+      displayModeBar: false
+    };
+    var layout = {barmode: 'stack'};
+    Plotly.newPlot('myDiv', data1, layout,options);
+  });
 
 
-
-var data = [trace1, trace2, trace3];
-  
-Plotly.newPlot('myDiv', data);
