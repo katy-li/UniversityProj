@@ -2,20 +2,110 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Bubble bubble_chart</title>
   <meta name="description" content="Using D3v4 to create a Bubble chart. Based on NYT visualization">
   <meta name="author" content="Jim Vallandingham">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="css/reset.css">
-  <link rel="stylesheet" href="css/bubble_chart.css">
+  <link rel="stylesheet" href="static/css/reset.css">
+  <link rel="stylesheet" href="static/css/bubble_chart.css">
+  <title>University Stuff</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="static/css/style.css">
+  <link rel="shortcut icon" href="#">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+</head>
 </head>
 <body>
+  <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="index.html"><i class="fas fa-graduation-cap"></i> UNIVERSITY RESEARCH
+    </a>
+  </nav>
+
+  <!-- side nav bar-->
+  <div class = "container-fluid">
+    <div class = "row">
+      <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+        <div class="side-bar-sticky">
+          <ul class="nav flex-column mb-2">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.html">
+              <!--HOME-->
+                <i class="fas fa-home"></i> &nbsp HOME
+                  <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <!--CHARTS-->
+              <span>CHARTS</span>
+            </h5>
+            <li class="nav-item">
+              <a class="nav-link active" href="scatter.html">
+                <i class="fas fa-glasses"></i> &nbsp AVG SAT BY AVG ADMISSION
+                  <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="stacked.html">
+                <i class="fas fa-dollar-sign"></i> &nbsp AVG TUITION BY STATE
+                  <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="donut.html">
+                <i class="fab fa-codiepie"></i> &nbsp HIGHEST DEGREE OFFERED
+                  <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="bubble.html">
+                <i class="fas fa-skull-crossbones"></i> &nbsp STUDENT DEBT BY STATE
+                  <span class="sr-only">(current)</span>
+              </a>
+            <h5 class="sidebar-heading d-flex justify-content-between
+            align-items-center px-3 mt-4 mb-1 text-muted">
+            <!--MAP-->
+              <span>MAPS</span>
+            </h5>
+            <li class="nav-item">
+              <a class="nav-link active" href="map.html">
+                <i class="fas fa-globe-americas"></i> &nbsp MAP
+                  <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <h5 class="sidebar-heading d-flex justify-content-between
+            align-items-center px-3 mt-4 mb-1 text-muted">
+            </li>
+            <h5 class="sidebar-heading d-flex justify-content-between
+            align-items-center px-3 mt-4 mb-1 text-muted">
+            <!--EXPENDITURES-->
+              <span>RESEARCH EXPENDITURES</span>
+            </h5>
+            <li class="nav-item">
+              <a class="nav-link active" href="time.html">
+                <i class="fas fa-clock"></i> &nbsp TIMESERIES
+                  <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="timetable.html">
+                <i class="fas fa-table"></i> &nbsp EXPENDITURE TABLE
+                  <span class="sr-only">(current)</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+  <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
   <div class="container">
-    <h1>Student Debt by State</h1>
+    <h1>Edtimated Student Debt by State</h1>
     <div id="toolbar">
-      <a href="#" id="all" class="button active">All Grants</a>
-      <a href="#" id="year" class="button">Grants By Year</a>
+      <a href="#" id="all" class="button active">2016-2017</a>
     </div>
     <div id="vis"></div>
 
@@ -27,8 +117,8 @@
   </div>
 
   <script src="//d3js.org/d3.v4.min.js"></script>
-  <script src="src/tooltip.js"></script>
-  <script src="src/bubble_chart.js"></script>
+  <script src="static/js/tooltip.js"></script>
+  <script src="static/js/bubble_chart.js"></script>
 
   <!-- PLEASE REMOVE AFTER CLONING -->
   <script>

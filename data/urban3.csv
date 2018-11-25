@@ -1,0 +1,41 @@
+id,value,trueValue,color
+University,,,
+University.Private-for-profit,,,
+University.Private-for-profit.City: Large,5.085,1017,#2f9777
+University.Private-for-profit.City: Midsize,2.47,494,#6078ba
+University.Private-for-profit.City: Small,2.47,494,#a15b39
+University.Private-for-profit.Rural: Distant,0.04,8,#6a7a2f
+University.Private-for-profit.Rural: Fringe,0.255,51,#bd4a66
+University.Private-for-profit.Rural: Remote,0.005,1,#b04e8e
+University.Private-for-profit.Suburb: Large,6.225,1245,#c18427
+University.Private-for-profit.Suburb: Midsize,0.505,101,#6978e2
+University.Private-for-profit.Suburb: Small,0.25,50,#5fa335
+University.Private-for-profit.Town: Distant,0.435,87,#d64734
+University.Private-for-profit.Town: Fringe,0.125,25,#6f3eb5
+University.Private-for-profit.Town: Remote,0.485,97,#c951c8
+University.Private-not-for-profit, ,,
+University.Private-not-for-profit.City: Large,2.75,550,#2f9777
+University.Private-not-for-profit.City: Midsize,1.225,245,#6078ba
+University.Private-not-for-profit.City: Small,1.18,236,#a15b39
+University.Private-not-for-profit.Rural: Distant,0.22,44,#6a7a2f
+University.Private-not-for-profit.Rural: Fringe,0.41,82,#bd4a66
+University.Private-not-for-profit.Rural: Remote,0.11,22,#b04e8e
+University.Private-not-for-profit.Suburb: Large,2.285,457,#c18427
+University.Private-not-for-profit.Suburb: Midsize,0.195,39,#6978e2
+University.Private-not-for-profit.Suburb: Small,0.145,29,#5fa335
+University.Private-not-for-profit.Town: Distant,0.695,139,#d64734
+University.Private-not-for-profit.Town: Fringe,0.235,47,#6f3eb5
+University.Private-not-for-profit.Town: Remote,0.32,64,#c951c8
+University.Public, ,,
+University.Public.City: Large,1.35,270,#2f9777
+University.Public.City: Midsize,1.05,210,#6078ba
+University.Public.City: Small,1.41,282,#a15b39
+University.Public.Rural: Distant,0.365,73,#6a7a2f
+University.Public.Rural: Fringe,1.36,272,#bd4a66
+University.Public.Rural: Remote,0.205,41,#b04e8e
+University.Public.Suburb: Large,1.63,326,#c18427
+University.Public.Suburb: Midsize,0.39,78,#6978e2
+University.Public.Suburb: Small,0.3,60,#5fa335
+University.Public.Town: Distant,1.005,201,#d64734
+University.Public.Town: Fringe,0.28,56,#6f3eb5
+University.Public.Town: Remote,1.19,238,#c951c8
