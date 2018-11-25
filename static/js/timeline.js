@@ -1,4 +1,4 @@
-Plotly.d3.csv('NSF_expenditures_time.csv', function(err, rows){
+Plotly.d3.csv('data/NSF_expenditures_filtered.csv', function(err, rows){
     function unpack(rows, key) {
         return rows.map(function(row) { return row[key]; });
     }
@@ -11,7 +11,7 @@ Plotly.d3.csv('NSF_expenditures_time.csv', function(err, rows){
     listofDisc = [],
     currentCountry,
     currentExp = [],
-    currentYear = [],
+    currentYear = [];
     TotalExp = [];
 
   for (var i = 0; i < AllSchools.length; i++ ){
@@ -26,27 +26,35 @@ Plotly.d3.csv('NSF_expenditures_time.csv', function(err, rows){
     }
   }
 
-  function getDiscData(chosenDisc) {
-    for (var i = 0 ; i < AllDisc.length ; i++){
-      if (  AllDisc[i] === chosenDisc ) {
-      } 
-    }
-  };
+  // function getDiscData(chosenDisc) {
+  //   for (var i = 0 ; i < AllDisc.length ; i++){
+  //     if (  AllDisc[i] === chosenDisc ) {
+  //     } 
+  //   }
+  // };
   
   function getSchoolData(chosenSchool) {
+    var listofDisc = [];
     currentExp = [];
     currentYear = [];
     for (var i = 0 ; i < AllSchools.length ; i++){
       if (  AllSchools[i] === chosenSchool ) {
         currentExp.push(TotalExp[i]);
-        currentYear.push(allYear[i]);
-      } 
+        currentYear.push(allYear[i]);  
+    }
+  }
+    function getDiscData(chosenDisc) {
+      for (var j = 0; j < AllDisc.length; j++ ){
+      if (listofDisc.indexOf(AllDisc[j]) === -1 ){
+        currentExp.push(TotalEp[j]);
+        listofDisc.push(AllDisc[j]);
+      }
+    }
     }
   };
 
 // Default Country Data
-setBubblePlot('Northwestern University');
-  
+setBubblePlot('select your school');
 function setBubblePlot(chosenSchool) {
     getSchoolData(chosenSchool);  
 
@@ -63,7 +71,15 @@ function setBubblePlot(chosenSchool) {
     var data = [trace1];
 
     var layout = {
-      title: 'Expenditures for <br>'+ chosenSchool
+      title: 'Expenditures for <br>'+ chosenSchool,
+      xaxis: {
+        range: [2003,2018],
+        dtick: 1,
+        title: "Year"
+      },
+      // yaxis: {
+      //   scaleanchor: "x",
+      //   title: "Expenditures"}
     };
 
     var options = {
