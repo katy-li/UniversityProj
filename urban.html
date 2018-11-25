@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<head>
+<!-- merge with your head section-->
+  <meta charset="utf-8">
+  <title>University Stuff</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- <link rel="stylesheet" href="static/css/style.css"> -->
+  <link rel="shortcut icon" href="#">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+</head>
+
+<body>
+<!-- take below this-->
+<!-- nave header-->
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="index.html"><i class="fas fa-graduation-cap"></i> UNIVERSITY RESEARCH
+  </a>
+</nav>
+
+<!-- side nav bar-->
+<div class = "container-fluid">
+  <div class = "row">
+    <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+      <div class="side-bar-sticky">
+        <ul class="nav flex-column mb-2">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html">
+            <!--HOME-->
+              <i class="fas fa-home"></i> &nbsp HOME
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <!--CHARTS-->
+            <span>CHARTS</span>
+          </h5>
+          <li class="nav-item">
+            <a class="nav-link active" href="scatter.html">
+              <i class="fas fa-glasses"></i> &nbsp AVG SAT BY AVG ADMISSION
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="stacked.html">
+              <i class="fas fa-dollar-sign"></i> &nbsp AVG TUITION BY STATE
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="donut.html">
+              <i class="fab fa-codiepie"></i> &nbsp HIGHEST DEGREE OFFERED
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="bubble.html">
+              <i class="fas fa-skull-crossbones"></i> &nbsp STUDENT DEBT BY STATE
+                <span class="sr-only">(current)</span>
+            </a>
+          <h5 class="sidebar-heading d-flex justify-content-between
+          align-items-center px-3 mt-4 mb-1 text-muted">
+          <li class="nav-item">
+           <a class="nav-link active" href="urban.html">
+             <i class="fas fa-city"></i> &nbsp CAMPUS SETTING
+               <span class="sr-only">(current)</span>
+           </a>
+          </li> 
+          <!--MAP-->
+            <span>MAPS</span>
+          </h5>
+          <li class="nav-item">
+            <a class="nav-link active" href="map.html">
+              <i class="fas fa-globe-americas"></i> &nbsp MAP
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <h5 class="sidebar-heading d-flex justify-content-between
+          align-items-center px-3 mt-4 mb-1 text-muted">
+          </li>
+          <h5 class="sidebar-heading d-flex justify-content-between
+          align-items-center px-3 mt-4 mb-1 text-muted">
+          <!--EXPENDITURES-->
+            <span>RESEARCH EXPENDITURES</span>
+          </h5>
+          <li class="nav-item">
+            <a class="nav-link active" href="time.html">
+              <i class="fas fa-clock"></i> &nbsp TIMESERIES
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="timetable.html">
+              <i class="fas fa-table"></i> &nbsp EXPENDITURE TABLE
+                <span class="sr-only">(current)</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+
+<main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+
+
+<meta charset="utf-8">
+<style>
+    .link {
+        fill: none;
+        stroke: #555;
+        stroke-opacity: 0.4;
+        stroke-width: 1px;
+    }
+  text {
+        font-family: "Arial Black", Gadget, sans-serif;
+        fill: black;
+        font-weight: bold;
+        font-size: 14px
+    }
+
+    .xAxis .tick text{
+        fill: black;
+    }
+    .grid .tick line{
+        stroke: grey;
+        stroke-dasharray: 5, 10;
+        opacity: 0.7;
+    }
+    .grid path{
+        stroke-width: 0;
+    }
+
+    .node circle {
+        fill: #999;
+    }
+    .node--internal circle {
+        fill: #555;
+    }
+    .node--internal text {
+        font-size: 16px;
+        text-shadow: 0 2px 0 #fff, 0 -2px 0 #fff, 2px 0 0 #fff, -2px 0 0 #fff;
+    }
+    .node--leaf text {
+        fill: black;
+    }
+    .ballG text {
+        fill: white;
+    }
+
+    /* .shadow {
+        -webkit-filter: drop-shadow( -1.5px -1.5px 1.5px #000 );
+        filter: drop-shadow( -1.5px -1.5px 1.5px #000 ); -->
+    } */
+</style>
+
+<body>
+    <svg width="1800" height="1400"></svg>
+</body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+    // main svg
+    var svg = d3.select("svg"),
+            width = +svg.attr("width"),
+            height = +svg.attr("height"),
+            g = svg.append("g").attr("transform", "translate(20,0)");       // move right 20px.
+
+    // x-scale and x-axis
+    var experienceName = ["", "200", "400", "600", "800", "1000"];
+    var formatSkillPoints = function (d) {
+        return experienceName[d % 6];
+    }
+    var xScale =  d3.scaleLinear()
+            .domain([0,5])
+            .range([0, 1000]);
+
+    var xAxis = d3.axisTop()
+            .scale(xScale)
+            .ticks(4)
+            .tickFormat(formatSkillPoints);
+
+    // Setting up a way to handle the data
+    var tree = d3.cluster()                 // This D3 API method setup the Dendrogram datum position.
+            .size([height, width - 1060])    // Total width - bar chart width = Dendrogram chart width
+            .separation(function separate(a, b) {
+                return a.parent == b.parent            // 2 levels tree grouping for category
+                || a.parent.parent == b.parent
+                || a.parent == b.parent.parent ? 0.4 : 0.8;
+            });
+
+    var stratify = d3.stratify()            // This D3 API method gives cvs file flat data array dimensions.
+            .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
+
+    d3.csv("data/urban3.csv", row, function(error, data) {
+        if (error) throw error;
+
+        var root = stratify(data);
+        tree(root);
+
+        // Draw every datum a line connecting to its parent.
+        var link = g.selectAll(".link")
+                .data(root.descendants().slice(1))
+                .enter().append("path")
+                .attr("class", "link")
+                .attr("d", function(d) {
+                    return "M" + d.y + "," + d.x
+                            + "C" + (d.parent.y + 100) + "," + d.x
+                            + " " + (d.parent.y + 100) + "," + d.parent.x
+                            + " " + d.parent.y + "," + d.parent.x;
+                });
+
+        // Setup position for every datum; Applying different css classes to parents and leafs.
+        var node = g.selectAll(".node")
+                .data(root.descendants())
+                .enter().append("g")
+                .attr("class", function(d) { return "node" + (d.children ? " node--internal" : " node--leaf"); })
+                .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+
+        // Draw every datum a small circle.
+        node.append("circle")
+                .attr("r", 4);
+
+        // Setup G for every leaf datum.
+        var leafNodeG = g.selectAll(".node--leaf")
+                .append("g")
+                .attr("class", "node--leaf-g")
+                .attr("transform", "translate(" + 8 + "," + -13 + ")");
+
+        leafNodeG.append("rect")
+                .attr("class","shadow")
+                .style("fill", function (d) {return d.data.color;})
+                .attr("width", 2)
+                .attr("height", 30)
+                .attr("rx", 2)
+                .attr("ry", 2)
+                .transition()
+                    .duration(800)
+                    .attr("width", function (d) {return xScale(d.data.value);});
+
+        leafNodeG.append("text")
+                .attr("dy", 19.5)
+                .attr("x", 8)
+                .style("text-anchor", "start")
+                .text(function (d) {
+                    return d.data.id.substring(d.data.id.lastIndexOf(".") + 1);
+                });
+
+        // Write down text for every parent datum
+        var internalNode = g.selectAll(".node--internal");
+        internalNode.append("text")
+                .attr("y", -10)
+                .style("text-anchor", "middle")
+                .text(function (d) {
+                    return d.data.id.substring(d.data.id.lastIndexOf(".") + 1);
+                });
+
+        // Attach axis on top of the first leaf datum.
+        var firstEndNode = g.select(".node--leaf");
+            firstEndNode.insert("g")
+                    .attr("class","xAxis")
+                    .attr("transform", "translate(" + 7 + "," + -14 + ")")
+                    .call(xAxis);
+
+            // tick mark for x-axis
+            firstEndNode.insert("g")
+                    .attr("class", "grid")
+                    .attr("transform", "translate(7," + (height - 15) + ")")
+                    .call(d3.axisBottom()
+                            .scale(xScale)
+                            .ticks(5)
+                            .tickSize(-height, 0, 0)
+                            .tickFormat("")
+                    );
+
+        // Emphasize the y-axis baseline.
+        svg.selectAll(".grid").select("line")
+                .style("stroke-dasharray","20,1")
+                .style("stroke","black");
+
+        // The moving ball
+        var ballG = svg.insert("g")
+                .attr("class","ballG")
+                .attr("transform", "translate(" + 1100 + "," + height/2 + ")");
+        ballG.insert("circle")
+                .attr("class","shadow")
+                .style("fill","steelblue")
+                .attr("r", 5);
+        ballG.insert("text")
+                .style("text-anchor", "middle")
+                .attr("dy",5)
+                .text("0.0");
+
+        // Animation functions for mouse on and off events.
+        d3.selectAll(".node--leaf-g")
+                .on("mouseover", handleMouseOver)
+                .on("mouseout", handleMouseOut);
+
+        function handleMouseOver(d) {
+            var leafG = d3.select(this);
+
+            leafG.select("rect")
+                    .attr("stroke","#4D4D4D")
+                    .attr("stroke-width","2");
+
+
+            var ballGMovement = ballG.transition()
+                    .duration(400)
+                    .attr("transform", "translate(" + (d.y
+                            + xScale(d.data.value) + 90) + ","
+                            + (d.x + 1.5) + ")");
+
+            ballGMovement.select("circle")
+                    .style("fill", d.data.color)
+                    .attr("r", 18);
+
+            ballGMovement.select("text")
+                    .delay(300)
+                    .text(d.data.trueValue);
+        }
+        function handleMouseOut() {
+            var leafG = d3.select(this);
+
+            leafG.select("rect")
+                    .attr("stroke-width","0");
+        }
+
+    });
+
+    function row(d) {
+        return {
+            id: d.id,
+            value: +d.value,
+            trueValue: +d.trueValue,
+            color: d.color
+        };
+    }
+</script>

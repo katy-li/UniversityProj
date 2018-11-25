@@ -371,7 +371,7 @@ function addCommas(nStr) {
 }
 
 // Load the data.
-d3.csv('data/bubble.csv', display);
+d3.csv('data/bubbleData.csv', display);
 
 // setup the buttons.
 setupButtons();
