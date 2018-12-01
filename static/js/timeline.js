@@ -65,7 +65,7 @@ function getDiscData(chosenDisc) {
   console.log(FinalExp);
 };
 
-// Default Country Data
+// Default School Data
 setBubblePlot('select your school');
 function setBubblePlot() {
     getSchoolData(chosenSchool);
