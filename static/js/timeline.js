@@ -1,3 +1,6 @@
+var chosenDisc;
+var chosenSchool;
+
 Plotly.d3.csv('data/NSF_expenditures_filtered.csv', function(err, rows){
     function unpack(rows, key) {
         return rows.map(function(row) { return row[key]; });
@@ -7,22 +10,20 @@ Plotly.d3.csv('data/NSF_expenditures_filtered.csv', function(err, rows){
     AllDisc = unpack(rows, 'AcademicDiscipline'),
     allYear = unpack(rows, 'Year'),
     TotalExp = unpack(rows, 'TotalRDExpenditures'),
+    AllSchools = unpack(rows, 'NSFName'),
     listofSchools = [],
     listofDisc = [],
-    currentCountry,
+    currentSchool,
     currentExp = [],
-    currentYear = [];
-    TotalExp = [];
+    currentYear = [],
+    chosenSchoolList = [],
+    schoolDisc = [],
+    finalExp = [],
+    finalYear = [];
 
   for (var i = 0; i < AllSchools.length; i++ ){
     if (listofSchools.indexOf(AllSchools[i]) === -1 ){
       listofSchools.push(AllSchools[i]);
-    }
-  }
-
-  for (var i = 0; i < AllDisc.length; i++ ){
-    if (listofDisc.indexOf(AllDisc[i]) === -1 ){
-      listofDisc.push(AllDisc[i]);
     }
   }
 
@@ -32,35 +33,47 @@ Plotly.d3.csv('data/NSF_expenditures_filtered.csv', function(err, rows){
   //     } 
   //   }
   // };
+
+for (var i = 0; i < AllDisc.length; i++ ){
+    if (listofDisc.indexOf(AllDisc[i]) === -1 ){
+      listofDisc.push(AllDisc[i]);
+    }
+  }
   
   function getSchoolData(chosenSchool) {
     var listofDisc = [];
     currentExp = [];
     currentYear = [];
     for (var i = 0 ; i < AllSchools.length ; i++){
-      if (  AllSchools[i] === chosenSchool ) {
+      if (  AllSchools[i] === chosenSchool && chosenDisc) {
+        chosenSchoolList.push(AllSchools[i]);
+        schoolDisc.push(AllDisc[i]);
         currentExp.push(TotalExp[i]);
         currentYear.push(allYear[i]);  
-    }
-  }
-    function getDiscData(chosenDisc) {
-      for (var j = 0; j < AllDisc.length; j++ ){
-      if (listofDisc.indexOf(AllDisc[j]) === -1 ){
-        currentExp.push(TotalEp[j]);
-        listofDisc.push(AllDisc[j]);
       }
     }
-    }
   };
+function getDiscData(chosenDisc) {
+  var FinalExp = [];
+  FinalYear = [];
+  for (var i = 0; i < chosenSchoolList.length; i++ ){
+    if (schoolDisc[i] === chosenDisc){
+      finalExp.push(currentExp[i]);
+      finalYear.push(currentYear[i]);
+    }
+  }
+  console.log(FinalExp);
+};
 
 // Default Country Data
 setBubblePlot('select your school');
-function setBubblePlot(chosenSchool) {
-    getSchoolData(chosenSchool);  
+function setBubblePlot() {
+    getSchoolData(chosenSchool);
+    getDiscData(chosenDisc); 
 
     var trace1 = {
-      x: currentYear,
-      y: currentExp,
+      x: finalYear,
+      y: finalExp,
       mode: 'lines+markers',
       marker: {
         size: 12, 
@@ -71,7 +84,7 @@ function setBubblePlot(chosenSchool) {
     var data = [trace1];
 
     var layout = {
-      title: 'Expenditures for <br>'+ chosenSchool,
+      title: 'Expenditures for <br>'+ chosenSchool +' in ' + chosenDisc,
       xaxis: {
         range: [2003,2018],
         dtick: 1,
@@ -85,14 +98,22 @@ function setBubblePlot(chosenSchool) {
     var options = {
       displayModeBar: false
     };
-
-    Plotly.newPlot('plotdiv', data, layout,options);
+    Plotly.newPlot('plotdiv', data, layout, options);
+    // Plotly.react('plotdiv', data, layout, options);
 };
+
+function deleteTrace(divId){
+  Plotly.deleteTraces('plotdiv');
+  var chosenDisc = [];
+};
+
+
   
 var innerContainer = document.querySelector('[data-num="0"'),
     plotEl = innerContainer.querySelector('.plot'),
     schoolSelector = innerContainer.querySelector('.schooldata');
     discSelector = innerContainer.querySelector('.discdata');
+    // button = innerContainer.querySelector('.delete');
 
 function assignOptions(textArray, selector) {
   for (var i = 0; i < textArray.length;  i++) {
@@ -105,10 +126,17 @@ function assignOptions(textArray, selector) {
 assignOptions(listofSchools, schoolSelector);
 assignOptions(listofDisc, discSelector);
 
-
 function updateSchool(){
-    setBubblePlot(schoolSelector.value);
+  chosenSchool = schoolSelector.value;
+  setBubblePlot();
+}
+function updateDisc(){
+  chosenDisc = discSelector.value;
+  setBubblePlot();
 }
   
 schoolSelector.addEventListener('change', updateSchool, false);
+discSelector.addEventListener('change', updateDisc, false);
+// button.addEventListener('delete', button);
+
 });
