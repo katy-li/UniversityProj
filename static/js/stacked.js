@@ -15,7 +15,7 @@ var labels = ['Avg_Tuitionfee_In', 'Avg_Tuitionfee_Out']
 //   }
     var trace1 ={
         type: 'bar',
-        name: 'in_tuition',
+        name: 'In State Tuition',
         x: states,
         y: Avg_Tuitionfee_In,
         mode: 'markers',
@@ -25,7 +25,7 @@ var labels = ['Avg_Tuitionfee_In', 'Avg_Tuitionfee_Out']
     };
     var trace2 = {
       type:'bar',
-      name:'out_tuition',
+      name:'Out of State Tuition',
       x: states,
       y: Avg_Tuitionfee_Out,
       mode: 'markers',
@@ -35,7 +35,7 @@ var labels = ['Avg_Tuitionfee_In', 'Avg_Tuitionfee_Out']
     };
     var trace3 ={
       type:'line',
-      name: 'Avg_Debt',
+      name: 'Avg Debt',
       x: states,
       y: Avg_Debt_Mdn,
       marker: {
